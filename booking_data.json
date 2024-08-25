@@ -1,0 +1,752 @@
+[
+  {
+    "name": "Tribeca Hotel FiDi",
+    "location": "Manhattan, New York",
+    "price": null,
+    "rating": "7.3",
+    "star_rating": 3,
+    "review_count": "6 reviews",
+    "hotel_page_link": "https://www.booking.com/hotel/us/tribeca-fidi.en-gb.html?aid=304142&label=gen173nr-1FCAQoggJCD3NlYXJjaF9uZXcgeW9ya0gJWARobIgBAZgBCbgBB8gBDdgBAegBAfgBA4gCAagCA7gC-dyrtgbAAgHSAiQ5ZTRiOGZiNy1mMjhmLTRjZTgtYjgzMS02ZmUzMzFhZDUxYznYAgXgAgE&sid=14a8f8dee0091dda396f64eb757b88fc&age=0&checkin=2024-09-15&checkout=2024-09-16&dest_id=20088325&dest_type=city&dist=0&do_availability_check=1&group_adults=1&group_children=1&hp_avform=1&hp_group_set=0&no_rooms=1&origin=hp&sb_price_type=total&src=hotel&type=total&#group_recommendation",
+    "rooms_available": 10
+  },
+  {
+    "name": "2 bedrooms with 2 private bathrooms in lovely home",
+    "location": "Harlem, New York",
+    "price": null,
+    "rating": 0,
+    "star_rating": 0,
+    "review_count": 0,
+    "hotel_page_link": "https://www.booking.com/hotel/us/2-bedrooms-with-2-private-bathrooms-in-lovely-home.en-gb.html?aid=304142&label=gen173nr-1FCAQoggJCD3NlYXJjaF9uZXcgeW9ya0gJWARobIgBAZgBCbgBB8gBDdgBAegBAfgBA4gCAagCA7gC-dyrtgbAAgHSAiQ5ZTRiOGZiNy1mMjhmLTRjZTgtYjgzMS02ZmUzMzFhZDUxYznYAgXgAgE&ucfs=1&arphpl=1&checkin=2024-08-29&checkout=2024-08-29&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&srpvid=127e3d3cf4741054&srepoch=1724575370&from=searchresults",
+    "rooms_available": 0
+  },
+  {
+    "name": "West Side YMCA",
+    "location": "Upper West Side, New York",
+    "price": null,
+    "rating": "6.6",
+    "star_rating": 3,
+    "review_count": "14,367 reviews",
+    "hotel_page_link": "https://www.booking.com/hotel/us/west-side-ymca.en-gb.html?aid=304142&label=gen173nr-1FCAQoggJCD3NlYXJjaF9uZXcgeW9ya0gJWARobIgBAZgBCbgBB8gBDdgBAegBAfgBA4gCAagCA7gC-dyrtgbAAgHSAiQ5ZTRiOGZiNy1mMjhmLTRjZTgtYjgzMS02ZmUzMzFhZDUxYznYAgXgAgE&ucfs=1&arphpl=1&checkin=2024-08-29&checkout=2024-08-29&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&srpvid=127e3d3cf4741054&srepoch=1724575370&from_sustainable_property_sr=1&from=searchresults",
+    "rooms_available": 0
+  },
+  {
+    "name": "Riverside Tower Hotel",
+    "location": "Upper West Side, New York",
+    "price": null,
+    "rating": "8.4",
+    "star_rating": 2,
+    "review_count": "1,009 reviews",
+    "hotel_page_link": "https://www.booking.com/hotel/us/riverside-tower.en-gb.html?aid=304142&label=gen173nr-1FCAQoggJCD3NlYXJjaF9uZXcgeW9ya0gJWARobIgBAZgBCbgBB8gBDdgBAegBAfgBA4gCAagCA7gC-dyrtgbAAgHSAiQ5ZTRiOGZiNy1mMjhmLTRjZTgtYjgzMS02ZmUzMzFhZDUxYznYAgXgAgE&ucfs=1&arphpl=1&checkin=2024-08-29&checkout=2024-08-29&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&srpvid=127e3d3cf4741054&srepoch=1724575370&from=searchresults",
+    "rooms_available": 0
+  },
+  {
+    "name": "Hyatt Place New York City/Times Square",
+    "location": "Hell's Kitchen, New York",
+    "price": null,
+    "rating": "7.6",
+    "star_rating": 4,
+    "review_count": "21,805 reviews",
+    "hotel_page_link": "https://www.booking.com/hotel/us/hyatt-place-new-york-city-times-square.en-gb.html?aid=304142&label=gen173nr-1FCAQoggJCD3NlYXJjaF9uZXcgeW9ya0gJWARobIgBAZgBCbgBB8gBDdgBAegBAfgBA4gCAagCA7gC-dyrtgbAAgHSAiQ5ZTRiOGZiNy1mMjhmLTRjZTgtYjgzMS02ZmUzMzFhZDUxYznYAgXgAgE&ucfs=1&arphpl=1&checkin=2024-08-29&checkout=2024-08-29&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&srpvid=127e3d3cf4741054&srepoch=1724575370&from_sustainable_property_sr=1&from=searchresults",
+    "rooms_available": 0
+  },
+  {
+    "name": "Pod Times Square",
+    "location": "Hell's Kitchen, New York",
+    "price": null,
+    "rating": "8.1",
+    "star_rating": 3,
+    "review_count": "22,671 reviews",
+    "hotel_page_link": "https://www.booking.com/hotel/us/pod-times-square.en-gb.html?aid=304142&label=gen173nr-1FCAQoggJCD3NlYXJjaF9uZXcgeW9ya0gJWARobIgBAZgBCbgBB8gBDdgBAegBAfgBA4gCAagCA7gC-dyrtgbAAgHSAiQ5ZTRiOGZiNy1mMjhmLTRjZTgtYjgzMS02ZmUzMzFhZDUxYznYAgXgAgE&ucfs=1&arphpl=1&checkin=2024-08-29&checkout=2024-08-29&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&srpvid=127e3d3cf4741054&srepoch=1724575370&from_sustainable_property_sr=1&from=searchresults",
+    "rooms_available": 0
+  },
+  {
+    "name": "DoubleTree by Hilton Hotel New York City - Chelsea",
+    "location": "Chelsea, New York",
+    "price": null,
+    "rating": "7.2",
+    "star_rating": 4,
+    "review_count": "2,944 reviews",
+    "hotel_page_link": "https://www.booking.com/hotel/us/doubletree-new-york-city-chelsea.en-gb.html?aid=304142&label=gen173nr-1FCAQoggJCD3NlYXJjaF9uZXcgeW9ya0gJWARobIgBAZgBCbgBB8gBDdgBAegBAfgBA4gCAagCA7gC-dyrtgbAAgHSAiQ5ZTRiOGZiNy1mMjhmLTRjZTgtYjgzMS02ZmUzMzFhZDUxYznYAgXgAgE&ucfs=1&arphpl=1&checkin=2024-08-29&checkout=2024-08-29&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&srpvid=127e3d3cf4741054&srepoch=1724575370&from_sustainable_property_sr=1&from=searchresults",
+    "rooms_available": 0
+  },
+  {
+    "name": "Carlton Arms Hotel",
+    "location": "Gramercy, New York",
+    "price": null,
+    "rating": "7.4",
+    "star_rating": 2,
+    "review_count": "2,086 reviews",
+    "hotel_page_link": "https://www.booking.com/hotel/us/carlton-arms.en-gb.html?aid=304142&label=gen173nr-1FCAQoggJCD3NlYXJjaF9uZXcgeW9ya0gJWARobIgBAZgBCbgBB8gBDdgBAegBAfgBA4gCAagCA7gC-dyrtgbAAgHSAiQ5ZTRiOGZiNy1mMjhmLTRjZTgtYjgzMS02ZmUzMzFhZDUxYznYAgXgAgE&ucfs=1&arphpl=1&checkin=2024-08-29&checkout=2024-08-29&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&srpvid=127e3d3cf4741054&srepoch=1724575370&from=searchresults",
+    "rooms_available": 0
+  },
+  {
+    "name": "Hotel Moca NYC",
+    "location": "Washington Heights, New York",
+    "price": null,
+    "rating": "4.8",
+    "star_rating": 3,
+    "review_count": "158 reviews",
+    "hotel_page_link": "https://www.booking.com/hotel/us/moca-nyc.en-gb.html?aid=304142&label=gen173nr-1FCAQoggJCD3NlYXJjaF9uZXcgeW9ya0gJWARobIgBAZgBCbgBB8gBDdgBAegBAfgBA4gCAagCA7gC-dyrtgbAAgHSAiQ5ZTRiOGZiNy1mMjhmLTRjZTgtYjgzMS02ZmUzMzFhZDUxYznYAgXgAgE&ucfs=1&arphpl=1&checkin=2024-08-29&checkout=2024-08-29&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&srpvid=127e3d3cf4741054&srepoch=1724575370&from=searchresults",
+    "rooms_available": 0
+  },
+  {
+    "name": "Conveniently located in the heart of the city",
+    "location": "Hell's Kitchen, New York",
+    "price": null,
+    "rating": 0,
+    "star_rating": 0,
+    "review_count": 0,
+    "hotel_page_link": "https://www.booking.com/hotel/us/conveniently-located-in-the-heart-of-the-city.en-gb.html?aid=304142&label=gen173nr-1FCAQoggJCD3NlYXJjaF9uZXcgeW9ya0gJWARobIgBAZgBCbgBB8gBDdgBAegBAfgBA4gCAagCA7gC-dyrtgbAAgHSAiQ5ZTRiOGZiNy1mMjhmLTRjZTgtYjgzMS02ZmUzMzFhZDUxYznYAgXgAgE&ucfs=1&arphpl=1&checkin=2024-08-29&checkout=2024-08-29&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&srpvid=127e3d3cf4741054&srepoch=1724575370&from=searchresults",
+    "rooms_available": 0
+  },
+  {
+    "name": "Hotel 31 Extended Stay",
+    "location": "NoMad, New York",
+    "price": null,
+    "rating": "8.1",
+    "star_rating": 2,
+    "review_count": "167 reviews",
+    "hotel_page_link": "https://www.booking.com/hotel/us/31.en-gb.html?aid=304142&label=gen173nr-1FCAQoggJCD3NlYXJjaF9uZXcgeW9ya0gJWARobIgBAZgBCbgBB8gBDdgBAegBAfgBA4gCAagCA7gC-dyrtgbAAgHSAiQ5ZTRiOGZiNy1mMjhmLTRjZTgtYjgzMS02ZmUzMzFhZDUxYznYAgXgAgE&ucfs=1&arphpl=1&checkin=2024-08-29&checkout=2024-08-29&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=11&sr_order=popularity&srpvid=127e3d3cf4741054&srepoch=1724575370&from=searchresults",
+    "rooms_available": 0
+  },
+  {
+    "name": "Doubletree By Hilton New York Times Square West",
+    "location": "Hell's Kitchen, New York",
+    "price": null,
+    "rating": "7.1",
+    "star_rating": 4,
+    "review_count": "13,504 reviews",
+    "hotel_page_link": "https://www.booking.com/hotel/us/doubletree-by-hilton-new-york-times-square-west.en-gb.html?aid=304142&label=gen173nr-1FCAQoggJCD3NlYXJjaF9uZXcgeW9ya0gJWARobIgBAZgBCbgBB8gBDdgBAegBAfgBA4gCAagCA7gC-dyrtgbAAgHSAiQ5ZTRiOGZiNy1mMjhmLTRjZTgtYjgzMS02ZmUzMzFhZDUxYznYAgXgAgE&ucfs=1&arphpl=1&checkin=2024-08-29&checkout=2024-08-29&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=12&sr_order=popularity&srpvid=127e3d3cf4741054&srepoch=1724575370&from_sustainable_property_sr=1&from=searchresults",
+    "rooms_available": 0
+  },
+  {
+    "name": "Hyatt Grand Central New York",
+    "location": "Midtown East, New York",
+    "price": null,
+    "rating": "7.2",
+    "star_rating": 4,
+    "review_count": "2,852 reviews",
+    "hotel_page_link": "https://www.booking.com/hotel/us/grand-hyatt-new-york.en-gb.html?aid=304142&label=gen173nr-1FCAQoggJCD3NlYXJjaF9uZXcgeW9ya0gJWARobIgBAZgBCbgBB8gBDdgBAegBAfgBA4gCAagCA7gC-dyrtgbAAgHSAiQ5ZTRiOGZiNy1mMjhmLTRjZTgtYjgzMS02ZmUzMzFhZDUxYznYAgXgAgE&ucfs=1&arphpl=1&checkin=2024-08-29&checkout=2024-08-29&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=13&hapos=13&sr_order=popularity&srpvid=127e3d3cf4741054&srepoch=1724575370&from_sustainable_property_sr=1&from=searchresults",
+    "rooms_available": 0
+  },
+  {
+    "name": "Sheraton New York Times Square Hotel",
+    "location": "Manhattan, New York",
+    "price": null,
+    "rating": "6.9",
+    "star_rating": 4,
+    "review_count": "1,637 reviews",
+    "hotel_page_link": "https://www.booking.com/hotel/us/sheraton-new-york-towers.en-gb.html?aid=304142&label=gen173nr-1FCAQoggJCD3NlYXJjaF9uZXcgeW9ya0gJWARobIgBAZgBCbgBB8gBDdgBAegBAfgBA4gCAagCA7gC-dyrtgbAAgHSAiQ5ZTRiOGZiNy1mMjhmLTRjZTgtYjgzMS02ZmUzMzFhZDUxYznYAgXgAgE&ucfs=1&arphpl=1&checkin=2024-08-29&checkout=2024-08-29&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=14&hapos=14&sr_order=popularity&srpvid=127e3d3cf4741054&srepoch=1724575370&from_sustainable_property_sr=1&from=searchresults",
+    "rooms_available": 0
+  },
+  {
+    "name": "Aura Hotel Times Square Newly Renovated",
+    "location": "Manhattan, New York",
+    "price": null,
+    "rating": "8.2",
+    "star_rating": 4,
+    "review_count": "84 reviews",
+    "hotel_page_link": "https://www.booking.com/hotel/us/aura-hotel-time-square.en-gb.html?aid=304142&label=gen173nr-1FCAQoggJCD3NlYXJjaF9uZXcgeW9ya0gJWARobIgBAZgBCbgBB8gBDdgBAegBAfgBA4gCAagCA7gC-dyrtgbAAgHSAiQ5ZTRiOGZiNy1mMjhmLTRjZTgtYjgzMS02ZmUzMzFhZDUxYznYAgXgAgE&ucfs=1&arphpl=1&checkin=2024-08-29&checkout=2024-08-29&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=15&hapos=15&sr_order=popularity&srpvid=127e3d3cf4741054&srepoch=1724575370&from_sustainable_property_sr=1&from=searchresults",
+    "rooms_available": 0
+  },
+  {
+    "name": "DoubleTree by Hilton New York Downtown",
+    "location": "Manhattan, New York",
+    "price": null,
+    "rating": "7.4",
+    "star_rating": 4,
+    "review_count": "4,027 reviews",
+    "hotel_page_link": "https://www.booking.com/hotel/us/doubletree-new-york-city-financial-district.en-gb.html?aid=304142&label=gen173nr-1FCAQoggJCD3NlYXJjaF9uZXcgeW9ya0gJWARobIgBAZgBCbgBB8gBDdgBAegBAfgBA4gCAagCA7gC-dyrtgbAAgHSAiQ5ZTRiOGZiNy1mMjhmLTRjZTgtYjgzMS02ZmUzMzFhZDUxYznYAgXgAgE&ucfs=1&arphpl=1&checkin=2024-08-29&checkout=2024-08-29&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=16&hapos=16&sr_order=popularity&srpvid=127e3d3cf4741054&srepoch=1724575370&from_sustainable_property_sr=1&from=searchresults",
+    "rooms_available": 0
+  },
+  {
+    "name": "The Chelsean New York",
+    "location": "Chelsea, New York",
+    "price": null,
+    "rating": "7.1",
+    "star_rating": 3,
+    "review_count": "2,014 reviews",
+    "hotel_page_link": "https://www.booking.com/hotel/us/four-points-by-sheraton-manhattan-chelsea.en-gb.html?aid=304142&label=gen173nr-1FCAQoggJCD3NlYXJjaF9uZXcgeW9ya0gJWARobIgBAZgBCbgBB8gBDdgBAegBAfgBA4gCAagCA7gC-dyrtgbAAgHSAiQ5ZTRiOGZiNy1mMjhmLTRjZTgtYjgzMS02ZmUzMzFhZDUxYznYAgXgAgE&ucfs=1&arphpl=1&checkin=2024-08-29&checkout=2024-08-29&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=17&hapos=17&sr_order=popularity&srpvid=127e3d3cf4741054&srepoch=1724575370&from_sustainable_property_sr=1&from=searchresults",
+    "rooms_available": 0
+  },
+  {
+    "name": "Hotel Edison Times Square",
+    "location": "Manhattan, New York",
+    "price": null,
+    "rating": "7.4",
+    "star_rating": 4,
+    "review_count": "14,998 reviews",
+    "hotel_page_link": "https://www.booking.com/hotel/us/edison-triumph-group.en-gb.html?aid=304142&label=gen173nr-1FCAQoggJCD3NlYXJjaF9uZXcgeW9ya0gJWARobIgBAZgBCbgBB8gBDdgBAegBAfgBA4gCAagCA7gC-dyrtgbAAgHSAiQ5ZTRiOGZiNy1mMjhmLTRjZTgtYjgzMS02ZmUzMzFhZDUxYznYAgXgAgE&ucfs=1&arphpl=1&checkin=2024-08-29&checkout=2024-08-29&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=18&hapos=18&sr_order=popularity&srpvid=127e3d3cf4741054&srepoch=1724575370&from_sustainable_property_sr=1&from=searchresults",
+    "rooms_available": 0
+  },
+  {
+    "name": "Margaritaville Resort Times Square",
+    "location": "Manhattan, New York",
+    "price": null,
+    "rating": "8.7",
+    "star_rating": 4,
+    "review_count": "3,471 reviews",
+    "hotel_page_link": "https://www.booking.com/hotel/us/margaritaville-resort-times-square.en-gb.html?aid=304142&label=gen173nr-1FCAQoggJCD3NlYXJjaF9uZXcgeW9ya0gJWARobIgBAZgBCbgBB8gBDdgBAegBAfgBA4gCAagCA7gC-dyrtgbAAgHSAiQ5ZTRiOGZiNy1mMjhmLTRjZTgtYjgzMS02ZmUzMzFhZDUxYznYAgXgAgE&ucfs=1&arphpl=1&checkin=2024-08-29&checkout=2024-08-29&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=19&hapos=19&sr_order=popularity&srpvid=127e3d3cf4741054&srepoch=1724575370&from_sustainable_property_sr=1&from=searchresults",
+    "rooms_available": 0
+  },
+  {
+    "name": "DoubleTree by Hilton New York Times Square South",
+    "location": "Hell's Kitchen, New York",
+    "price": null,
+    "rating": "8.0",
+    "star_rating": 4,
+    "review_count": "6,247 reviews",
+    "hotel_page_link": "https://www.booking.com/hotel/us/doubletree-hilton-new-york-times-square.en-gb.html?aid=304142&label=gen173nr-1FCAQoggJCD3NlYXJjaF9uZXcgeW9ya0gJWARobIgBAZgBCbgBB8gBDdgBAegBAfgBA4gCAagCA7gC-dyrtgbAAgHSAiQ5ZTRiOGZiNy1mMjhmLTRjZTgtYjgzMS02ZmUzMzFhZDUxYznYAgXgAgE&ucfs=1&arphpl=1&checkin=2024-08-29&checkout=2024-08-29&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=20&hapos=20&sr_order=popularity&srpvid=127e3d3cf4741054&srepoch=1724575370&from_sustainable_property_sr=1&from=searchresults",
+    "rooms_available": 0
+  },
+  {
+    "name": "DoubleTree by Hilton New York Midtown Fifth Ave",
+    "location": "Manhattan, New York",
+    "price": null,
+    "rating": "7.6",
+    "star_rating": 4,
+    "review_count": "1,013 reviews",
+    "hotel_page_link": "https://www.booking.com/hotel/us/doubletree-hilton-new-york-midtown-fifth-avenue.en-gb.html?aid=304142&label=gen173nr-1FCAQoggJCD3NlYXJjaF9uZXcgeW9ya0gJWARobIgBAZgBCbgBB8gBDdgBAegBAfgBA4gCAagCA7gC-dyrtgbAAgHSAiQ5ZTRiOGZiNy1mMjhmLTRjZTgtYjgzMS02ZmUzMzFhZDUxYznYAgXgAgE&ucfs=1&arphpl=1&checkin=2024-08-29&checkout=2024-08-29&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=21&hapos=21&sr_order=popularity&srpvid=127e3d3cf4741054&srepoch=1724575370&from_sustainable_property_sr=1&from=searchresults",
+    "rooms_available": 0
+  },
+  {
+    "name": "Millennium Hotel Broadway Times Square",
+    "location": "Manhattan, New York",
+    "price": null,
+    "rating": "7.3",
+    "star_rating": 4,
+    "review_count": "7,800 reviews",
+    "hotel_page_link": "https://www.booking.com/hotel/us/millennium-broadway.en-gb.html?aid=304142&label=gen173nr-1FCAQoggJCD3NlYXJjaF9uZXcgeW9ya0gJWARobIgBAZgBCbgBB8gBDdgBAegBAfgBA4gCAagCA7gC-dyrtgbAAgHSAiQ5ZTRiOGZiNy1mMjhmLTRjZTgtYjgzMS02ZmUzMzFhZDUxYznYAgXgAgE&ucfs=1&arphpl=1&checkin=2024-08-29&checkout=2024-08-29&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=22&hapos=22&sr_order=popularity&srpvid=127e3d3cf4741054&srepoch=1724575370&from=searchresults",
+    "rooms_available": 0
+  },
+  {
+    "name": "Courtyard New York Downtown Manhattan/Financial District",
+    "location": "Manhattan, New York",
+    "price": null,
+    "rating": "7.5",
+    "star_rating": 3,
+    "review_count": "1,866 reviews",
+    "hotel_page_link": "https://www.booking.com/hotel/us/courtyard-new-york-downtown-manhattan-financial-district.en-gb.html?aid=304142&label=gen173nr-1FCAQoggJCD3NlYXJjaF9uZXcgeW9ya0gJWARobIgBAZgBCbgBB8gBDdgBAegBAfgBA4gCAagCA7gC-dyrtgbAAgHSAiQ5ZTRiOGZiNy1mMjhmLTRjZTgtYjgzMS02ZmUzMzFhZDUxYznYAgXgAgE&ucfs=1&arphpl=1&checkin=2024-08-29&checkout=2024-08-29&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=23&hapos=23&sr_order=popularity&srpvid=127e3d3cf4741054&srepoch=1724575370&from_sustainable_property_sr=1&from=searchresults",
+    "rooms_available": 0
+  },
+  {
+    "name": "Hilton Garden Inn New York Central Park South-Midtown West",
+    "location": "Manhattan, New York",
+    "price": null,
+    "rating": "7.3",
+    "star_rating": 3,
+    "review_count": "8,846 reviews",
+    "hotel_page_link": "https://www.booking.com/hotel/us/hilton-garden-inn-central-park-south.en-gb.html?aid=304142&label=gen173nr-1FCAQoggJCD3NlYXJjaF9uZXcgeW9ya0gJWARobIgBAZgBCbgBB8gBDdgBAegBAfgBA4gCAagCA7gC-dyrtgbAAgHSAiQ5ZTRiOGZiNy1mMjhmLTRjZTgtYjgzMS02ZmUzMzFhZDUxYznYAgXgAgE&ucfs=1&arphpl=1&checkin=2024-08-29&checkout=2024-08-29&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=24&hapos=24&sr_order=popularity&srpvid=127e3d3cf4741054&srepoch=1724575370&from=searchresults",
+    "rooms_available": 0
+  },
+  {
+    "name": "Fairfield Inn by Marriott New York Manhattan/Financial District",
+    "location": "Manhattan, New York",
+    "price": null,
+    "rating": "7.5",
+    "star_rating": 3,
+    "review_count": "3,644 reviews",
+    "hotel_page_link": "https://www.booking.com/hotel/us/fairfield-inn-by-marriott-new-york-manhattan-financial-district.en-gb.html?aid=304142&label=gen173nr-1FCAQoggJCD3NlYXJjaF9uZXcgeW9ya0gJWARobIgBAZgBCbgBB8gBDdgBAegBAfgBA4gCAagCA7gC-dyrtgbAAgHSAiQ5ZTRiOGZiNy1mMjhmLTRjZTgtYjgzMS02ZmUzMzFhZDUxYznYAgXgAgE&ucfs=1&arphpl=1&checkin=2024-08-29&checkout=2024-08-29&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=25&hapos=25&sr_order=popularity&srpvid=127e3d3cf4741054&srepoch=1724575370&from_sustainable_property_sr=1&from=searchresults",
+    "rooms_available": 0
+  },
+  {
+    "name": "Millennium Downtown New York",
+    "location": "Manhattan, New York",
+    "price": null,
+    "rating": "7.3",
+    "star_rating": 4,
+    "review_count": "5,375 reviews",
+    "hotel_page_link": "https://www.booking.com/hotel/us/millenium-downtown-new-york.en-gb.html?aid=304142&label=gen173nr-1FCAQoggJCD3NlYXJjaF9uZXcgeW9ya0gJWARobIgBAZgBCbgBB8gBDdgBAegBAfgBA4gCAagCA7gC-dyrtgbAAgHSAiQ5ZTRiOGZiNy1mMjhmLTRjZTgtYjgzMS02ZmUzMzFhZDUxYznYAgXgAgE&ucfs=1&arphpl=1&checkin=2024-08-29&checkout=2024-08-29&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=26&sr_order=popularity&srpvid=127e3d3cf4741054&srepoch=1724575365&from_sustainable_property_sr=1&from=searchresults",
+    "rooms_available": 0
+  },
+  {
+    "name": "Club Quarters Hotel Grand Central, New York",
+    "location": "Midtown East, New York",
+    "price": null,
+    "rating": "8.1",
+    "star_rating": 4,
+    "review_count": "4,656 reviews",
+    "hotel_page_link": "https://www.booking.com/hotel/us/club-quarters-grand-central.en-gb.html?aid=304142&label=gen173nr-1FCAQoggJCD3NlYXJjaF9uZXcgeW9ya0gJWARobIgBAZgBCbgBB8gBDdgBAegBAfgBA4gCAagCA7gC-dyrtgbAAgHSAiQ5ZTRiOGZiNy1mMjhmLTRjZTgtYjgzMS02ZmUzMzFhZDUxYznYAgXgAgE&ucfs=1&arphpl=1&checkin=2024-08-29&checkout=2024-08-29&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=27&sr_order=popularity&srpvid=127e3d3cf4741054&srepoch=1724575365&from_sustainable_property_sr=1&from=searchresults",
+    "rooms_available": 0
+  },
+  {
+    "name": "Hyatt Place NYC Chelsea",
+    "location": "Chelsea, New York",
+    "price": null,
+    "rating": "7.9",
+    "star_rating": 4,
+    "review_count": "16,793 reviews",
+    "hotel_page_link": "https://www.booking.com/hotel/us/hyatt-place-new-york-chelsea.en-gb.html?aid=304142&label=gen173nr-1FCAQoggJCD3NlYXJjaF9uZXcgeW9ya0gJWARobIgBAZgBCbgBB8gBDdgBAegBAfgBA4gCAagCA7gC-dyrtgbAAgHSAiQ5ZTRiOGZiNy1mMjhmLTRjZTgtYjgzMS02ZmUzMzFhZDUxYznYAgXgAgE&ucfs=1&arphpl=1&checkin=2024-08-29&checkout=2024-08-29&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=28&sr_order=popularity&srpvid=127e3d3cf4741054&srepoch=1724575365&from_sustainable_property_sr=1&from=searchresults",
+    "rooms_available": 0
+  },
+  {
+    "name": "Courtyard by Marriott Times Square West",
+    "location": "Hell's Kitchen, New York",
+    "price": null,
+    "rating": "8.2",
+    "star_rating": 3,
+    "review_count": "2,974 reviews",
+    "hotel_page_link": "https://www.booking.com/hotel/us/new-york-manhattan-times-square-west.en-gb.html?aid=304142&label=gen173nr-1FCAQoggJCD3NlYXJjaF9uZXcgeW9ya0gJWARobIgBAZgBCbgBB8gBDdgBAegBAfgBA4gCAagCA7gC-dyrtgbAAgHSAiQ5ZTRiOGZiNy1mMjhmLTRjZTgtYjgzMS02ZmUzMzFhZDUxYznYAgXgAgE&ucfs=1&arphpl=1&checkin=2024-08-29&checkout=2024-08-29&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=29&sr_order=popularity&srpvid=127e3d3cf4741054&srepoch=1724575365&from_sustainable_property_sr=1&from=searchresults",
+    "rooms_available": 0
+  },
+  {
+    "name": "Motto By Hilton New York City Times Square",
+    "location": "Manhattan, New York",
+    "price": null,
+    "rating": "8.1",
+    "star_rating": 3,
+    "review_count": "690 reviews",
+    "hotel_page_link": "https://www.booking.com/hotel/us/motto-by-hilton-new-york-city-times-square.en-gb.html?aid=304142&label=gen173nr-1FCAQoggJCD3NlYXJjaF9uZXcgeW9ya0gJWARobIgBAZgBCbgBB8gBDdgBAegBAfgBA4gCAagCA7gC-dyrtgbAAgHSAiQ5ZTRiOGZiNy1mMjhmLTRjZTgtYjgzMS02ZmUzMzFhZDUxYznYAgXgAgE&ucfs=1&arphpl=1&checkin=2024-08-29&checkout=2024-08-29&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=30&sr_order=popularity&srpvid=127e3d3cf4741054&srepoch=1724575365&from_sustainable_property_sr=1&from=searchresults",
+    "rooms_available": 0
+  },
+  {
+    "name": "Crowne Plaza Times Square Manhattan, an IHG Hotel",
+    "location": "Manhattan, New York",
+    "price": null,
+    "rating": "7.7",
+    "star_rating": 4,
+    "review_count": "7,737 reviews",
+    "hotel_page_link": "https://www.booking.com/hotel/us/crowne-plaza-times-square.en-gb.html?aid=304142&label=gen173nr-1FCAQoggJCD3NlYXJjaF9uZXcgeW9ya0gJWARobIgBAZgBCbgBB8gBDdgBAegBAfgBA4gCAagCA7gC-dyrtgbAAgHSAiQ5ZTRiOGZiNy1mMjhmLTRjZTgtYjgzMS02ZmUzMzFhZDUxYznYAgXgAgE&ucfs=1&arphpl=1&checkin=2024-08-29&checkout=2024-08-29&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=31&sr_order=popularity&srpvid=127e3d3cf4741054&srepoch=1724575365&from_sustainable_property_sr=1&from=searchresults",
+    "rooms_available": 0
+  },
+  {
+    "name": "SoHo 54",
+    "location": "SoHo, New York",
+    "price": null,
+    "rating": "7.3",
+    "star_rating": 3,
+    "review_count": "3,262 reviews",
+    "hotel_page_link": "https://www.booking.com/hotel/us/soho-54-hotel.en-gb.html?aid=304142&label=gen173nr-1FCAQoggJCD3NlYXJjaF9uZXcgeW9ya0gJWARobIgBAZgBCbgBB8gBDdgBAegBAfgBA4gCAagCA7gC-dyrtgbAAgHSAiQ5ZTRiOGZiNy1mMjhmLTRjZTgtYjgzMS02ZmUzMzFhZDUxYznYAgXgAgE&ucfs=1&arphpl=1&checkin=2024-08-29&checkout=2024-08-29&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=32&sr_order=popularity&srpvid=127e3d3cf4741054&srepoch=1724575365&from=searchresults",
+    "rooms_available": 0
+  },
+  {
+    "name": "Riu Plaza New York Times Square",
+    "location": "Hell's Kitchen, New York",
+    "price": null,
+    "rating": "8.5",
+    "star_rating": 4,
+    "review_count": "7,474 reviews",
+    "hotel_page_link": "https://www.booking.com/hotel/us/riu-plaza-new-york-times-square.en-gb.html?aid=304142&label=gen173nr-1FCAQoggJCD3NlYXJjaF9uZXcgeW9ya0gJWARobIgBAZgBCbgBB8gBDdgBAegBAfgBA4gCAagCA7gC-dyrtgbAAgHSAiQ5ZTRiOGZiNy1mMjhmLTRjZTgtYjgzMS02ZmUzMzFhZDUxYznYAgXgAgE&ucfs=1&arphpl=1&checkin=2024-08-29&checkout=2024-08-29&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=33&sr_order=popularity&srpvid=127e3d3cf4741054&srepoch=1724575365&from_sustainable_property_sr=1&from=searchresults",
+    "rooms_available": 0
+  },
+  {
+    "name": "Renaissance New York Harlem Hotel",
+    "location": "Harlem, New York",
+    "price": null,
+    "rating": "8.1",
+    "star_rating": 3,
+    "review_count": "741 reviews",
+    "hotel_page_link": "https://www.booking.com/hotel/us/renaissance-new-york-harlem.en-gb.html?aid=304142&label=gen173nr-1FCAQoggJCD3NlYXJjaF9uZXcgeW9ya0gJWARobIgBAZgBCbgBB8gBDdgBAegBAfgBA4gCAagCA7gC-dyrtgbAAgHSAiQ5ZTRiOGZiNy1mMjhmLTRjZTgtYjgzMS02ZmUzMzFhZDUxYznYAgXgAgE&ucfs=1&arphpl=1&checkin=2024-08-29&checkout=2024-08-29&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=34&sr_order=popularity&srpvid=127e3d3cf4741054&srepoch=1724575365&from=searchresults",
+    "rooms_available": 0
+  },
+  {
+    "name": "World Center Hotel",
+    "location": "Manhattan, New York",
+    "price": null,
+    "rating": "8.2",
+    "star_rating": 4,
+    "review_count": "3,635 reviews",
+    "hotel_page_link": "https://www.booking.com/hotel/us/world-center.en-gb.html?aid=304142&label=gen173nr-1FCAQoggJCD3NlYXJjaF9uZXcgeW9ya0gJWARobIgBAZgBCbgBB8gBDdgBAegBAfgBA4gCAagCA7gC-dyrtgbAAgHSAiQ5ZTRiOGZiNy1mMjhmLTRjZTgtYjgzMS02ZmUzMzFhZDUxYznYAgXgAgE&ucfs=1&arphpl=1&checkin=2024-08-29&checkout=2024-08-29&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=35&sr_order=popularity&srpvid=127e3d3cf4741054&srepoch=1724575365&from_sustainable_property_sr=1&from=searchresults",
+    "rooms_available": 0
+  },
+  {
+    "name": "The New Yorker, A Wyndham Hotel",
+    "location": "Hell's Kitchen, New York",
+    "price": null,
+    "rating": "7.7",
+    "star_rating": 4,
+    "review_count": "15,612 reviews",
+    "hotel_page_link": "https://www.booking.com/hotel/us/new-yorker-ramada-plaza.en-gb.html?aid=304142&label=gen173nr-1FCAQoggJCD3NlYXJjaF9uZXcgeW9ya0gJWARobIgBAZgBCbgBB8gBDdgBAegBAfgBA4gCAagCA7gC-dyrtgbAAgHSAiQ5ZTRiOGZiNy1mMjhmLTRjZTgtYjgzMS02ZmUzMzFhZDUxYznYAgXgAgE&ucfs=1&arphpl=1&checkin=2024-08-29&checkout=2024-08-29&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=36&sr_order=popularity&srpvid=127e3d3cf4741054&srepoch=1724575365&from=searchresults",
+    "rooms_available": 0
+  },
+  {
+    "name": "Hilton Garden Inn New York/Manhattan-Chelsea",
+    "location": "Chelsea, New York",
+    "price": null,
+    "rating": "7.9",
+    "star_rating": 3,
+    "review_count": "4,355 reviews",
+    "hotel_page_link": "https://www.booking.com/hotel/us/hilton-garden-inn-new-york-chelsea.en-gb.html?aid=304142&label=gen173nr-1FCAQoggJCD3NlYXJjaF9uZXcgeW9ya0gJWARobIgBAZgBCbgBB8gBDdgBAegBAfgBA4gCAagCA7gC-dyrtgbAAgHSAiQ5ZTRiOGZiNy1mMjhmLTRjZTgtYjgzMS02ZmUzMzFhZDUxYznYAgXgAgE&ucfs=1&arphpl=1&checkin=2024-08-29&checkout=2024-08-29&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=37&sr_order=popularity&srpvid=127e3d3cf4741054&srepoch=1724575365&from_sustainable_property_sr=1&from=searchresults",
+    "rooms_available": 0
+  },
+  {
+    "name": "Riu Plaza Manhattan Times Square",
+    "location": "Manhattan, New York",
+    "price": null,
+    "rating": "8.6",
+    "star_rating": 4,
+    "review_count": "12,382 reviews",
+    "hotel_page_link": "https://www.booking.com/hotel/us/riu-plaza-manhattan-times-square.en-gb.html?aid=304142&label=gen173nr-1FCAQoggJCD3NlYXJjaF9uZXcgeW9ya0gJWARobIgBAZgBCbgBB8gBDdgBAegBAfgBA4gCAagCA7gC-dyrtgbAAgHSAiQ5ZTRiOGZiNy1mMjhmLTRjZTgtYjgzMS02ZmUzMzFhZDUxYznYAgXgAgE&ucfs=1&arphpl=1&checkin=2024-08-29&checkout=2024-08-29&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=13&hapos=38&sr_order=popularity&srpvid=127e3d3cf4741054&srepoch=1724575365&from_sustainable_property_sr=1&from=searchresults",
+    "rooms_available": 0
+  },
+  {
+    "name": "Holiday Inn Express New York City Chelsea, an IHG Hotel",
+    "location": "Chelsea, New York",
+    "price": null,
+    "rating": "7.9",
+    "star_rating": 3,
+    "review_count": "3,921 reviews",
+    "hotel_page_link": "https://www.booking.com/hotel/us/holiday-inn-express.en-gb.html?aid=304142&label=gen173nr-1FCAQoggJCD3NlYXJjaF9uZXcgeW9ya0gJWARobIgBAZgBCbgBB8gBDdgBAegBAfgBA4gCAagCA7gC-dyrtgbAAgHSAiQ5ZTRiOGZiNy1mMjhmLTRjZTgtYjgzMS02ZmUzMzFhZDUxYznYAgXgAgE&ucfs=1&arphpl=1&checkin=2024-08-29&checkout=2024-08-29&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=14&hapos=39&sr_order=popularity&srpvid=127e3d3cf4741054&srepoch=1724575365&from=searchresults",
+    "rooms_available": 0
+  },
+  {
+    "name": "HGU New York",
+    "location": "Manhattan, New York",
+    "price": null,
+    "rating": "7.6",
+    "star_rating": 4,
+    "review_count": "2,046 reviews",
+    "hotel_page_link": "https://www.booking.com/hotel/us/grandunionhotel.en-gb.html?aid=304142&label=gen173nr-1FCAQoggJCD3NlYXJjaF9uZXcgeW9ya0gJWARobIgBAZgBCbgBB8gBDdgBAegBAfgBA4gCAagCA7gC-dyrtgbAAgHSAiQ5ZTRiOGZiNy1mMjhmLTRjZTgtYjgzMS02ZmUzMzFhZDUxYznYAgXgAgE&ucfs=1&arphpl=1&checkin=2024-08-29&checkout=2024-08-29&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=15&hapos=40&sr_order=popularity&srpvid=127e3d3cf4741054&srepoch=1724575365&from=searchresults",
+    "rooms_available": 0
+  },
+  {
+    "name": "TownePlace Suites by Marriott New York Manhattan/Chelsea",
+    "location": "Chelsea, New York",
+    "price": null,
+    "rating": "8.1",
+    "star_rating": 4,
+    "review_count": "6,774 reviews",
+    "hotel_page_link": "https://www.booking.com/hotel/us/towneplace-suites-by-marriott-new-york-manhattan-chelsea.en-gb.html?aid=304142&label=gen173nr-1FCAQoggJCD3NlYXJjaF9uZXcgeW9ya0gJWARobIgBAZgBCbgBB8gBDdgBAegBAfgBA4gCAagCA7gC-dyrtgbAAgHSAiQ5ZTRiOGZiNy1mMjhmLTRjZTgtYjgzMS02ZmUzMzFhZDUxYznYAgXgAgE&ucfs=1&arphpl=1&checkin=2024-08-29&checkout=2024-08-29&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=16&hapos=41&sr_order=popularity&srpvid=127e3d3cf4741054&srepoch=1724575365&from_sustainable_property_sr=1&from=searchresults",
+    "rooms_available": 0
+  },
+  {
+    "name": "Hampton Inn Times Square Central",
+    "location": "Manhattan, New York",
+    "price": null,
+    "rating": "8.3",
+    "star_rating": 3,
+    "review_count": "2,969 reviews",
+    "hotel_page_link": "https://www.booking.com/hotel/us/hampton-inn-times-square-central.en-gb.html?aid=304142&label=gen173nr-1FCAQoggJCD3NlYXJjaF9uZXcgeW9ya0gJWARobIgBAZgBCbgBB8gBDdgBAegBAfgBA4gCAagCA7gC-dyrtgbAAgHSAiQ5ZTRiOGZiNy1mMjhmLTRjZTgtYjgzMS02ZmUzMzFhZDUxYznYAgXgAgE&ucfs=1&arphpl=1&checkin=2024-08-29&checkout=2024-08-29&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=17&hapos=42&sr_order=popularity&srpvid=127e3d3cf4741054&srepoch=1724575365&from_sustainable_property_sr=1&from=searchresults",
+    "rooms_available": 0
+  },
+  {
+    "name": "New York Hilton Midtown",
+    "location": "Manhattan, New York",
+    "price": null,
+    "rating": "7.4",
+    "star_rating": 3,
+    "review_count": "1,921 reviews",
+    "hotel_page_link": "https://www.booking.com/hotel/us/hilton-new-york.en-gb.html?aid=304142&label=gen173nr-1FCAQoggJCD3NlYXJjaF9uZXcgeW9ya0gJWARobIgBAZgBCbgBB8gBDdgBAegBAfgBA4gCAagCA7gC-dyrtgbAAgHSAiQ5ZTRiOGZiNy1mMjhmLTRjZTgtYjgzMS02ZmUzMzFhZDUxYznYAgXgAgE&ucfs=1&arphpl=1&checkin=2024-08-29&checkout=2024-08-29&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=18&hapos=43&sr_order=popularity&srpvid=127e3d3cf4741054&srepoch=1724575365&from_sustainable_property_sr=1&from=searchresults",
+    "rooms_available": 0
+  },
+  {
+    "name": "Pod 39",
+    "location": "Murray Hill, New York",
+    "price": null,
+    "rating": "8.2",
+    "star_rating": 3,
+    "review_count": "12,232 reviews",
+    "hotel_page_link": "https://www.booking.com/hotel/us/the-pod-39th-street.en-gb.html?aid=304142&label=gen173nr-1FCAQoggJCD3NlYXJjaF9uZXcgeW9ya0gJWARobIgBAZgBCbgBB8gBDdgBAegBAfgBA4gCAagCA7gC-dyrtgbAAgHSAiQ5ZTRiOGZiNy1mMjhmLTRjZTgtYjgzMS02ZmUzMzFhZDUxYznYAgXgAgE&ucfs=1&arphpl=1&checkin=2024-08-29&checkout=2024-08-29&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=19&hapos=44&sr_order=popularity&srpvid=127e3d3cf4741054&srepoch=1724575365&from_sustainable_property_sr=1&from=searchresults",
+    "rooms_available": 0
+  },
+  {
+    "name": "45 Times Square Hotel",
+    "location": "Manhattan, New York",
+    "price": null,
+    "rating": "8.3",
+    "star_rating": 3,
+    "review_count": "2,174 reviews",
+    "hotel_page_link": "https://www.booking.com/hotel/us/45-times-square-hotel.en-gb.html?aid=304142&label=gen173nr-1FCAQoggJCD3NlYXJjaF9uZXcgeW9ya0gJWARobIgBAZgBCbgBB8gBDdgBAegBAfgBA4gCAagCA7gC-dyrtgbAAgHSAiQ5ZTRiOGZiNy1mMjhmLTRjZTgtYjgzMS02ZmUzMzFhZDUxYznYAgXgAgE&ucfs=1&arphpl=1&checkin=2024-08-29&checkout=2024-08-29&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=20&hapos=45&sr_order=popularity&srpvid=127e3d3cf4741054&srepoch=1724575365&from_sustainable_property_sr=1&from=searchresults",
+    "rooms_available": 0
+  },
+  {
+    "name": "East Harlem Hostel",
+    "location": "East Harlem, New York",
+    "price": null,
+    "rating": "8.1",
+    "star_rating": 1,
+    "review_count": "108 reviews",
+    "hotel_page_link": "https://www.booking.com/hotel/us/the-neighborhood-district.en-gb.html?aid=304142&label=gen173nr-1FCAQoggJCD3NlYXJjaF9uZXcgeW9ya0gJWARobIgBAZgBCbgBB8gBDdgBAegBAfgBA4gCAagCA7gC-dyrtgbAAgHSAiQ5ZTRiOGZiNy1mMjhmLTRjZTgtYjgzMS02ZmUzMzFhZDUxYznYAgXgAgE&ucfs=1&arphpl=1&checkin=2024-08-29&checkout=2024-08-29&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=21&hapos=46&sr_order=popularity&srpvid=127e3d3cf4741054&srepoch=1724575365&from_sustainable_property_sr=1&from=searchresults",
+    "rooms_available": 0
+  },
+  {
+    "name": "Candlewood Suites NYC -Times Square, an IHG Hotel",
+    "location": "Hell's Kitchen, New York",
+    "price": null,
+    "rating": "7.6",
+    "star_rating": 3,
+    "review_count": "2,048 reviews",
+    "hotel_page_link": "https://www.booking.com/hotel/us/candlewood-suites-new-york-city.en-gb.html?aid=304142&label=gen173nr-1FCAQoggJCD3NlYXJjaF9uZXcgeW9ya0gJWARobIgBAZgBCbgBB8gBDdgBAegBAfgBA4gCAagCA7gC-dyrtgbAAgHSAiQ5ZTRiOGZiNy1mMjhmLTRjZTgtYjgzMS02ZmUzMzFhZDUxYznYAgXgAgE&ucfs=1&arphpl=1&checkin=2024-08-29&checkout=2024-08-29&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=22&hapos=47&sr_order=popularity&srpvid=127e3d3cf4741054&srepoch=1724575365&from=searchresults",
+    "rooms_available": 0
+  },
+  {
+    "name": "Element Times Square West",
+    "location": "Hell's Kitchen, New York",
+    "price": null,
+    "rating": "7.8",
+    "star_rating": 4,
+    "review_count": "7,576 reviews",
+    "hotel_page_link": "https://www.booking.com/hotel/us/element-times-square.en-gb.html?aid=304142&label=gen173nr-1FCAQoggJCD3NlYXJjaF9uZXcgeW9ya0gJWARobIgBAZgBCbgBB8gBDdgBAegBAfgBA4gCAagCA7gC-dyrtgbAAgHSAiQ5ZTRiOGZiNy1mMjhmLTRjZTgtYjgzMS02ZmUzMzFhZDUxYznYAgXgAgE&ucfs=1&arphpl=1&checkin=2024-08-29&checkout=2024-08-29&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=23&hapos=48&sr_order=popularity&srpvid=127e3d3cf4741054&srepoch=1724575365&from_sustainable_property_sr=1&from=searchresults",
+    "rooms_available": 0
+  },
+  {
+    "name": "Four Points by Sheraton New York Downtown",
+    "location": "Manhattan, New York",
+    "price": null,
+    "rating": "7.4",
+    "star_rating": 3,
+    "review_count": "2,213 reviews",
+    "hotel_page_link": "https://www.booking.com/hotel/us/four-points-by-sheraton-financial-district.en-gb.html?aid=304142&label=gen173nr-1FCAQoggJCD3NlYXJjaF9uZXcgeW9ya0gJWARobIgBAZgBCbgBB8gBDdgBAegBAfgBA4gCAagCA7gC-dyrtgbAAgHSAiQ5ZTRiOGZiNy1mMjhmLTRjZTgtYjgzMS02ZmUzMzFhZDUxYznYAgXgAgE&ucfs=1&arphpl=1&checkin=2024-08-29&checkout=2024-08-29&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=24&hapos=49&sr_order=popularity&srpvid=127e3d3cf4741054&srepoch=1724575365&from_sustainable_property_sr=1&from=searchresults",
+    "rooms_available": 0
+  },
+  {
+    "name": "Hilton Garden Inn NYC Financial Center/Manhattan Downtown",
+    "location": "Manhattan, New York",
+    "price": null,
+    "rating": "8.4",
+    "star_rating": 3,
+    "review_count": "5,208 reviews",
+    "hotel_page_link": "https://www.booking.com/hotel/us/hilton-garden-inn-financial-center-manhattan-downtown-ny.en-gb.html?aid=304142&label=gen173nr-1FCAQoggJCD3NlYXJjaF9uZXcgeW9ya0gJWARobIgBAZgBCbgBB8gBDdgBAegBAfgBA4gCAagCA7gC-dyrtgbAAgHSAiQ5ZTRiOGZiNy1mMjhmLTRjZTgtYjgzMS02ZmUzMzFhZDUxYznYAgXgAgE&ucfs=1&arphpl=1&checkin=2024-08-29&checkout=2024-08-29&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=25&hapos=50&sr_order=popularity&srpvid=127e3d3cf4741054&srepoch=1724575365&from_sustainable_property_sr=1&from=searchresults",
+    "rooms_available": 0
+  },
+  {
+    "name": "Home2 Suites By Hilton New York Times Square",
+    "location": "Manhattan, New York",
+    "price": null,
+    "rating": "7.7",
+    "star_rating": 3,
+    "review_count": "925 reviews",
+    "hotel_page_link": "https://www.booking.com/hotel/us/home2-suites-by-hilton-new-york-times-square.en-gb.html?aid=304142&label=gen173nr-1FCAQoggJCD3NlYXJjaF9uZXcgeW9ya0gJWARobIgBAZgBCbgBB8gBDdgBAegBAfgBA4gCAagCA7gC-dyrtgbAAgHSAiQ5ZTRiOGZiNy1mMjhmLTRjZTgtYjgzMS02ZmUzMzFhZDUxYznYAgXgAgE&ucfs=1&arphpl=1&checkin=2024-08-29&checkout=2024-08-29&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=51&sr_order=popularity&srpvid=127e3d3cf4741054&srepoch=1724575370&from=searchresults",
+    "rooms_available": 0
+  },
+  {
+    "name": "Motto by Hilton New York City Chelsea",
+    "location": "Chelsea, New York",
+    "price": null,
+    "rating": "8.6",
+    "star_rating": 4,
+    "review_count": "2,778 reviews",
+    "hotel_page_link": "https://www.booking.com/hotel/us/motto-by-hilton-new-york-city-chelsea.en-gb.html?aid=304142&label=gen173nr-1FCAQoggJCD3NlYXJjaF9uZXcgeW9ya0gJWARobIgBAZgBCbgBB8gBDdgBAegBAfgBA4gCAagCA7gC-dyrtgbAAgHSAiQ5ZTRiOGZiNy1mMjhmLTRjZTgtYjgzMS02ZmUzMzFhZDUxYznYAgXgAgE&ucfs=1&arphpl=1&checkin=2024-08-29&checkout=2024-08-29&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=52&sr_order=popularity&srpvid=127e3d3cf4741054&srepoch=1724575370&from_sustainable_property_sr=1&from=searchresults",
+    "rooms_available": 0
+  },
+  {
+    "name": "Wingate by Wyndham New York Midtown South/5th Ave",
+    "location": "Manhattan, New York",
+    "price": null,
+    "rating": "8.1",
+    "star_rating": 3,
+    "review_count": "2,199 reviews",
+    "hotel_page_link": "https://www.booking.com/hotel/us/wingate-by-wyndham-manhattan-chelsea.en-gb.html?aid=304142&label=gen173nr-1FCAQoggJCD3NlYXJjaF9uZXcgeW9ya0gJWARobIgBAZgBCbgBB8gBDdgBAegBAfgBA4gCAagCA7gC-dyrtgbAAgHSAiQ5ZTRiOGZiNy1mMjhmLTRjZTgtYjgzMS02ZmUzMzFhZDUxYznYAgXgAgE&ucfs=1&arphpl=1&checkin=2024-08-29&checkout=2024-08-29&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=53&sr_order=popularity&srpvid=127e3d3cf4741054&srepoch=1724575370&from_sustainable_property_sr=1&from=searchresults",
+    "rooms_available": 0
+  },
+  {
+    "name": "Hotel Shocard Broadway, Times Square",
+    "location": "Manhattan, New York",
+    "price": null,
+    "rating": "7.3",
+    "star_rating": 3,
+    "review_count": "2,555 reviews",
+    "hotel_page_link": "https://www.booking.com/hotel/us/41-at-times-square.en-gb.html?aid=304142&label=gen173nr-1FCAQoggJCD3NlYXJjaF9uZXcgeW9ya0gJWARobIgBAZgBCbgBB8gBDdgBAegBAfgBA4gCAagCA7gC-dyrtgbAAgHSAiQ5ZTRiOGZiNy1mMjhmLTRjZTgtYjgzMS02ZmUzMzFhZDUxYznYAgXgAgE&ucfs=1&arphpl=1&checkin=2024-08-29&checkout=2024-08-29&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=54&sr_order=popularity&srpvid=127e3d3cf4741054&srepoch=1724575370&from=searchresults",
+    "rooms_available": 0
+  },
+  {
+    "name": "Hilton Club The Quin New York",
+    "location": "Manhattan, New York",
+    "price": null,
+    "rating": "8.6",
+    "star_rating": 3,
+    "review_count": "1,898 reviews",
+    "hotel_page_link": "https://www.booking.com/hotel/us/the-quin.en-gb.html?aid=304142&label=gen173nr-1FCAQoggJCD3NlYXJjaF9uZXcgeW9ya0gJWARobIgBAZgBCbgBB8gBDdgBAegBAfgBA4gCAagCA7gC-dyrtgbAAgHSAiQ5ZTRiOGZiNy1mMjhmLTRjZTgtYjgzMS02ZmUzMzFhZDUxYznYAgXgAgE&ucfs=1&arphpl=1&checkin=2024-08-29&checkout=2024-08-29&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=55&sr_order=popularity&srpvid=127e3d3cf4741054&srepoch=1724575370&from_sustainable_property_sr=1&from=searchresults",
+    "rooms_available": 0
+  },
+  {
+    "name": "Holiday Inn Wall Street, an IHG Hotel",
+    "location": "Manhattan, New York",
+    "price": null,
+    "rating": "7.0",
+    "star_rating": 3,
+    "review_count": "961 reviews",
+    "hotel_page_link": "https://www.booking.com/hotel/us/reserve.en-gb.html?aid=304142&label=gen173nr-1FCAQoggJCD3NlYXJjaF9uZXcgeW9ya0gJWARobIgBAZgBCbgBB8gBDdgBAegBAfgBA4gCAagCA7gC-dyrtgbAAgHSAiQ5ZTRiOGZiNy1mMjhmLTRjZTgtYjgzMS02ZmUzMzFhZDUxYznYAgXgAgE&ucfs=1&arphpl=1&checkin=2024-08-29&checkout=2024-08-29&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=56&sr_order=popularity&srpvid=127e3d3cf4741054&srepoch=1724575370&from=searchresults",
+    "rooms_available": 0
+  },
+  {
+    "name": "Hampton Inn Manhattan-35th St Empire State Bldg",
+    "location": "Manhattan, New York",
+    "price": null,
+    "rating": "8.2",
+    "star_rating": 3,
+    "review_count": "6,819 reviews",
+    "hotel_page_link": "https://www.booking.com/hotel/us/hampton-inn-manhattan-35th-st-empire-state-bldg.en-gb.html?aid=304142&label=gen173nr-1FCAQoggJCD3NlYXJjaF9uZXcgeW9ya0gJWARobIgBAZgBCbgBB8gBDdgBAegBAfgBA4gCAagCA7gC-dyrtgbAAgHSAiQ5ZTRiOGZiNy1mMjhmLTRjZTgtYjgzMS02ZmUzMzFhZDUxYznYAgXgAgE&ucfs=1&arphpl=1&checkin=2024-08-29&checkout=2024-08-29&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=57&sr_order=popularity&srpvid=127e3d3cf4741054&srepoch=1724575370&from_sustainable_property_sr=1&from=searchresults",
+    "rooms_available": 0
+  },
+  {
+    "name": "Holiday Inn Express - Wall Street, an IHG Hotel",
+    "location": "Manhattan, New York",
+    "price": null,
+    "rating": "7.1",
+    "star_rating": 3,
+    "review_count": "2,093 reviews",
+    "hotel_page_link": "https://www.booking.com/hotel/us/holiday-inn-express-new-york-city-wall-street.en-gb.html?aid=304142&label=gen173nr-1FCAQoggJCD3NlYXJjaF9uZXcgeW9ya0gJWARobIgBAZgBCbgBB8gBDdgBAegBAfgBA4gCAagCA7gC-dyrtgbAAgHSAiQ5ZTRiOGZiNy1mMjhmLTRjZTgtYjgzMS02ZmUzMzFhZDUxYznYAgXgAgE&ucfs=1&arphpl=1&checkin=2024-08-29&checkout=2024-08-29&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=58&sr_order=popularity&srpvid=127e3d3cf4741054&srepoch=1724575370&from=searchresults",
+    "rooms_available": 0
+  },
+  {
+    "name": "Hotel 57 by LuxUrban",
+    "location": "Midtown East, New York",
+    "price": null,
+    "rating": "7.3",
+    "star_rating": 4,
+    "review_count": "4,189 reviews",
+    "hotel_page_link": "https://www.booking.com/hotel/us/57-new-york.en-gb.html?aid=304142&label=gen173nr-1FCAQoggJCD3NlYXJjaF9uZXcgeW9ya0gJWARobIgBAZgBCbgBB8gBDdgBAegBAfgBA4gCAagCA7gC-dyrtgbAAgHSAiQ5ZTRiOGZiNy1mMjhmLTRjZTgtYjgzMS02ZmUzMzFhZDUxYznYAgXgAgE&ucfs=1&arphpl=1&checkin=2024-08-29&checkout=2024-08-29&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=59&sr_order=popularity&srpvid=127e3d3cf4741054&srepoch=1724575370&from_sustainable_property_sr=1&from=searchresults",
+    "rooms_available": 0
+  },
+  {
+    "name": "Park Central",
+    "location": "Manhattan, New York",
+    "price": null,
+    "rating": "7.3",
+    "star_rating": 4,
+    "review_count": "6,563 reviews",
+    "hotel_page_link": "https://www.booking.com/hotel/us/park-central.en-gb.html?aid=304142&label=gen173nr-1FCAQoggJCD3NlYXJjaF9uZXcgeW9ya0gJWARobIgBAZgBCbgBB8gBDdgBAegBAfgBA4gCAagCA7gC-dyrtgbAAgHSAiQ5ZTRiOGZiNy1mMjhmLTRjZTgtYjgzMS02ZmUzMzFhZDUxYznYAgXgAgE&ucfs=1&arphpl=1&checkin=2024-08-29&checkout=2024-08-29&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=60&sr_order=popularity&srpvid=127e3d3cf4741054&srepoch=1724575370&from_sustainable_property_sr=1&from=searchresults",
+    "rooms_available": 0
+  },
+  {
+    "name": "Royalton New York",
+    "location": "Manhattan, New York",
+    "price": null,
+    "rating": "7.7",
+    "star_rating": 4,
+    "review_count": "2,632 reviews",
+    "hotel_page_link": "https://www.booking.com/hotel/us/royalton.en-gb.html?aid=304142&label=gen173nr-1FCAQoggJCD3NlYXJjaF9uZXcgeW9ya0gJWARobIgBAZgBCbgBB8gBDdgBAegBAfgBA4gCAagCA7gC-dyrtgbAAgHSAiQ5ZTRiOGZiNy1mMjhmLTRjZTgtYjgzMS02ZmUzMzFhZDUxYznYAgXgAgE&ucfs=1&arphpl=1&checkin=2024-08-29&checkout=2024-08-29&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=61&sr_order=popularity&srpvid=127e3d3cf4741054&srepoch=1724575370&from=searchresults",
+    "rooms_available": 0
+  },
+  {
+    "name": "Fairfield Inn & Suites New York Manhattan/Downtown East",
+    "location": "Chinatown, New York",
+    "price": null,
+    "rating": "8.0",
+    "star_rating": 3,
+    "review_count": "929 reviews",
+    "hotel_page_link": "https://www.booking.com/hotel/us/suites-new-york-manhattan-downtown.en-gb.html?aid=304142&label=gen173nr-1FCAQoggJCD3NlYXJjaF9uZXcgeW9ya0gJWARobIgBAZgBCbgBB8gBDdgBAegBAfgBA4gCAagCA7gC-dyrtgbAAgHSAiQ5ZTRiOGZiNy1mMjhmLTRjZTgtYjgzMS02ZmUzMzFhZDUxYznYAgXgAgE&ucfs=1&arphpl=1&checkin=2024-08-29&checkout=2024-08-29&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=62&sr_order=popularity&srpvid=127e3d3cf4741054&srepoch=1724575370&from=searchresults",
+    "rooms_available": 0
+  },
+  {
+    "name": "MOXY NYC Times Square",
+    "location": "Manhattan, New York",
+    "price": null,
+    "rating": "8.1",
+    "star_rating": 4,
+    "review_count": "6,485 reviews",
+    "hotel_page_link": "https://www.booking.com/hotel/us/moxy-nyc-times-square.en-gb.html?aid=304142&label=gen173nr-1FCAQoggJCD3NlYXJjaF9uZXcgeW9ya0gJWARobIgBAZgBCbgBB8gBDdgBAegBAfgBA4gCAagCA7gC-dyrtgbAAgHSAiQ5ZTRiOGZiNy1mMjhmLTRjZTgtYjgzMS02ZmUzMzFhZDUxYznYAgXgAgE&ucfs=1&arphpl=1&checkin=2024-08-29&checkout=2024-08-29&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=13&hapos=63&sr_order=popularity&srpvid=127e3d3cf4741054&srepoch=1724575370&from_sustainable_property_sr=1&from=searchresults",
+    "rooms_available": 0
+  },
+  {
+    "name": "Hotel Belleclaire Central Park",
+    "location": "Upper West Side, New York",
+    "price": null,
+    "rating": "8.1",
+    "star_rating": 4,
+    "review_count": "4,641 reviews",
+    "hotel_page_link": "https://www.booking.com/hotel/us/belleclaire.en-gb.html?aid=304142&label=gen173nr-1FCAQoggJCD3NlYXJjaF9uZXcgeW9ya0gJWARobIgBAZgBCbgBB8gBDdgBAegBAfgBA4gCAagCA7gC-dyrtgbAAgHSAiQ5ZTRiOGZiNy1mMjhmLTRjZTgtYjgzMS02ZmUzMzFhZDUxYznYAgXgAgE&ucfs=1&arphpl=1&checkin=2024-08-29&checkout=2024-08-29&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=14&hapos=64&sr_order=popularity&srpvid=127e3d3cf4741054&srepoch=1724575370&from_sustainable_property_sr=1&from=searchresults",
+    "rooms_available": 0
+  },
+  {
+    "name": "Hilton Garden Inn New York Manhattan Midtown East",
+    "location": "Midtown East, New York",
+    "price": null,
+    "rating": "7.4",
+    "star_rating": 3,
+    "review_count": "1,442 reviews",
+    "hotel_page_link": "https://www.booking.com/hotel/us/hilton-garden-inn-new-york-manhattan-east.en-gb.html?aid=304142&label=gen173nr-1FCAQoggJCD3NlYXJjaF9uZXcgeW9ya0gJWARobIgBAZgBCbgBB8gBDdgBAegBAfgBA4gCAagCA7gC-dyrtgbAAgHSAiQ5ZTRiOGZiNy1mMjhmLTRjZTgtYjgzMS02ZmUzMzFhZDUxYznYAgXgAgE&ucfs=1&arphpl=1&checkin=2024-08-29&checkout=2024-08-29&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=15&hapos=65&sr_order=popularity&srpvid=127e3d3cf4741054&srepoch=1724575370&from_sustainable_property_sr=1&from=searchresults",
+    "rooms_available": 0
+  },
+  {
+    "name": "The FIDI Hotel",
+    "location": "Manhattan, New York",
+    "price": null,
+    "rating": "8.2",
+    "star_rating": 4,
+    "review_count": "1,191 reviews",
+    "hotel_page_link": "https://www.booking.com/hotel/us/the-fidi.en-gb.html?aid=304142&label=gen173nr-1FCAQoggJCD3NlYXJjaF9uZXcgeW9ya0gJWARobIgBAZgBCbgBB8gBDdgBAegBAfgBA4gCAagCA7gC-dyrtgbAAgHSAiQ5ZTRiOGZiNy1mMjhmLTRjZTgtYjgzMS02ZmUzMzFhZDUxYznYAgXgAgE&ucfs=1&arphpl=1&checkin=2024-08-29&checkout=2024-08-29&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=16&hapos=66&sr_order=popularity&srpvid=127e3d3cf4741054&srepoch=1724575370&from=searchresults",
+    "rooms_available": 0
+  },
+  {
+    "name": "Homewood Suites Midtown Manhattan Times Square South",
+    "location": "Hell's Kitchen, New York",
+    "price": null,
+    "rating": "8.3",
+    "star_rating": 3,
+    "review_count": "4,263 reviews",
+    "hotel_page_link": "https://www.booking.com/hotel/us/homewood-suites-midtown-manhattan-times-square-south.en-gb.html?aid=304142&label=gen173nr-1FCAQoggJCD3NlYXJjaF9uZXcgeW9ya0gJWARobIgBAZgBCbgBB8gBDdgBAegBAfgBA4gCAagCA7gC-dyrtgbAAgHSAiQ5ZTRiOGZiNy1mMjhmLTRjZTgtYjgzMS02ZmUzMzFhZDUxYznYAgXgAgE&ucfs=1&arphpl=1&checkin=2024-08-29&checkout=2024-08-29&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=17&hapos=67&sr_order=popularity&srpvid=127e3d3cf4741054&srepoch=1724575370&from_sustainable_property_sr=1&from=searchresults",
+    "rooms_available": 0
+  },
+  {
+    "name": "Empire Hotel",
+    "location": "Upper West Side, New York",
+    "price": null,
+    "rating": "6.8",
+    "star_rating": 4,
+    "review_count": "4,886 reviews",
+    "hotel_page_link": "https://www.booking.com/hotel/us/the-empire.en-gb.html?aid=304142&label=gen173nr-1FCAQoggJCD3NlYXJjaF9uZXcgeW9ya0gJWARobIgBAZgBCbgBB8gBDdgBAegBAfgBA4gCAagCA7gC-dyrtgbAAgHSAiQ5ZTRiOGZiNy1mMjhmLTRjZTgtYjgzMS02ZmUzMzFhZDUxYznYAgXgAgE&ucfs=1&arphpl=1&checkin=2024-08-29&checkout=2024-08-29&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=18&hapos=68&sr_order=popularity&srpvid=127e3d3cf4741054&srepoch=1724575370&from=searchresults",
+    "rooms_available": 0
+  },
+  {
+    "name": "The Cloud One New York-Downtown, by the Motel One Group",
+    "location": "Manhattan, New York",
+    "price": null,
+    "rating": "8.5",
+    "star_rating": 4,
+    "review_count": "5,185 reviews",
+    "hotel_page_link": "https://www.booking.com/hotel/us/project-nyc.en-gb.html?aid=304142&label=gen173nr-1FCAQoggJCD3NlYXJjaF9uZXcgeW9ya0gJWARobIgBAZgBCbgBB8gBDdgBAegBAfgBA4gCAagCA7gC-dyrtgbAAgHSAiQ5ZTRiOGZiNy1mMjhmLTRjZTgtYjgzMS02ZmUzMzFhZDUxYznYAgXgAgE&ucfs=1&arphpl=1&checkin=2024-08-29&checkout=2024-08-29&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=19&hapos=69&sr_order=popularity&srpvid=127e3d3cf4741054&srepoch=1724575370&from_sustainable_property_sr=1&from=searchresults",
+    "rooms_available": 0
+  },
+  {
+    "name": "Renaissance New York Midtown Hotel",
+    "location": "Manhattan, New York",
+    "price": null,
+    "rating": "8.5",
+    "star_rating": 4,
+    "review_count": "1,547 reviews",
+    "hotel_page_link": "https://www.booking.com/hotel/us/renaissance-new-york-midtown.en-gb.html?aid=304142&label=gen173nr-1FCAQoggJCD3NlYXJjaF9uZXcgeW9ya0gJWARobIgBAZgBCbgBB8gBDdgBAegBAfgBA4gCAagCA7gC-dyrtgbAAgHSAiQ5ZTRiOGZiNy1mMjhmLTRjZTgtYjgzMS02ZmUzMzFhZDUxYznYAgXgAgE&ucfs=1&arphpl=1&checkin=2024-08-29&checkout=2024-08-29&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=20&hapos=70&sr_order=popularity&srpvid=127e3d3cf4741054&srepoch=1724575370&from_sustainable_property_sr=1&from=searchresults",
+    "rooms_available": 0
+  },
+  {
+    "name": "Hilton Garden Inn New York Times Square South",
+    "location": "Hell's Kitchen, New York",
+    "price": null,
+    "rating": "8.1",
+    "star_rating": 3,
+    "review_count": "4,394 reviews",
+    "hotel_page_link": "https://www.booking.com/hotel/us/hilton-garden-inn-west-37th-times-square-south.en-gb.html?aid=304142&label=gen173nr-1FCAQoggJCD3NlYXJjaF9uZXcgeW9ya0gJWARobIgBAZgBCbgBB8gBDdgBAegBAfgBA4gCAagCA7gC-dyrtgbAAgHSAiQ5ZTRiOGZiNy1mMjhmLTRjZTgtYjgzMS02ZmUzMzFhZDUxYznYAgXgAgE&ucfs=1&arphpl=1&checkin=2024-08-29&checkout=2024-08-29&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=21&hapos=71&sr_order=popularity&srpvid=127e3d3cf4741054&srepoch=1724575370&from_sustainable_property_sr=1&from=searchresults",
+    "rooms_available": 0
+  },
+  {
+    "name": "New York Marriott Marquis",
+    "location": "Manhattan, New York",
+    "price": null,
+    "rating": "8.2",
+    "star_rating": 5,
+    "review_count": "2,858 reviews",
+    "hotel_page_link": "https://www.booking.com/hotel/us/new-york-marriott-marquis.en-gb.html?aid=304142&label=gen173nr-1FCAQoggJCD3NlYXJjaF9uZXcgeW9ya0gJWARobIgBAZgBCbgBB8gBDdgBAegBAfgBA4gCAagCA7gC-dyrtgbAAgHSAiQ5ZTRiOGZiNy1mMjhmLTRjZTgtYjgzMS02ZmUzMzFhZDUxYznYAgXgAgE&ucfs=1&arphpl=1&checkin=2024-08-29&checkout=2024-08-29&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=22&hapos=72&sr_order=popularity&srpvid=127e3d3cf4741054&srepoch=1724575370&from_sustainable_property_sr=1&from=searchresults",
+    "rooms_available": 0
+  },
+  {
+    "name": "Hyatt Centric Midtown 5th Avenue New York",
+    "location": "Manhattan, New York",
+    "price": null,
+    "rating": "8.1",
+    "star_rating": 4,
+    "review_count": "911 reviews",
+    "hotel_page_link": "https://www.booking.com/hotel/us/hyatt-centric-39th-5th-new-york.en-gb.html?aid=304142&label=gen173nr-1FCAQoggJCD3NlYXJjaF9uZXcgeW9ya0gJWARobIgBAZgBCbgBB8gBDdgBAegBAfgBA4gCAagCA7gC-dyrtgbAAgHSAiQ5ZTRiOGZiNy1mMjhmLTRjZTgtYjgzMS02ZmUzMzFhZDUxYznYAgXgAgE&ucfs=1&arphpl=1&checkin=2024-08-29&checkout=2024-08-29&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=23&hapos=73&sr_order=popularity&srpvid=127e3d3cf4741054&srepoch=1724575370&from_sustainable_property_sr=1&from=searchresults",
+    "rooms_available": 0
+  },
+  {
+    "name": "Embassy Suites By Hilton New York Manhattan Times Square",
+    "location": "Manhattan, New York",
+    "price": null,
+    "rating": "7.8",
+    "star_rating": 4,
+    "review_count": "4,345 reviews",
+    "hotel_page_link": "https://www.booking.com/hotel/us/embassy-suites-by-hilton-new-york-midtown-manhattan.en-gb.html?aid=304142&label=gen173nr-1FCAQoggJCD3NlYXJjaF9uZXcgeW9ya0gJWARobIgBAZgBCbgBB8gBDdgBAegBAfgBA4gCAagCA7gC-dyrtgbAAgHSAiQ5ZTRiOGZiNy1mMjhmLTRjZTgtYjgzMS02ZmUzMzFhZDUxYznYAgXgAgE&ucfs=1&arphpl=1&checkin=2024-08-29&checkout=2024-08-29&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=24&hapos=74&sr_order=popularity&srpvid=127e3d3cf4741054&srepoch=1724575370&from_sustainable_property_sr=1&from=searchresults",
+    "rooms_available": 7
+  },
+  {
+    "name": "Hilton Garden Inn New York Times Square North",
+    "location": "Manhattan, New York",
+    "price": null,
+    "rating": "7.7",
+    "star_rating": 3,
+    "review_count": "2,909 reviews",
+    "hotel_page_link": "https://www.booking.com/hotel/us/hilton-garden-inn-new-york-times-square.en-gb.html?aid=304142&label=gen173nr-1FCAQoggJCD3NlYXJjaF9uZXcgeW9ya0gJWARobIgBAZgBCbgBB8gBDdgBAegBAfgBA4gCAagCA7gC-dyrtgbAAgHSAiQ5ZTRiOGZiNy1mMjhmLTRjZTgtYjgzMS02ZmUzMzFhZDUxYznYAgXgAgE&ucfs=1&arphpl=1&checkin=2024-08-29&checkout=2024-08-29&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=25&hapos=75&sr_order=popularity&srpvid=127e3d3cf4741054&srepoch=1724575370&from_sustainable_property_sr=1&from=searchresults",
+    "rooms_available": 0
+  }
+]

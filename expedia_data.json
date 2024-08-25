@@ -1,0 +1,929 @@
+[
+  {
+    "name": "Hotel 32 32",
+    "location": "New York",
+    "price": "$280",
+    "rating": "8.0",
+    "star_rating": 5,
+    "review_count": "1,721 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-Hotel-32-32.h2645725.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591751983&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6141525&latLong=40.75668%2C-73.98647&trackingData=AAAAAQAAAAEAAAAQWyNtJlHF6RFAzxjl_bINg8Zk7wFq7zBh9SPJxH5RDsM1qxCbdrAekE4Fq6r9krJKZkiOaXtwplOku6QogKdY6ENr1OBcGwCPgd_QAyT4102GRDX7y_u6Yis6NYG6eCLXICI2ldXlTjKG1APmpn5_2yNeUyzELLn_paMMx6uO9gLDdzD_-ZuwDPGO9hf892ZYDdU6qLiCCIwFmrdRNWDFyJK2RJo-g3A-TK8JVQGhyckxH0ZchLvo_2zK5I5nfPOajBbhomeQxcB3uEEAYwmViXMzKPppyfb2g6mgCDB7rCDJkrSduBq-JnYMJc1xK6m8aUi5RdawCevVBee9wZ9qKv2L6_6uGg00Af0Lqzh7KWix7VizkeNEcu4RGOwumnSzH7rSl8vU67Tf-LU1MajXYG4tMrmBeRl85OjJmkw30otrHWRn4eJVZWvf_uQvKlTBDOYwjhUmTPc0BsHlYblQkBkZu8m4kwf88xCDVkDUY27LJf5-n31TBbVX_e0RzMi9A9NVsiEXT6EgdO38nNHySxyJL4ltZeUJW7dtlhJ8mv5wjCpIybF8nTKLiUsh96QMLV-vLDnl_awG5PoUphFcTeg3CmYhzJWyfOZQDvILcudeJ6dSPrnMQ0HiHrvHW1ErMw6czo6lYZ3Jie-cHT68FQFkwANuuIlrlaYGfpwgcOS30tOk5zDOzncsU1czXOfWgdIw4wLDlzq-o0VIxp7EMCqYVM_9INjrZcW7nVwUbi76qX2ZsHvHi1PbJW3qp5uj6rW44ZxcWcKgbXknNPuCSjMqMM4gd5F5fsfDn2YpRDsNEYFlCi2lnLeV9NzmGbXgoUODqtdfYbtATeKSL6rplapVGGAshkhclArmuhmZVfYoZ-q2AKc9IRaEDjpXEOiTjMHJ70rEauJEMFe_dX8xAT7GBKKHbTv0lfd8uGFu2nE-gTKQvcmFocJAyF-otbupQj-Jqp6eNKlcZXhjrUphMPrpPfwcgisuUJ5rLu1L-iZLcnwqtxM617hwb6lnu3Now6Ia0GI6hM15gCUob27tK-4eJi-pmiG6wUmvLLIlzHnNfqPXXlSAr3FnMNLuihUsIAr-vQmpa-9L3jPs_I6ZojOSQG-c79ZL9XU5E9IXImKM9XF-anD3e8Up-vdqnjxqYMc4C604nKC4Q39e1NGe0Ow3lTI0s3LBxGS6puVk9mK5R2LBKhDcSY59Lg69n6gNVgYUwQYnt6pVT_pohPkFDEx5FxVdp2_UBWhD-5osMIFf4R_FsByIAqYaFmbk8dfoIG5J5tLQ8SPIBtZwVh0XpV9D2EzuszQ43YT4Mcbz4IS_gUqpf3JLu7qlDylm0o8W-hj5D9s1SloXd46XfNCQIL2aKQkK2nuD1Tk1Ip4-LDoPfLyGA01sCNMjHA70JARb5lUPuAyc6M7OvvEI3KtExATCz8jA_K_LbpKW5BDou9qXEU64HaxZcZ3KbzOzQ3V4rQwtBlfwDEU-_YiqCa4yqzLAdX3AASQgtsBrzCm1SuiNPXPSku3F5atsdqIrMGXafoLrtFsK64GeU7-sJL1_UNrNiq7LyQ13VIuZHMln1-it3Nzzf0_z0YgRc7PAf5YW8J6d_6WpGK9EfXWziBdOBcBs8SdIE8IDB7fRbm7xZDdl3r8bA-IydNN2vxKzg-wfCIXPo7xAPszDtiNK5tAWrOWp8FCAjove6N6Z6gmZeOufflIQi3Dku-3cIOB5zcbX9roQl5tbPvfIfQU7kjqt5Q2CX_xgyDyuku9rz3lC1afS-2f37mWapeV5zZleOkRla0tj9VocUJKec5of2Rh_fCW2hCMfz21h1Ulzdl-o_J4CJHkXii-mAD7RH6LXHCkyDh8C43NFg6aRxLmw4LJ7wePDaRFlnPFXOvypCbubSMFRZ28cUAUOPzUuQ0sjTuXVlS8ulKbhcM3BmxIbsLAB5-5Y6M4TxNW9wf56u7Cg5tDx5UC-SkSSzlRMvWUc2QyzliFELAow1j8NvbhqvUZY2WL5NuVUd3oc6AL4HQaRCfv63INQ9tWr9hvl81wOzQ-CpedILto9Hn79uzdgAe8S5nwNxKto1_YZvEyZZJ83bXRcyDK2busQiE88UayWehJL8XBsgYWOG2iFIH-q7VLI316qU_2a_Iq4em6-z2rg-TqufDL3CVhbsUPQRoFqWfBLrkjBZxT9SPO3epMYJFsIIsCbxOVk2dmrmti45FMEjTzNnpdHTtSKP9kMEX7ExTpWC-CXOPqR4YQXCZ0DUSW2XgEYkAlkzN2lt-UB7WnVu2w2ve-7cZPWY9_X5sARNXnO_QMpSFUSFDAZMb0-OHF_0ob05OFdhh5I3rN42u8T-LZ0bBogGdgRY0_YTsvmrAvLQJZJLP5mwVlL4dWSwvdxo29HAaP4SLHQmBAZ4At8U_OyvCK7Poqv2eY5xTR1k-3uoZRC4eLYTDpmQlj-BZLGin7dcThl59U5x0p1dnPULL_DApDk3j-eJuXwl_i2a1QlSSDCJF1k0cVcIZCiVRvDLg%3D%3D&rank=1&testVersionOverride=Buttercup%2C39483.0.0%2C50206.169039.1%2C50028.0.0%2C50813.0.0%2C49817.165296.0%2C51642.169494.0%2C49460.169941.1%2C51690.0.0%2C52131.187852.1%2C52527.0.0%2C54709.186895.0%2C50988.158353.0%2C54072.190141.0%2C53989.186894.0&slots=&position=1&beaconIssued=&sort=RECOMMENDED&top_dp=280&top_cur=USD&userIntent=&selectedRoomType=201203355&selectedRatePlan=205703978&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=Hotel+32+32"
+  },
+  {
+    "name": "Tru By Hilton Brooklyn",
+    "location": "Brooklyn",
+    "price": "$229",
+    "rating": "8.4",
+    "star_rating": 5,
+    "review_count": "215 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-Tru-By-Hilton-Brooklyn.h96731970.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591751983&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=553248633938969543&latLong=40.75668%2C-73.98647&trackingData=AAAAAQAAAAEAAAAQmh-fOtLX925TCeLSdTpYGvUFtHU5CB9EPguFHeTeBy1JQZqbc9XgUPJBuE48ccBOdLXFebofkZODNPD4QzKGMxzH0A8XCwK5LAyX4H5cSOmyy_78SOM16X1pmzjDXBYn4aUQP1X92qFE_TVkC18JPYR2kc8lw9YhfbZ8aK5I5ZW3YXYZSniLDcUrWFnwvnpK0jNEdZgiZhGJ7zv8lLbD68c-dsssW93rSbxOvMFZtylvicjK6Nbsemiex9Uc3hgNk7ito6Rsxqqns-IFeYWTFNbM8gImw7LmnlggMqDbMFiJq8ZamyPPCAutjit6IAU9KFiQy5Q8ubFehUd43fIfF31EzQCMD_Ga1g-78Xe2ZzRBNOvrbmO3_mRoU0D4c6Xd9g8WCS49rl_xJLwVwTskqphppIQVBrJIZW3xeQPSWjz_LTlGTOQGFiiTBJyGFZtsh6T8Du_selxrL602-x79jEQDSZgmtZr4ya535WUPl24k_9RfErIbBk1IprkK2eCHXsoecjhvKFro-9ITS6TEiD8u5QNu8lmbdWqd3g4kixFtAAqZS6byCm4bjm7Z7eaLt455Hi4in3UhTx20atfFgqxanlACrYrQmCL7svJea-a_mTTke67vhtRI3bcJRlkq5JTD_9zazmEQPeec2-MPzVkg2CQPxzE0AJiPnuZCFxKIb5T5r8rHY5u1wyrSXBqEimHpUrCu3UA8PS7KfHdGNWNWWrgxo-EU-bF1oIr3JI78RQgpwXmPjbMNDftj_OmaDq55bpQnjKZKBHHcGH6inVSBjc5Q4EDSzUGQRP_HFHAIl_AOG8yI-zcw5kB-Ot1DErcGE3OOXLYRgRaFoDZmZgY5xkxbglG9sy_dpTcCwR941wmrorDRh4szJiT8EHmSfPFXh1rhirkthzz9fsP1WCQmtdJC6y7AhQ_v_FubC8eSa8zM3ts5nL-BDr-XOM2Uym0o0-ND_A7SEplve4VyROF6BqHkq2_TVUbmEHmecpBsJwcUHxrW7lgwMLk_QQJdU5FiWTrsuytgVZGXJT8my4R7L5ENKUoWhYDdzxFHyF4QJtD8Y9zNuUo_XSoWSM_lvlzOgEAqFSWMcsiYtlSm7btBotHSUpj4U4m601XetdDUKcwuDCkns38Vmf3isVSnQQWiKmooXYlJJiFzc-GNk5QIJ737Rt7VfUfYbbMouwZYw_pCz09Ozq26iMIrNDLBOVwVNzP3w7aR8GoIpKTs2ITnfED08nkSqxg8pXHDK-BcytbC9WDpiRL5trED8RT-1wxVfd-9-8QHnC7IvOefYUm6p38rUhIWyoTacc9V_jVkYOj6qWo5X0f1XAk26--Qb_oop4tKWs8cBPWioSVXVgh2tmf2zd8VCBm8gk-a4zDsGsIqTDsN-4ubSbgQJ48-B5bRVuczH8nlHLt0dgxKm2r_emlpNADXIzuSwvnVK941wUqpCRiNga5Y9PBoUFzQ4JZOTnB8h5sg8pld0KA3eXwhXY9M9qTbOaOCLjYvFnwyE2x2h8pi-qdMUeymMMAfsM9O-f533idiELdFes4fxA7KaDptGfVAnC7aPC90coAI_jxIaDx0sBHQyl-U8wIrWkw3bgkjQ81JaJjy4cxRpPlXlasHybycKh686qifAWb6BbfKC8Q5RtgEjgHiE9iJo8DBhkHuqYJjCVHUXMjmE6CIkwFjoLbz7UoGIGM2up5n7xrJ-VXvrRQPeWm9e7OvjJUHSGHwcZp36P40_KrMny3J24PxWISGiZRASSEOvV2mf9REmcxLYiYBun_qJY9J0U1zAYTDVJvTRHNAb3OvUv9UIsF26IOAXgkI2aqeFx4LKQRdxHUWxzdJl_-8-Se_LRu_2Dfg-R2KhW5B6kE0GdXup0RiNAjPNJcHzYuLcqRzqDOvzgf6JDx9y27HMj9eYkpQvMW82hbMkFjBN3fKaX5uVmWeIMs4H7Kdw7JMrWDzUvfKkwc5xz8rDr0l4LtOOiL9UD9IZc4ga0LkEpeJsLT_tORPccejkUIHbTvyS-RVZKsN0wqk6U_qLwXHhzDjVulpENDJ4C6aKYelwdnBx83zlG5aH9Mwmt635xhq-e27XCT5qOz4mqJ4YQa47bUQzt4oYPuZnzyQNIpIYfkcdHbskZ2zzcPDIuubD1SMhCgN0mveYI1RNF51n3NxHhgsP_pL6To3_fdl1P5EHXNs0hjaKAI0__wyQVKoHqgKXzvqWNY8TfGfGgMaco7CZQcmeWmnV4PcgiS2zODQPQ4ZhIQTwFiRmJZ5h4Xsz-gOHxZ8XVMjU8fx6U-sL5EU-iIIzokgjEs6THEQe7FUQND-0nrB_7CWBROfhM69O7hTTj4OAP8dLTAYL3-5GM0O8Oo_bh1uAadS4-Ke27CDCFsDgOI1p56ab13MIMuLGWFvlgdOTVwFKTHuIyg8JUZm8bHwF-1MhWheUxZ8Rim4YTsIrnabnlxQ6GObmM4_6l_rFsrbFE7U55fnpJoE0PaLKFXE05FXbZU5qScZgtd-ZP-8TQ%3D%3D&rank=2&testVersionOverride=Buttercup%2C39483.0.0%2C50206.169039.1%2C50028.0.0%2C50813.0.0%2C49817.165296.0%2C51642.169494.0%2C49460.169941.1%2C51690.0.0%2C52131.187852.1%2C52527.0.0%2C54709.186895.0%2C50988.158353.0%2C54072.190141.0%2C53989.186894.0&slots=&position=2&beaconIssued=&sort=RECOMMENDED&top_dp=229&top_cur=USD&userIntent=&selectedRoomType=322810490&selectedRatePlan=391845624&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=Tru+By+Hilton+Brooklyn"
+  },
+  {
+    "name": "Hampton Inn Brooklyn/Downtown",
+    "location": "Downtown Brooklyn",
+    "price": "$195",
+    "rating": "9.0",
+    "star_rating": 5,
+    "review_count": "1,155 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-Hampton-Inn-Brooklyn-Downtown-NY.h8026859.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591751983&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6140148&latLong=40.75668%2C-73.98647&trackingData=AAAAAQAAAAEAAAAQ9LVBa8gyuk2SqT3KQX2So-Fr61ayYgLsb2DO0UMLUYBmxl8xgVoC1l-15plEGCDB0LzYPacihSwvR6sLIU6cqTE-jU_DNF0LuP_PPapF5bPovBelRt2_WU3IhHgnAA3wWq9x2q7K7KRWmtrwhQt4LCoV9a_LK5aOB_QuNq6r6gIQYLYyLwcWMYAtABXP939TDaCBcCo5E6tg4Pvpmsl-932Ap_j7iSexh7FyUAxNWOKO7Ruz9qHU_COhh03V5zdsHQNYd2KfDP4QcfGJpPVlugDoj5PHDxZSzdpVL77Q87CDRnOBqp3rNjgttGfR14yhLKlzzeusRPFbfXrmgNZkx0Om-b2tKDgJAoEaMcJmREIfQqHpQ6sEpSmFTmhk95fEGas3e3Q8ZVtOunbW6j3TyAQKrmCFZD6MWHwy_l9Zvmrcu1Vw0m5AXOPPYChuAEpoa-OSm7Mb1CKTluQxYOIiWXF_HpcsvTMI-WkbvfMrLaE-QodSpbRigZp-IFbu5rE050AIW2t5byxP2j_QMbd34f1GE09DsccnuruxVnn1jtQCORhDRCCk6aPasJtKYk8B-vvhPx7IrS9u4mT5u4V3cZ8YsyvzfZnqvHj8o8U1gOEaQ9_yPg6By4WrTV57EPLZDMCRgPOVkRugY2OHkW4L0JRQu2EOxgM63GkIEx-hEhB26S4z6H20dgMBxazGxkjL6PHiA-wQGZ2G_VQmx0Lor-dmdIczuUB5n5uRdP8ITuThj0hFMGnKUEetf2bAUw8HB3-xSuV3WbCmjSnrhjglWjBKQMPhrtCMJq9fpz976pHSQhcH3ZjppFnATitzjm5iaxwXPiraqSRyenCaPGtVN7sNtNFPdOvrru45SymX-tH9uv7B9vBmfD1SdkxRpQOmBUnJhEP7eViZxGQ9IRpETMrrzfZGa9gW9LIW5-xZIH5uKUBMWMwuSxiiwYy2l8krmfB-0OawNfDyJ8WzghZ4eY5jiWs7pwgrfBu5aEQ4l_VIiDkx8gXEodqwKOjHdfMs16h_76NopR5q_147S71L_1BHdDmnL4KpUswDPUzFKIPA4O1hqqVIPDagXtauZsaQnMdTc7RblzAQrdyVkgUzgqFgpjTA5dvXUBFK_M6-qcmIoyDWj7mJ4WeZKTGMlch6LiMtTmSBzrcsGFbk-MQ1CKyxHsYAzZHQFTFPr6PiNxsVVJhTHKh_Dv-aCnNtZFfuCDeo2eMbBcSpiABOPENoelt7Bk7sRpL6Jc-y_xhFUFh58VVW6uYZXbN2c8gPPqtyn-9ll09BmyNfEjyKN95oUK0Ft4aPxGSV-O7GKgeo9waXeY50flia5j9tjiEdtGOw2risVM9GF5TB8TLN-uxcJKIbIhMWyqNZvXxKrs8pcnebwAtmqZG1yWDad9caI4kSsx6Ih_1MknqTOxJj-3XOHRy8eFF-8CcAulwdnabRN7iNCZHQLeXhJJ_eTdIVDQRcFVWpjLJLFlYVMc3tLawQtFLG5EL2U4TGU4swNj9XDPtlMy6DqEmoEAnOt2GFjq4NxjIMcIzPDIdSFeLxyZGdbtXdadtxb3lnZ-K_K8ov6Irp7MUqYlv3FPXRmtzhmXU9glXS1ikTLMYaQKuzLwPkeCTdBYWbdB_gfuyCtLBhK3aH7vD8_4gz4zUzb4XAPm7OkJ18gmpG_K1bxUa_6y9_AQdDrQIcwH8D-g1Bzl4_NybLPc_uULSljjv2N5FKHtnhTWce9u4mW2_mxC9wlJuxoYCkwOHiyfR9pZyohcwuYEmVqJ0cbBLNeQa886A9HcG5QJvnwwQ4bsTJJBdwuDbkpOzJcUjCAfqF3ld7vbJqX4JI90tWfWNRW6g8eJpz9WOJLk6-P8FwTVo7vV6PSl2E6nlDwg33T0R-gqqz4A-PxyjvfpmUYjngKMply0OlpDs8ULz7CcmZKtspMURtoI_EcPkNz7ai4EKr_WfqmP3BUP63QfnU5vLnCivAwCggswOfVjMQKxKWTjVdvwQfFrhXkxPIS2BjJwU2SZYf4Hp5TI-cX4VVIYDUld7-GM1ZBIy0Ic52mPEsLE2yF-U388fiVIQTZmhrtBMtb-n-0t-1EJhFASwMgxUGaS0DWsZwMfi-SG6LlwLwONiHHsAWsg0MChECSvgpUQLGAY5JAnfQBPcyYOOTa-vZCNhF1APFkSmlz7__0Lg_ckYBy8cXmUq_9BNTLNckhJzQcpjjDniu5NiCqQalZ1GiGt9crr-eWpsBuTqAPOKw0M0eAJ_3evL85B_iXqHOBZ1b28bssyWelBe7jV4OBmeT1zQ1onBWfLMnGe7yo-7LKdMSG0-COOYw51ZnpGXM-A8fXY0VZcLuXzf3GBoPpUoT6_9jNkTciP6BxOlvEizADZh2asrDUNV8JvecJjHzn8_vaM3J4ZZn2royNsdGAXD3WNAURDrhKCrU7EDASywnCX8IIbF_R-RSD3_cRxWy7d02UnprN19CXGA9-m3KsZcDC2khfWShBDrH-9-QMJfMCM0mjj4Uv8_2hQ%3D%3D&rank=3&testVersionOverride=Buttercup%2C39483.0.0%2C50206.169039.1%2C50028.0.0%2C50813.0.0%2C49817.165296.0%2C51642.169494.0%2C49460.169941.1%2C51690.0.0%2C52131.187852.1%2C52527.0.0%2C54709.186895.0%2C50988.158353.0%2C54072.190141.0%2C53989.186894.0&slots=&position=3&beaconIssued=&sort=RECOMMENDED&top_dp=195&top_cur=USD&userIntent=&selectedRoomType=200703414&selectedRatePlan=266058792&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=Hampton+Inn+Brooklyn%2FDowntown"
+  },
+  {
+    "name": "PUBLIC, an Ian Schrager hotel",
+    "location": "New York",
+    "price": "$529",
+    "rating": "8.2",
+    "star_rating": 5,
+    "review_count": "2,627 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-PUBLIC.h17117062.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754902&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6141723&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=529&top_cur=USD&userIntent=&selectedRoomType=201980752&selectedRatePlan=210109674&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=PUBLIC%2C+an+Ian+Schrager+hotel"
+  },
+  {
+    "name": "Pod Times Square",
+    "location": "New York",
+    "price": "$179",
+    "rating": "8.8",
+    "star_rating": 5,
+    "review_count": "4,164 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-Pod-Times-Square.h19681371.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754902&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6203474&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=179&top_cur=USD&userIntent=&selectedRoomType=321750421&selectedRatePlan=392091098&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=Pod+Times+Square"
+  },
+  {
+    "name": "Hilton Garden Inn New York/Central Park South-Midtown West",
+    "location": "Theater District",
+    "price": "$311",
+    "rating": "7.8",
+    "star_rating": 5,
+    "review_count": "1,476 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-Hilton-Garden-Inn-New-YorkCentral-Park-South-Midtown-West.h6939750.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754902&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6157019&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=311&top_cur=USD&userIntent=&selectedRoomType=200447743&selectedRatePlan=254028206&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=Hilton+Garden+Inn+New+York%2FCentral+Park+South-Midtown+West"
+  },
+  {
+    "name": "Hotel Stanford",
+    "location": "New York",
+    "price": "$224",
+    "rating": "8.8",
+    "star_rating": 5,
+    "review_count": "259 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-Hotel-Stanford.h103784243.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754902&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6360638&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=224&top_cur=USD&userIntent=&selectedRoomType=324497008&selectedRatePlan=394798445&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=Hotel+Stanford"
+  },
+  {
+    "name": "Pod 51",
+    "location": "New York",
+    "price": "$173",
+    "rating": "8.0",
+    "star_rating": 5,
+    "review_count": "1,373 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-Pod-51.h5358.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754902&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=553248635976383202&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=173&top_cur=USD&userIntent=&selectedRoomType=321810032&selectedRatePlan=389566343&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=Pod+51"
+  },
+  {
+    "name": "45 Times Square Hotel",
+    "location": "Theater District",
+    "price": "$288",
+    "rating": "8.6",
+    "star_rating": 5,
+    "review_count": "1,293 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-Room-Mate-Grace-Boutique-Hotel.h1155990.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754902&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6157019&latLong=40.75668%2C-73.98647&trackingData=AAAAAQAAAAEAAAAQxJv8-Zy16WtFNKzBbOVHtfhy3_6d3owm0jkgbhbQQwxa9WrGrQGe9un0KYIh6HMIRl-PkBl8rnifEngi8tkNUrbnrgG7aPOraLXihIa1Hq6JvmrGtnU69P3mg3b4glsacTpzSV4BnXWfOvL_zUuX6pleMHD4TsfRR00R-irInl_penLJyaOeZSgLXsHcgNTxfOCBcMOD-Gg2slKlOs_mjh--PK8qhIQ6tobjj6bRUakhN4EbRordawkUoz5MQjaTxjViZXDs61CKrQMfE6ptgfRon6kLEvcl1qG5DD_tC06dvfC3uuxZlVAwQ8b8s9O12FAVtvuyaDwmFpltorVD_6REdK79mSfL2mOwEcFTP-kE4cPmoIoo2bLeVQYx2U2VGRuECBKLHRsGHURKYvLmCtXAMw29dR4TG7cVoHop4n2f30ZUITiZ7pz-WLSNsVcvAcwdr7eaNYUeFGmz4Er5SqvCHc2I8dlKVOvt2YpymAwT7Xbgie_KOOPJbOGS6qL7YEQTb5SsyuPKhjhbWdqNvzm_u70rfkr5Bu7B2CO5jQfoFu4qiRb1FfxOzU5DRlq6IBVGeWOHzxEKaZKC4pLuQ_7PFSfAkJvFFHs60UxAiHM6cANszpa6v1yIT4mAY8enJITRry9NS0o-dgkEUfkD_MDYdq8xUiD5FSZ2jkyDBdbceUSN42Esl1f2Ey6N8RrnAQXFwbICE4E-hHRssnVuVtcy33Ddk4DiAiunGpLwNcQ38s4fvxu5d-KvvWJ6eKihuHe70o0JIDQICbUxkD0KLg1WDSnhdoh7p7vBduOn6OI8zlz9wqfs7B_VH3KpuuGUEEo_WvjwAkGhslQP4gNDaoO4xiA_XjZSH0_JOVNfeZW4o1eM7_LxOap-IQk3FmTTaydVz1_7STNrNM2w3w1QBvz6DqKgch31RJD7BxdXmlc5BfKK0lXo4KUwiu4nJqmjYiGpaR6jFGuXFPlYncBsBDxuoW9orHK-TBPni15XMGwgUx0L-MOzGzxaf7CUT80X0uWsFmuVLN1ikJ_NemFj9x6suduMXWwpS3a4IfIEtnoxF4v78DDiHIXTa0-E0awdsFPK_NlUtossfl742Rds2qvMMFTo0RN3VcesPKUqexcpQbLlESqf5D3B-lDd6OyQSpOM9brrdaPsLq3VMzmM4IOGvbQ_zYvfig5j1mVnHnKnLCay9UOk0XN51pAUoaUSVR0scp-dhQ-GXHRl0-68ndAZ_4O9HLwzi1t-rsBPffxr6CKaIH7psXCa3scaF4-EmMnodvvPjemANPd1Ecpm8n196WSaHNFYbqeVn0oBne0-iI7_baokdaOd4203SwEYaqmZz1FAMHxUGZ5Jh_7VfVutB_0mPlvkE1jD6JKWxDLjY7VhNZ-4gHdMc3PknUIFpEUXXR8QWzoROym7gUQAOomPIP9zTh3HXEm0Y8TJ5r8c1cvJyy4XsrHrzBIdBkp9FjIFzDpVkwS-9NrwI5sAY6U3LZ-2cfMFLI3fQQn6yzZr9kDWQ70fVQnvEUIpVvwLcSsQZXstEg104lm1HVal_Jn2XEbbofIUEHIDlZdmul3bsv3iQcxchpIdB8WQ37cNJzCfhwRrW0kzjU4Dow4QE86i1qDBMCWYRCDX4IjiWMks59rhBNrlEhi33Ra2EmD9AlxNpifAUHsqD59sYUQiPwrMf71-wzcfUpinyYIQJxm1tuDLVDjR6LLYPWyBjWUwShgFb63zrua_OUgnKjq5KrNho8w9KYspz8zXCkmf-HGAnky3tRebz1mcLJLREwvAUgzFlRtqohZavAF9Z3aOfvJFWck4QqvHXilGXCcacnZARxqpG2KTm6Y4uhu7k3SrriNRUxdGThRQE7xD_sQ7-5D9Gra11H69ZT2L79XhO4ZiknoxFyorXhpKuSTQhSyNptWne_5oQxn8c7-M3sWd4ahAjWz9a5O4LwNqTjcDTPRGWTkzrVmvsLTf_8bRC3hNYLIlBNueZ-QXOV-LV9dXkVDrbObd6Z-pkL1N_q7LDC16ZEneKGojrcvon3WnkrL_jSFyUaHgVvkqPZSjXy0cD-lC22ZZGtfzdq4I0-1N2HqMxOEOoLxT6gNK37zNHwGEaWtf5yRPuHXVaYbfWfBRZhIyk4nNxw_sKpRwrO-l36kVMwTofiY_PXlTPLCgxTYm_VPxPxYLgag4RO005y2E2cRrEHb1v8TgeuiwoICiWuCM7J89Zj9WiSxUz5m9ck9pAIUZgdYxdXy0IXTNfA0NhK_fsfXsU38XQDM5RBsRge6WSGiHR6dhk39nLuXYTfPu6pyNNxpu0Bqis4s8lnFhewPW8DtLTcxPZaP3pSGiuTXKYwja15T1iz95tztJVDY7nhNDKlESzBPbDV6zCKzkYjPbwDWqVCIQok2pX5oAOMBbU3Gxu6d_5phWHOlgWAlQpVLFkbJOqkPxAozOQd3fzwQY6I64GJyovkWERmYqkPdvakMAgvIeqvtY-T-ItbQFLQwbabHyXWnKPDfzFk7KOQ%3D%3D&rank=4&testVersionOverride=Buttercup%2C39483.0.0%2C50206.169039.1%2C50028.0.0%2C50813.0.0%2C49817.165296.0%2C51642.169494.0%2C49460.169941.1%2C51690.0.0%2C52131.187852.1%2C52527.0.0%2C54709.186895.0%2C50988.158353.0%2C54072.190141.0%2C53989.186894.0&slots=&position=9&beaconIssued=&sort=RECOMMENDED&top_dp=288&top_cur=USD&userIntent=&selectedRoomType=201452673&selectedRatePlan=207232819&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=45+Times+Square+Hotel"
+  },
+  {
+    "name": "Paramount Times Square",
+    "location": "Theater District",
+    "price": "$191",
+    "rating": "7.2",
+    "star_rating": 5,
+    "review_count": "2,954 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-Paramount-Times-Square.h24245.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754904&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6157019&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=191&top_cur=USD&userIntent=&selectedRoomType=201967771&selectedRatePlan=210030202&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=Paramount+Times+Square"
+  },
+  {
+    "name": "The New Yorker A Wyndham Hotel",
+    "location": "New York",
+    "price": "$219",
+    "rating": "8.2",
+    "star_rating": 5,
+    "review_count": "4,747 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-The-New-Yorker-A-Wyndham-Hotel.h41009.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754904&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6141724&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=219&top_cur=USD&userIntent=&selectedRoomType=200641894&selectedRatePlan=384247158&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=The+New+Yorker+A+Wyndham+Hotel"
+  },
+  {
+    "name": "The New Yorker A Wyndham Hotel",
+    "location": "New York",
+    "price": "$219",
+    "rating": "8.2",
+    "star_rating": 5,
+    "review_count": 0,
+    "page_link": "https://www.expedia.com/New-York-Hotels-The-New-Yorker-A-Wyndham-Hotel.h41009.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754904&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6141724&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=219&top_cur=USD&userIntent=&selectedRoomType=200641894&selectedRatePlan=384247158&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=The+New+Yorker+A+Wyndham+Hotel"
+  },
+  {
+    "name": "Ameritania Hotel at Times Square",
+    "location": "Theater District",
+    "price": "$258",
+    "rating": "8.6",
+    "star_rating": 5,
+    "review_count": "3,338 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-Ameritania-At-Times-Square.h20842.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754905&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6157019&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=258&top_cur=USD&userIntent=&selectedRoomType=321638485&selectedRatePlan=389192483&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=Ameritania+Hotel+at+Times+Square"
+  },
+  {
+    "name": "Hyatt House Jersey City",
+    "location": "Jersey City",
+    "price": "$254",
+    "rating": "8.6",
+    "star_rating": 5,
+    "review_count": "1,371 reviews",
+    "page_link": "https://www.expedia.com/Jersey-City-Hotels-Hyatt-House-Jersey-City.h16118408.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754906&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=553248635976007403&latLong=40.75668%2C-73.98647&trackingData=AAAAAQAAAAEAAAAQWMo60XdhfZSkZYADjGpU9ijxvn5x46fVnK_7f7Im39MofO8eG8toeDHnhqK-diKIcJ3l_WqqKheazsnQL9VjR-s8dxbbcDCjjH37EDQCx_A9kAGSMbpjRNDHvB5C8sNX7xHV2twMTsNHm68C7JWGFm8l9pRcR9XeZqHhMhqwJAmV5HGd9k4khTYeJTstcALB1OTustiZP_w3UsQTtQQXHVQXhmtKjtODZ8kg3KDJlK6ZR4zlAat-KfCidocuuKwbcMgQ-lvBXNRJNIjEWu6PdqqCE-5Ue4n0Hyf-GjXuCxUnVgAUE5DuKZKDbav-xcs-Ypm3XUjDoyFShkKOaolaSNuRI_O3T5ee081I5youV3sHwf9ROXZAq2zBazx-QYNRIov8wIdCnGgk9Nzce0daaBSOWydYi28GLYlk7eFAT5Zv_-54gH4SbQ417jrXzA4raCpii43MmYRRxkLVbVyNCPQuZUqq7KyTQ3V3rYIPRKp4104kmZOcfxbsaCioPAoev3oGY8u4dcQ3LSZa1R8KMCLJW9XNBahsPts41vcVh1rXpdGKi3yGLuE106ETPSmKsDSVgm0cmh-vS_okjekNL7GkE60KTrU9U-gsOYTxU4oCpv9OPgmXK5v9odIrwYnFpyrnWeJQaKbF-Z6XSn0MjXQngoMZYuZ2-9gmaJcFpHEYBULo-8fhLk6_jkg-dOy4Bgmcf86S5P8jgG2GsXZkfvQIfPijwpLgIvNHqJbIdqhrZ1jNaqqOho_xVO-fALeE4kXmdxFWX5WCyhsjkpfLNgnxx3EIGK22ruXN53A0D9g9Qd2uDepVaDAvs-fxhg5b01aIB19MrY8jK154i1F0IpkC4kPtPQBPMwqsAL_2zI71HipfyfBpBpHhTYCI2S6c6tRIl56H10vlAe5AYgjVEYkuD34cWBQdgHm6L4kkybBsHIAv2Qieub5ntL5K_DCM9VJs5qJ7PI_8vA7T2piadBqi3M2NGgSb3QQwKjZsU377NAMc0s9dCNRmfz7hsLb2NV8gur2YOXp7VgkWjPtizh5iHgEJKcxjqgXtoRXyYZBzkVTIgyIRlIfN4SebM_S12pDte2UWmncBh4NMfNn4J3DfRg1ut92tf7Ef5NsGypVjZdduRT2fdjNJTeRfSX6e0ywqUXQhgw70T8E3iizDoLC80qee0zohjN_JRmAb_vQhdtotu9EvkvKd_Q8o2_L9QJF1_JoY8TaPrndr6l97WxSdYb6bqzA6PnxOCY_Kwk-kBiztd4gkPP_jssHAj3fAJICiK3xJd79zBRaOgo_ZYCBM4HumxV-IaI1ieULyujGcSHo36Rroo1tpsZnP7SX4ZcsbA4qMXcu5_Mg8TvGuxaNQOUlumF9oO7s8Dn1rDN5OTGGDF-N7yiUfd89i9JHQmdy5dMxOV8-mk3chZZHMlMOGeLe9c70KsnylZQA7uqJcJnCNR4-6CHLbr8kaWOozO-FDeVK5PgEiwrCWam6tgfaIMW9SW5PxEUu6zhwfEoEBcYC4ZufzYkPCToUOg_vYDHrFqyIQ_xi1niKtcM_OkNGqDM9Qv9vwZkoMwM3-eZZi_QYU-_btPpe9SDsPofTVjruGdEiVtvCO8bsjaNnZoBDLjlLCNC2VzbiWBrOwFs0tx1P-FytOCKm0V-G9WlFHrJkaRduqTM9b-gDtGiqCG-tq0wO5bR_Qum-eORlTCUkQNVIjgo8vJPrqT46wkG6rvUrvbGz0gfMi4FWfs-fqAX4b65rp8F9vE8TU1Pw5MH8YkoHexfeEIYtV8JEjjQtPeQeeIJg8rtDyuTFnAvYwvwbApmzgoC_Mol5W6TT76OUvRxEafbLF9F8NggiIG8VZ9653j7WdgXKoO_D8qJ1xiLj1qOtx9eImOTsTiHWzTWrGB7wfLmj8BzaKp4KChsGaA6Qt585vBROpuxEbwGvqxz5sS7qo-r2sf0izuAzDL-wQW7j2fu-ywN53Uel55754k4KC2gGe0QeNA_ndmLCN8Wg34oAZM8PBUrsiDL0xQNWqM2mvnQGFlnm_aj9lrtseZX8IC9KFd4EDZ5igUVZpUX4_Kot8u1MWMek3JoeyifapMhJpY3RkY8Br2TTltp0koAyGX-F6lCev1D-4g0uLpUExxrAvbJeXu6G8fGVEOLXqb6AAsEtVVdAJoytjB3YnyqCnSYp1AGTFKR1j0y2ZwM4QQ4gnMeu96qndDw1ZUIzPGYNtq7QslhmRLWF_ipLTPFlAkXeS_poGmgGjHgd8E2XUbS4wtLr9qhUm0mlmzdnVAXZHtegqENpE3Mg20ijoouwn6-iJxe_4NAmZz9iCkb3lAr5lf-fikRfByGgLvMFcIG-ogBnWWggbusae5wzZxE_geuZXBWgPqB1F4jV_XXLslzvfwXyoY9DTGEh6MyT3ILE_bbcjtBL7b_9wuLiR7XfNv3L9-M8IwJw-r9hikk_whuE3O9rm2-Akmo6jxKMU9IBaLM64koZRbnsg_5vuIOp1xq5BGzQg7NT1givtfA%3D%3D&rank=5&testVersionOverride=Buttercup%2C39483.0.0%2C50206.169039.1%2C50028.0.0%2C50813.0.0%2C49817.165296.0%2C51642.169494.0%2C49460.169941.1%2C51690.0.0%2C52131.187852.1%2C52527.0.0%2C54709.186895.0%2C50988.158353.0%2C54072.190141.0%2C53989.186894.0&slots=&position=13&beaconIssued=&sort=RECOMMENDED&top_dp=254&top_cur=USD&userIntent=&selectedRoomType=201694486&selectedRatePlan=396917410&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=Hyatt+House+Jersey+City"
+  },
+  {
+    "name": "The Washington by LuxUrban",
+    "location": "New York",
+    "price": "$278",
+    "rating": "8.2",
+    "star_rating": 5,
+    "review_count": "1,008 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-The-Washington-By-LuxUrban.h3481640.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754906&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=553248633429418894&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=278&top_cur=USD&userIntent=&selectedRoomType=324799023&selectedRatePlan=395942431&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=The+Washington+by+LuxUrban"
+  },
+  {
+    "name": "The Washington by LuxUrban",
+    "location": "New York",
+    "price": "$278",
+    "rating": "8.2",
+    "star_rating": 5,
+    "review_count": 0,
+    "page_link": "https://www.expedia.com/New-York-Hotels-The-Washington-By-LuxUrban.h3481640.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754906&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=553248633429418894&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=278&top_cur=USD&userIntent=&selectedRoomType=324799023&selectedRatePlan=395942431&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=The+Washington+by+LuxUrban"
+  },
+  {
+    "name": "Pod 39",
+    "location": "New York",
+    "price": "$227",
+    "rating": "8.8",
+    "star_rating": 5,
+    "review_count": "1,544 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-Pod-39.h5321579.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754906&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6141728&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=227&top_cur=USD&userIntent=&selectedRoomType=321810037&selectedRatePlan=389566349&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=Pod+39"
+  },
+  {
+    "name": "Hotel Beacon",
+    "location": "Upper West Side",
+    "price": "$352",
+    "rating": "9.2",
+    "star_rating": 5,
+    "review_count": "1,056 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-Hotel-Beacon.h7422476.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754906&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=800075&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=352&top_cur=USD&userIntent=&selectedRoomType=201139105&selectedRatePlan=209270830&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=Hotel+Beacon"
+  },
+  {
+    "name": "Wingate by Wyndham New York Midtown South/5th Ave",
+    "location": "New York",
+    "price": "$251",
+    "rating": "8.8",
+    "star_rating": 5,
+    "review_count": "1,000 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-Wingate-By-Wyndham-New-York-Midtown-South5th-Ave.h35234219.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754906&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=553248635976381758&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=251&top_cur=USD&userIntent=&selectedRoomType=213611929&selectedRatePlan=244129192&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=Wingate+by+Wyndham+New+York+Midtown+South%2F5th+Ave"
+  },
+  {
+    "name": "The Nolita Express Hostel",
+    "location": "New York",
+    "price": "$112",
+    "rating": "6.2",
+    "star_rating": 5,
+    "review_count": "37 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-The-Nolita-Express.h104255920.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754906&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6360637&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=112&top_cur=USD&userIntent=&selectedRoomType=324623322&selectedRatePlan=395074487&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=The+Nolita+Express+Hostel"
+  },
+  {
+    "name": "Holiday Inn New York City - Times Square, an IHG Hotel",
+    "location": "New York",
+    "price": "$275",
+    "rating": "8.2",
+    "star_rating": 5,
+    "review_count": "1,576 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-Holiday-Inn-New-York-City-Times-Square.h9988473.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754907&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6141724&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=275&top_cur=USD&userIntent=&selectedRoomType=201356908&selectedRatePlan=390700580&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=Holiday+Inn+New+York+City+-+Times+Square%2C+an+IHG+Hotel"
+  },
+  {
+    "name": "Hyatt Grand Central New York",
+    "location": "New York",
+    "price": "$322",
+    "rating": "8.0",
+    "star_rating": 5,
+    "review_count": "4,154 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-Grand-Hyatt-New-York.h23677.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754909&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6141525&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=322&top_cur=USD&userIntent=&selectedRoomType=200159241&selectedRatePlan=248129597&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=Hyatt+Grand+Central+New+York"
+  },
+  {
+    "name": "Club Quarters Hotel, World Trade Center",
+    "location": "New York",
+    "price": "$306",
+    "rating": "8.6",
+    "star_rating": 5,
+    "review_count": "1,450 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-Club-Quarters-Hotel.h3016212.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754909&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=553248633429418894&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=306&top_cur=USD&userIntent=&selectedRoomType=200257662&selectedRatePlan=201507076&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=Club+Quarters+Hotel%2C+World+Trade+Center"
+  },
+  {
+    "name": "Nap York Central Park Sleep Station",
+    "location": "New York",
+    "price": "$118",
+    "rating": "8.4",
+    "star_rating": 5,
+    "review_count": "295 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-Nap-York-Central-Park-Sleep-Station.h67657272.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754909&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6141524&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=118&top_cur=USD&userIntent=&selectedRoomType=321659209&selectedRatePlan=389238462&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=Nap+York+Central+Park+Sleep+Station"
+  },
+  {
+    "name": "The Cloud One New York-Downtown, by the Motel One Group",
+    "location": "New York",
+    "price": "$289",
+    "rating": "8.8",
+    "star_rating": 5,
+    "review_count": "733 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-Project-Hotel-NYC.h70890150.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754909&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=553248633429418894&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=289&top_cur=USD&userIntent=&selectedRoomType=315982381&selectedRatePlan=385192968&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=The+Cloud+One+New+York-Downtown%2C+by+the+Motel+One+Group"
+  },
+  {
+    "name": "Hotel Riu Plaza New York Times Square",
+    "location": "New York",
+    "price": "$341",
+    "rating": "9.0",
+    "star_rating": 5,
+    "review_count": "3,423 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-Hotel-Riu-Plaza-New-York-Times-Square.h11677770.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754908&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6203474&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=341&top_cur=USD&userIntent=&selectedRoomType=201194941&selectedRatePlan=207953810&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=Hotel+Riu+Plaza+New+York+Times+Square"
+  },
+  {
+    "name": "Hotel Edison Times Square",
+    "location": "Theater District",
+    "price": "$269",
+    "rating": "8.0",
+    "star_rating": 5,
+    "review_count": "4,366 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-Hotel-Edison-Times-Square.h6260.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754909&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6157019&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=269&top_cur=USD&userIntent=&selectedRoomType=200740909&selectedRatePlan=250306294&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=Hotel+Edison+Times+Square"
+  },
+  {
+    "name": "Empire Hotel",
+    "location": "New York",
+    "price": "$265",
+    "rating": "7.6",
+    "star_rating": 5,
+    "review_count": "4,078 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-Empire-Hotel.h3670.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754909&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=553248635976381789&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=265&top_cur=USD&userIntent=&selectedRoomType=321907917&selectedRatePlan=389779535&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=Empire+Hotel"
+  },
+  {
+    "name": "Chelsea Inn",
+    "location": "New York",
+    "price": "$200",
+    "rating": "8.0",
+    "star_rating": 5,
+    "review_count": "1,093 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-Chelsea-Inn.h865587.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754910&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6142495&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=200&top_cur=USD&userIntent=&selectedRoomType=210307145&selectedRatePlan=222165212&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=Chelsea+Inn"
+  },
+  {
+    "name": "Millennium Hotel Broadway Times Square",
+    "location": "Theater District",
+    "price": "$324",
+    "rating": "7.4",
+    "star_rating": 5,
+    "review_count": "5,857 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-Millennium-Hotel-Broadway-Times-Square.h25449.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754911&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6157019&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=324&top_cur=USD&userIntent=&selectedRoomType=314220482&selectedRatePlan=382701852&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=Millennium+Hotel+Broadway+Times+Square"
+  },
+  {
+    "name": "Hilton Garden Inn NYC Financial Center/Manhattan Downtown",
+    "location": "New York",
+    "price": "$271",
+    "rating": "8.8",
+    "star_rating": 5,
+    "review_count": "1,880 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-Hilton-Garden-Inn-NYC-Financial-CenterManhattan-Downtown.h18113315.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754912&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=553248633429418894&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=271&top_cur=USD&userIntent=&selectedRoomType=201963085&selectedRatePlan=296112028&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=Hilton+Garden+Inn+NYC+Financial+Center%2FManhattan+Downtown"
+  },
+  {
+    "name": "TownePlace Suites by Marriott New York Brooklyn",
+    "location": "Brooklyn",
+    "price": "$271",
+    "rating": "8.6",
+    "star_rating": 5,
+    "review_count": "197 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-TownePlace-Suites-By-Marriott-New-York-Brooklyn.h64923094.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754913&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=553248633938969543&latLong=40.75668%2C-73.98647&trackingData=AAAAAQAAAAEAAAAQ0rzcCbERBdfsdBqNksW4OvRSeJs-7sycKTpLiw-efzwdEsX492N68RwgANrV2nssGHruYSzqTQTngvcI-dUgRyozs7_GaR5ufGKg0NmWer5pViYkF06_SKx9Qg0VEKJXTQFfvmFpwkbuP_W-TuKkIY2Z9aLukjGWen1eyuW7fOmdmEy9D03IuHcPhik4zalEEn_KF5RmVOiLL12Mx2e0Q23pbnatmq627axF0dVK3CZgDOu53YoLHCUzzAL7eToymNn2VbWmPXj1r38EPEPGRfnqQzqk2yeRFrz3OxFDrtj3srD7Cz_YiDln7DRWD3bYdIJVTGqjcmSErKztcJwkHJ2eKyaTkOLe5XdCK9zzNN92W3BHfs_h0PWH2eAoC0d6spxUwwEehC3ZrJN0l9sA6Du5hGI_VBE8vG5tt0sTdOaCJ6cOVjoU5hmjBJk5hEHckMUepSPShXNKA09GGWqHXIj4jdj_n5fVFqvjolMoLE5KvJPp3AwF6fSsHbB9Yqfx8QJMU2DmP0gfRSHBh4XslztjdeFoSuOl2T1gpwlV5oNMdTVLfoxMLKTvUTjAtfUqqrQJzpKigIEhpN7uGLrK4IcOOPIN-tRkoFXlgQGJ2zAFsOyjUN134-apDonKwRxl-okz3pfklOlxmsmUbJWXySNvn5FXnuh5Y-Nq_H9dt_pttIFrGidXHAPRHA0hzrVS3t2MoctuF_7NEkgy_k0EiV7ptyXMr4lEDzgUxMJWpET9k6pG3IONFgMbLYJxNdfCNtyooyfEF7irGa5U4YTNrBRGapKQFITnfvXwBQ1MfSvP5qploUJOszVhlq4HYQtNWwOHC-R-OFJv1GI7xxybM5nUKQeIulSONsFOL8BDsv4ang15-t2xofwjjn2468gKRRtJbgETHtRiVB9sZ5n0IN6bBBEPWvtMAz8sbyB9QNkfrBR1lgrz0YSqfjh5e40gus5zt63Ya14vZL0n6wB0qltR5KYZbMTVudc4ElDDu2kgpa7uS5PAy7k8RqXLKmdFyFYgfyHXoazw1EF91ET0WcAOiVnvJjBcilSqLAqvrov23OVeJ5nfXgT9e-YWWGaLergVb8p-hbWMsgHSrRNcXj1Ma1McR2NIkXYAlKQzRpbeY4mTG8Q8y-KtvEKWWptgXEkRfw-uRVigyd3LK46GfVxwEpLC8Bm5dvSvSGQSqX4Lw7u8BlHXOGSy5um71kEeTc-MSPiMQrZ-SjnWzLSgeC4xxlsoEU2HiZQWEUODOeKF3OZOZMn0Z8Z7Dz7CtYFQcZJygGzVowxq4BBAgfa5RJSh9D7uMy9q_AUHnW45rNXGkY8e3b04ExC19ufdGn-5BaDlt76dLHfibN9zws3d_VKgsDc94ZmyV5b3MK8CIooyp7L5R0Y4r_zhtELaHdm95Nq6FapXGTrpFpUDodCk0klc_vd6zZeH9sG_fJxMJKrQ6JcHAdvTvp_e1UTMha-S7AlFPbBCvqEMFYntDYuq_U6R9SckXeObLgkCdLRi6CNRl8nTACnTxQtMUvpHRAcwt4dQ4PDWCCm1ZZvutz51paQ8Onmb8bQolLyIWkdNOl5HaTtax0tu6jZZlvE-EzpZ0D0ugGfqFuR6ApwTfO8eItV7MA3609ZEkeaW9GKZ9StOLRvE3SCN8QldbX3hwHK_YeCrtfA5_LEBryQMUvWAc3g3PerF0iZPLkIr9lDuWrOFh8LVHo9ONIlQcV6jtJfp-_asDuz0Sv9AFdpPfhGY2SKdayuUpeHGD_DfwdjQ84B3bOsNPCex7FKsfisy5VthWRBB5I4RwPVCUtX5er3UVuj2aqYhhBdVtKxCUaQ7vHKLKem8FtDQn39pynzbzBAJ0aLEqkR3NNLe35rSla3jT1oEKaSntBiyg9nQRo20VXp6TohSh9PPPqmnxjU5JkV5HzgjXRB-zWovNZDcCnpLuIiQwat1_6PzQ1ypqjZvN80oYICegweXKNjtScCHkloxT0fB3r4-iR5nStbPdhmjLOh-0WKyw0GKi9mL8yW3FnlRKo3DxFvjd6pU_j90VhrDXIIfD4ScBsrjVqHUOiHYlG_727Kbmx8tRC-4ld1YleJVlGH6WgUh0aO0L6VJHumqwQoMlxZ2rghPHnfgrp9Y_PlxneScJ-utE_eFaiIuGwKnc0xUJhloNnc9WssbD-hGiifhX-MT3wBlOXGLcRm21AQjjt_T_kvuQW7F-6cxw3nhFdho5R1Xdn7Rqi7tSDE4Dr7fCcNHW_dnAoTCWRVcQWpZA_RafbCRe4Qi1BV9aKqC_2M2YBpGCKUvdQiDNxEbXs4qz9ZsTYuf9EKG7ERQMIOdZBxHmb2NoYsk3K4WTs1cVHcI4wOj-F00VG_vrPBGxaxU7Xb4KRJ1hldV4WLHfCYbyPUiES_RCUoIJe64hVXrvRBu-IVj3cbHUyHwhnSs76CDz7ssoERu-8YpX9yQltwzLxWgqRzKSy_keLCN89A0-qPeOV94LY0Rshb7xGhp1_hSTdTJKs6EztNXJpwhKw%3D%3D&rank=6&testVersionOverride=Buttercup%2C39483.0.0%2C50206.169039.1%2C50028.0.0%2C50813.0.0%2C49817.165296.0%2C51642.169494.0%2C49460.169941.1%2C51690.0.0%2C52131.187852.1%2C52527.0.0%2C54709.186895.0%2C50988.158353.0%2C54072.190141.0%2C53989.186894.0&slots=&position=30&beaconIssued=&sort=RECOMMENDED&top_dp=271&top_cur=USD&userIntent=&selectedRoomType=322384856&selectedRatePlan=390944316&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=TownePlace+Suites+by+Marriott+New+York+Brooklyn"
+  },
+  {
+    "name": "TownePlace Suites by Marriott New York Brooklyn",
+    "location": "Brooklyn",
+    "price": "$271",
+    "rating": "8.6",
+    "star_rating": 5,
+    "review_count": 0,
+    "page_link": "https://www.expedia.com/New-York-Hotels-TownePlace-Suites-By-Marriott-New-York-Brooklyn.h64923094.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754913&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=553248633938969543&latLong=40.75668%2C-73.98647&trackingData=AAAAAQAAAAEAAAAQ0rzcCbERBdfsdBqNksW4OvRSeJs-7sycKTpLiw-efzwdEsX492N68RwgANrV2nssGHruYSzqTQTngvcI-dUgRyozs7_GaR5ufGKg0NmWer5pViYkF06_SKx9Qg0VEKJXTQFfvmFpwkbuP_W-TuKkIY2Z9aLukjGWen1eyuW7fOmdmEy9D03IuHcPhik4zalEEn_KF5RmVOiLL12Mx2e0Q23pbnatmq627axF0dVK3CZgDOu53YoLHCUzzAL7eToymNn2VbWmPXj1r38EPEPGRfnqQzqk2yeRFrz3OxFDrtj3srD7Cz_YiDln7DRWD3bYdIJVTGqjcmSErKztcJwkHJ2eKyaTkOLe5XdCK9zzNN92W3BHfs_h0PWH2eAoC0d6spxUwwEehC3ZrJN0l9sA6Du5hGI_VBE8vG5tt0sTdOaCJ6cOVjoU5hmjBJk5hEHckMUepSPShXNKA09GGWqHXIj4jdj_n5fVFqvjolMoLE5KvJPp3AwF6fSsHbB9Yqfx8QJMU2DmP0gfRSHBh4XslztjdeFoSuOl2T1gpwlV5oNMdTVLfoxMLKTvUTjAtfUqqrQJzpKigIEhpN7uGLrK4IcOOPIN-tRkoFXlgQGJ2zAFsOyjUN134-apDonKwRxl-okz3pfklOlxmsmUbJWXySNvn5FXnuh5Y-Nq_H9dt_pttIFrGidXHAPRHA0hzrVS3t2MoctuF_7NEkgy_k0EiV7ptyXMr4lEDzgUxMJWpET9k6pG3IONFgMbLYJxNdfCNtyooyfEF7irGa5U4YTNrBRGapKQFITnfvXwBQ1MfSvP5qploUJOszVhlq4HYQtNWwOHC-R-OFJv1GI7xxybM5nUKQeIulSONsFOL8BDsv4ang15-t2xofwjjn2468gKRRtJbgETHtRiVB9sZ5n0IN6bBBEPWvtMAz8sbyB9QNkfrBR1lgrz0YSqfjh5e40gus5zt63Ya14vZL0n6wB0qltR5KYZbMTVudc4ElDDu2kgpa7uS5PAy7k8RqXLKmdFyFYgfyHXoazw1EF91ET0WcAOiVnvJjBcilSqLAqvrov23OVeJ5nfXgT9e-YWWGaLergVb8p-hbWMsgHSrRNcXj1Ma1McR2NIkXYAlKQzRpbeY4mTG8Q8y-KtvEKWWptgXEkRfw-uRVigyd3LK46GfVxwEpLC8Bm5dvSvSGQSqX4Lw7u8BlHXOGSy5um71kEeTc-MSPiMQrZ-SjnWzLSgeC4xxlsoEU2HiZQWEUODOeKF3OZOZMn0Z8Z7Dz7CtYFQcZJygGzVowxq4BBAgfa5RJSh9D7uMy9q_AUHnW45rNXGkY8e3b04ExC19ufdGn-5BaDlt76dLHfibN9zws3d_VKgsDc94ZmyV5b3MK8CIooyp7L5R0Y4r_zhtELaHdm95Nq6FapXGTrpFpUDodCk0klc_vd6zZeH9sG_fJxMJKrQ6JcHAdvTvp_e1UTMha-S7AlFPbBCvqEMFYntDYuq_U6R9SckXeObLgkCdLRi6CNRl8nTACnTxQtMUvpHRAcwt4dQ4PDWCCm1ZZvutz51paQ8Onmb8bQolLyIWkdNOl5HaTtax0tu6jZZlvE-EzpZ0D0ugGfqFuR6ApwTfO8eItV7MA3609ZEkeaW9GKZ9StOLRvE3SCN8QldbX3hwHK_YeCrtfA5_LEBryQMUvWAc3g3PerF0iZPLkIr9lDuWrOFh8LVHo9ONIlQcV6jtJfp-_asDuz0Sv9AFdpPfhGY2SKdayuUpeHGD_DfwdjQ84B3bOsNPCex7FKsfisy5VthWRBB5I4RwPVCUtX5er3UVuj2aqYhhBdVtKxCUaQ7vHKLKem8FtDQn39pynzbzBAJ0aLEqkR3NNLe35rSla3jT1oEKaSntBiyg9nQRo20VXp6TohSh9PPPqmnxjU5JkV5HzgjXRB-zWovNZDcCnpLuIiQwat1_6PzQ1ypqjZvN80oYICegweXKNjtScCHkloxT0fB3r4-iR5nStbPdhmjLOh-0WKyw0GKi9mL8yW3FnlRKo3DxFvjd6pU_j90VhrDXIIfD4ScBsrjVqHUOiHYlG_727Kbmx8tRC-4ld1YleJVlGH6WgUh0aO0L6VJHumqwQoMlxZ2rghPHnfgrp9Y_PlxneScJ-utE_eFaiIuGwKnc0xUJhloNnc9WssbD-hGiifhX-MT3wBlOXGLcRm21AQjjt_T_kvuQW7F-6cxw3nhFdho5R1Xdn7Rqi7tSDE4Dr7fCcNHW_dnAoTCWRVcQWpZA_RafbCRe4Qi1BV9aKqC_2M2YBpGCKUvdQiDNxEbXs4qz9ZsTYuf9EKG7ERQMIOdZBxHmb2NoYsk3K4WTs1cVHcI4wOj-F00VG_vrPBGxaxU7Xb4KRJ1hldV4WLHfCYbyPUiES_RCUoIJe64hVXrvRBu-IVj3cbHUyHwhnSs76CDz7ssoERu-8YpX9yQltwzLxWgqRzKSy_keLCN89A0-qPeOV94LY0Rshb7xGhp1_hSTdTJKs6EztNXJpwhKw%3D%3D&rank=6&testVersionOverride=Buttercup%2C39483.0.0%2C50206.169039.1%2C50028.0.0%2C50813.0.0%2C49817.165296.0%2C51642.169494.0%2C49460.169941.1%2C51690.0.0%2C52131.187852.1%2C52527.0.0%2C54709.186895.0%2C50988.158353.0%2C54072.190141.0%2C53989.186894.0&slots=&position=30&beaconIssued=&sort=RECOMMENDED&top_dp=271&top_cur=USD&userIntent=&selectedRoomType=322384856&selectedRatePlan=390944316&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=TownePlace+Suites+by+Marriott+New+York+Brooklyn"
+  },
+  {
+    "name": "voco Fiorello - LaGuardia East, an IHG Hotel",
+    "location": "Queens",
+    "price": "$339",
+    "rating": "8.4",
+    "star_rating": 5,
+    "review_count": "370 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-Voco-Fiorello-Laguardia-East.h92102639.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754912&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=149004&latLong=40.75668%2C-73.98647&trackingData=AAAAAQAAAAEAAAAQfs6OU6LuIgaiX0VSc7OnA5H3j7WWZHRspiapYmQpvQ3qrfNyVLbaOHwfG9aUIYK5t1I3KiEL-53Z4JQ9fU6x4RSusdzg1Jxnrtk3sPJ0bQaZ43DsiW6RdMPYcCAcaiku9f-bZUgtlqfXnJSwltc4loPBQX6Tg-fiQWaaUfR79QkSsMcwhzlSDUWG0LIQJLEG0gIqhuhq8MojFN6QR1-xXuA7ARw2yxZJhP3zF_hQGy6iRyKcSKna4mRMSr2faw959nlXxJQ7eixvZjMEMXoB2i6HqhzKX05AqdJ3_tWuDsz19rUKOaOo-yH1AeaXpk82G5Sje7bg11RByYwF6NSBoKRLHvbmk55s_t7EojCQ-z-u2eGNcswDr5jsZ0Lbf3AdSl7qllnPXQEUvUHR44tt9lVQVZLKmpKxPZstvDcVO4PD_-f63LjlL1MCVW10QSiW6bDpzvcdoLQFQp6nB8oxdltstXHcFvDLe--MErVpc8dBiv9v2nGn9the4NLv87Z61ZkpU0_CNR-s7DvFweY3H8-0dz9uuDtDyCbCjxm6KPbsMRjybEVHLqiaWgaNkMGO0aLJ-qChA2UTCpsWRS-jof55jHAAC6OY0cGlxTgvwKrtre8wOLevgwBtzC4pGy2DHjMlOjrolVpJV7wFak3ZYK865xXlpPuSjXC-5wxn0R-SxaDuJX6CuOlN2FAYoWLsgXOp8xJ_LtYGaHSCmhU0gcVf0Hepzb9ZU5wXiW7_pdNJxOMO2-4IswlTrbUM8wVuffNTS1alymxwequ-6DU5-WJhAF5N9SzScJUGsGHD1NnSIvA4t_DvRSDLEc0vhzyjKBQiQGO45O6JD4Xo0bIEAE7Ek0mz2yS8CONLk28on5DEphMPWhFIGtb1te86hFPzLyFwlRCIqAizg1gIkiWQChZokEG48LMuynu08tr5yTi3OBGWTM6kwuaLjpoDuioRys00iWf04CvXdWF-JIqitLYNsuEhtIcfSZWdhOxcdbdESad_OkI2PZtZ2bUWr1oI1IJ99iMf8KBnVUjWRFJmxpT_sl14EKeRTl6adQTXay37VGVeKx-ExtbcUVFrTVqG1IVbz2fGVIxEca-PJ85pKc1LlrGEQkd2fFqtGVJYUvsYIX5DUVGfhWFUI0Jl4Cd0QhMEeLsLXvluydYG_eDnSzj_ygJXd08DzG6cb5qZ0mvHmmILD_blEKz5BaDFPT3ojQ7U-15LlxjH_ogw4Ke7Ll-guawpM0QTZDYTnzfmjx62VeCXNZiloja3fLdPKYWaDEm0ucNrpVWbvRE9LCoMjFSdcc7pvxn53KyExjNtKCy4XAl0JKgd8uE6nfDM-Zm9w8LdoezP3553b7yS1IEay2rKRd0iiXqCHJPVVfUbDfAmJWeKtKl6JkfJ5M7HNZYvvZxScIz9mPqZmJXuWcTrxzgDUxAHsx1Aqja7aceT-gV4bdDgIv7pV9-PuCk0mtTifOks4zExqod58JdMAAl-wuHH3Hcid2siLVBuIiLp3b4L79cxQmCNOLnKRQO2fV1hXxasy-dX7vpkF3v-FIGX_xcGmEllnNWx5BV2n8j1HqvRQ6GSIm_oDCqX-qYWxwBlh2lA9-ADJGvoizBGtABvycVdODrVKUbC95B4uK2c6A2SDtv82jKN25ab0ObW8favKbuws2TWPeS2ohz11CXs6GcjTljeh1brTxBfTkWft7ZSMrXP2Wjft_FobYScDcCvV68I1UUto_0uhUlUSsi01OQWxC9qgPiU8pYt2Umw-smNwvzJNiBzh9ssBfrBkEVL42lCKGZIA0gDxG_zEhqXlWiTFZJrt75Lr_q6_Z51w2QTPfWyjQ-yLlPN_bi6-jnkk_LtMxOU4mGrtHgfAjfHdnJQCvTGEdmQjli5wRFtkM21EnhRpqnpFi8Yr0Sk27gNazHqYdZkGqG8lffm9Umc1RecYNYF7XhnQkZxxqiuY6U_CjT9ZzMPmBZbcea7rM7FortxUGnl9Axet6zWd8X2MOdjZ6behTVWmPSgBfBwg8mrIdjOJrp54YFYX5_gTnu61aStGDQ8L_Yal8rLgJWCQZVvCXpFqsn1_w3DhPfs2CaoH9Yz0rDAFe67hVAAqS8b9qFk-vLaTQ7J7Ru_0YwJSgqmWSKd6Iet7NmIGpZo_XFVnqCkC_NMyvo6Gw2oJ8jy6atfnlr9qqxIw6IwU1cjIrmuHDz-p0bBdEFcWA6sy0tZ28AiLdxzZfIV_Yw41j9IUTaHoN67QeMyF9B9TMAsQk-sFfbLZDNfFte3G0PHtgp_IilbUPtnx7SbnK37v0Mwe2OHUDtgmRW6kTeyYAw_fOS8BNXHDQBlVuq43yTxxxXijKvQJ-7KOqzdyP3c7TC3FrRTcdVeWUikDtgC_jWPhNYG9Nv5NGKowDAHomRFz8VxRgY0-5JwA_KNZLtJFi_unIqR9EGsKG9thcDid8xbjKsp4GlfPEbWU-idNpTIjExresI8Y_sJmn3cqJapxtRl4zaGim1bvRThWBGLsTCsRc9otuuhUPrwXGUXnBuBJfI%3D&rank=7&testVersionOverride=Buttercup%2C39483.0.0%2C50206.169039.1%2C50028.0.0%2C50813.0.0%2C49817.165296.0%2C51642.169494.0%2C49460.169941.1%2C51690.0.0%2C52131.187852.1%2C52527.0.0%2C54709.186895.0%2C50988.158353.0%2C54072.190141.0%2C53989.186894.0&slots=&position=31&beaconIssued=&sort=RECOMMENDED&top_dp=339&top_cur=USD&userIntent=&selectedRoomType=322722447&selectedRatePlan=391682157&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=voco+Fiorello+-+LaGuardia+East%2C+an+IHG+Hotel"
+  },
+  {
+    "name": "HOTEL FUEGO BRONX",
+    "location": "Bronx",
+    "price": "$169",
+    "rating": "8.2",
+    "star_rating": 5,
+    "review_count": "37 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-HOTEL-FUEGO-BRONX.h106817951.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754913&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=553248635976381375&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=169&top_cur=USD&userIntent=&selectedRoomType=325056004&selectedRatePlan=396538953&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=HOTEL+FUEGO+BRONX"
+  },
+  {
+    "name": "70 Park Avenue",
+    "location": "New York",
+    "price": "$307",
+    "rating": "8.8",
+    "star_rating": 5,
+    "review_count": "1,013 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-70-Park-Avenue.h18752.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754913&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6141728&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=307&top_cur=USD&userIntent=&selectedRoomType=324149649&selectedRatePlan=393818608&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=70+Park+Avenue"
+  },
+  {
+    "name": "Hilton Garden Inn New York/West 35th Street",
+    "location": "New York",
+    "price": "$297",
+    "rating": "9.0",
+    "star_rating": 5,
+    "review_count": "2,314 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-Hilton-Garden-Inn-New-YorkWest-35th-Street.h2366813.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754913&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=553248635976381758&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=297&top_cur=USD&userIntent=&selectedRoomType=347180&selectedRatePlan=240100444&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=Hilton+Garden+Inn+New+York%2FWest+35th+Street"
+  },
+  {
+    "name": "Motto By Hilton New York City Times Square",
+    "location": "Theater District",
+    "price": "$274",
+    "rating": "9.0",
+    "star_rating": 5,
+    "review_count": "1,169 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-Motto-By-Hilton-New-York-City-Times-Square.h91334200.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754914&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6157019&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=274&top_cur=USD&userIntent=&selectedRoomType=321724870&selectedRatePlan=389358562&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=Motto+By+Hilton+New+York+City+Times+Square"
+  },
+  {
+    "name": "The Gallivant Times Square",
+    "location": "Theater District",
+    "price": "$223",
+    "rating": "6.2",
+    "star_rating": 5,
+    "review_count": "2,861 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-The-Gallivant-Times-Square.h5086.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754915&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6157019&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=223&top_cur=USD&userIntent=&selectedRoomType=201726296&selectedRatePlan=387367428&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=The+Gallivant+Times+Square"
+  },
+  {
+    "name": "Park Terrace Hotel",
+    "location": "Central New York City",
+    "price": "$467",
+    "rating": "9.4",
+    "star_rating": 5,
+    "review_count": "1,363 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-Park-Terrace-Hotel-On-Bryant-Park.h16890002.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754915&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=553248633938969338&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=467&top_cur=USD&userIntent=&selectedRoomType=201889603&selectedRatePlan=284164571&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=Park+Terrace+Hotel"
+  },
+  {
+    "name": "Freehand New York",
+    "location": "New York",
+    "price": "$296",
+    "rating": "8.2",
+    "star_rating": 5,
+    "review_count": "1,099 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-Freehand-New-York.h20875005.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754915&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=553248633938969615&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=296&top_cur=USD&userIntent=&selectedRoomType=202398263&selectedRatePlan=392871244&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=Freehand+New+York"
+  },
+  {
+    "name": "Holiday Inn Manhattan 6th Ave - Chelsea, an IHG Hotel",
+    "location": "Chelsea",
+    "price": "$233",
+    "rating": "7.4",
+    "star_rating": 5,
+    "review_count": "1,006 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-Holiday-Inn-Manhattan-6th-Ave-Chelsea.h1721844.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754916&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6142489&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=233&top_cur=USD&userIntent=&selectedRoomType=296825&selectedRatePlan=390686119&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=Holiday+Inn+Manhattan+6th+Ave+-+Chelsea%2C+an+IHG+Hotel"
+  },
+  {
+    "name": "Club Quarters Hotel, Grand Central",
+    "location": "New York",
+    "price": "$369",
+    "rating": "8.8",
+    "star_rating": 5,
+    "review_count": "2,087 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-Club-Quarters-Hotel.h5950418.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754916&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=553248635976383202&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=369&top_cur=USD&userIntent=&selectedRoomType=200282300&selectedRatePlan=201671594&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=Club+Quarters+Hotel%2C+Grand+Central"
+  },
+  {
+    "name": "Sheraton New York Times Square Hotel",
+    "location": "Theater District",
+    "price": "$341",
+    "rating": "7.8",
+    "star_rating": 5,
+    "review_count": "2,482 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-Sheraton-New-York-Times-Square-Hotel.h87.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754916&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6157019&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=341&top_cur=USD&userIntent=&selectedRoomType=218129259&selectedRatePlan=274355040&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=Sheraton+New+York+Times+Square+Hotel"
+  },
+  {
+    "name": "Hotel 32 32",
+    "location": "New York",
+    "price": "$280",
+    "rating": "8.0",
+    "star_rating": 5,
+    "review_count": "1,721 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-Hotel-32-32.h2645725.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754917&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6141525&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=280&top_cur=USD&userIntent=&selectedRoomType=201203355&selectedRatePlan=205703978&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=Hotel+32+32"
+  },
+  {
+    "name": "31 Street Broadway Hotel",
+    "location": "New York",
+    "price": "$49",
+    "rating": "5.2",
+    "star_rating": 5,
+    "review_count": "891 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-31-Street-Broadway-Hotel.h19794327.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754917&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6360639&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=49&top_cur=USD&userIntent=&selectedRoomType=220224025&selectedRatePlan=288080061&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=31+Street+Broadway+Hotel"
+  },
+  {
+    "name": "Club Quarters, Times Square - Midtown",
+    "location": "Central New York City",
+    "price": "$368",
+    "rating": "8.6",
+    "star_rating": 5,
+    "review_count": "2,720 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-Club-Quarters.h533993.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754917&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=553248633938969338&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=368&top_cur=USD&userIntent=&selectedRoomType=200257646&selectedRatePlan=201507002&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=Club+Quarters%2C+Times+Square+-+Midtown"
+  },
+  {
+    "name": "Fairfield Inn & Suites New York Manhattan / Central Park",
+    "location": "New York",
+    "price": "$286",
+    "rating": "8.4",
+    "star_rating": 5,
+    "review_count": "1,000 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-Fairfield-Inn-Suites-New-York-Manhattan-Central-Park.h15411348.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754918&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=553248635976381789&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=286&top_cur=USD&userIntent=&selectedRoomType=201553376&selectedRatePlan=284301308&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=Fairfield+Inn+%26+Suites+New+York+Manhattan+%2F+Central+Park"
+  },
+  {
+    "name": "Doubletree by Hilton New York Times Square South",
+    "location": "New York",
+    "price": "$323",
+    "rating": "8.8",
+    "star_rating": 5,
+    "review_count": "3,905 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-Radisson-Hotel-New-York-Times-Square.h36712878.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754918&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6141724&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=323&top_cur=USD&userIntent=&selectedRoomType=315615760&selectedRatePlan=384150997&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=Doubletree+by+Hilton+New+York+Times+Square+South"
+  },
+  {
+    "name": "New York Marriott Marquis",
+    "location": "Theater District",
+    "price": "$471",
+    "rating": "9.2",
+    "star_rating": 5,
+    "review_count": "3,005 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-New-York-Marriott-Marquis.h15838.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754919&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6157019&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=471&top_cur=USD&userIntent=&selectedRoomType=200504553&selectedRatePlan=252288662&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=New+York+Marriott+Marquis"
+  },
+  {
+    "name": "DoubleTree by Hilton New York Downtown",
+    "location": "New York",
+    "price": "$294",
+    "rating": "7.8",
+    "star_rating": 5,
+    "review_count": "1,727 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-DoubleTree-By-Hilton-New-York-Downtown.h3859014.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754919&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6346972&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=294&top_cur=USD&userIntent=&selectedRoomType=200023722&selectedRatePlan=222056904&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=DoubleTree+by+Hilton+New+York+Downtown"
+  },
+  {
+    "name": "Millennium Hilton New York One UN Plaza",
+    "location": "New York",
+    "price": "$401",
+    "rating": "8.2",
+    "star_rating": 5,
+    "review_count": "1,387 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-Millennium-Hilton-New-York-One-UN-Plaza.h1639.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754920&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=553248635976383202&latLong=40.75668%2C-73.98647&trackingData=AAAAAQAAAAEAAAAQCYc8ZgvaEO-Y3p7jkTUUZlp2RVKnnwEMA8A-tsU_s18IR0dQM7oc0vZYgpzYS1vq91MpjBoHAxVibZPf3G6JIbkw4D0UQoFblIQhT_JuypWII4dskGA_iWDkuEK1GxPx5nP9XEfvU-cZjGVH9K-FXNY1D1Y55zmu6MTwxd2_R6UhWEqZxAqRR9JoQ42gBn8Dq1Yis0_By0__zTAl9Q8BeUUXDnshxuIDwheVkXxkvuXGh_JkhuXvIxAySSf1PucaxNd89i7WU3iAcew5Xdxmh1QPwd-GhxZxgCBmyhMcb-1pDdIp0LinOlsXmFU4fbRJZjuTU68TVHm07KiVg2Oz1xO-eR0yhdbKF_Zx5SedX6EpnJ7jFPIemR-1qI3RLlPmxyg58vLZxBNCtjexpwZuZqDdOTRqKhU3-cGOrI4KYo1ClNHhZlv9xnAlgqWgJED_G9-RgDm3raFFiepGg2Ctwx3o0CqNoB-g0gAJORAw4pzBqscblpbUYgjzrpBKMNp1YQyYsw_uGSRV2sUPZ1E2qZSHTv4uoccFo37I-pLFIJUoxjYnPKc_i1qvW09wooek4qplkjtD6--J-UV5o_IjzYAkUjHHUtUI2wTy9oadcgH1Cov-24rx8a9lhOOpLSth1lwMYr7TxWTsGSGnh831Gnz4oawg1R6TY1v5Xlor9-Vjq4ecQGy6p-dn50Etvq84IEffM_1HaMaT5GKSzURpwoGaEGoGzupqD6lXwBlJW20vjP41ZNy4MXi9Wfhnl8G2_JRYWYu9yRLYZWBjsRmyztpwyMBeueKgigK7TIZRLVrBoTMmqb7mHgyU1H_yaEgxmw8gxeMzXe2jvFuTcZkdcfeJSV48Xtgr4UNGA72v_x5g_RjsksCaH5FOEXtYn24PgmfPzepwWk_mIKdH7QfSzyb5mqGHw29Fwf_4yt9uAuQB2Wey0a1oECcMHpb3MauP94-VFO7YWfzt8XvPjyoXSn5U0oUi5f-YC-AJnFQRjU_7Hg6Lg9dbVEBZSwVtgMymkpy10lrf12QTaH536LPfT0ZfnPJwBlLO1q-7I_dDXVbfHdHkAYHBdY8q_0fePiEuXfR5Nu53dzpeHfa4vgGTEClsZDJSnOkh6G-yojWsxu3VRP-KiRNTQKYXzatJFQzuWsFRObtLeiuSvsqDyFwdx-Br4qXklYZg_kfHpFQHWW7JE0RWYo0RQ7cLVMksxefjnxaGougBGsH2uQdi7ITN_GyOhoWGkmO27M_OWcKJkUFWhfzn_ruie9MyR8V7IH59YC7aRMu5tZtxB2d4_o-Y3Y3xw_0AtMuCMpNT6ZwAuhpbOwAMAux4CuoTmxhK4KM1HmWLHhRT32XVYX1K-kJ_HwgbZKzRO2WIRsV_Ydi8gH_icyWyykhLWbYzABHn2H5tL7KxQa20zjPdWhxWTfCpUU6xU_GqM4_bNrwfmsAMf1WcJXK8SVr3dX_VeUmOQ-U99kiDnZCVYRze1Z7e9V_KEhHX2Ze3ZX1rg_fX29scJ1ip9YWdQXsuWm6AwXisJB-BUOpZR8314lc0jQ_-dnjSHH0jOYmTOEpc7N4ZY5Hb72pi4DCJMKkiAL_UViaOCNrP6gByDgHV7k2Zh5DHUnihTn3ADYcxlkTC3XxggDwnGOPqAA_pdkkK4g1Fp2Ka5bNROPiXa_YZttyu4qIBMNZO05LOu-ELgEgUWy6SwXNkQEgcSbOo8ktTzG-6gows6FsJMUZXBgqKj954e5gkO55Cl1DEJAGvB6EsQDNghIpcjErDVS4QEGq8VhlDntZNmkGYql5krE3tMPcFf7jxmzP3bPNbcAwWHRvsGE0vby-ygWAPGpq8P_yXoC1cvf0MvxdixlquAI1rqK3r3Oja7Dn213duxNLRyzwhKaXXID6pIpVR7Duue99kwljCQHnJSRy-RufdGekH_Tal7DR_zHz7QxhenQXQXJPGKokTgMy7I7wfilLYqQcZEKgraeHTdtDA2-WBndRAS8E2HrG0oFNQ52ORm6NRqcGHJk3kniLSv40pNsuG8MahpCLMlNTV_n79SE6LSArMbvBjwetY0SnLVMV3ck6TD6p7MhcXN9PO1D-mH4OgZQbDo1ZdtH4ORVeNeXEMhF9-z-Zz7Izk0d3k1aq3bdIrGDvI-OASin3qxWhsFmlJwdgWWYM5lG8ei-OlgGYa1FZ3aXREm5CcuSBERnarHEWYM8xSqySLK5De8oNdYjoXTErRfx-PWzrVjLVlkO9MYCKfv9EDVQfVO_xQibkBcuGLQ8yMskjmDcKegL4f8A_pkdA1lRd1g3HT-cFvRV9ldYp_JgL8mbuqrOn-pCUJlAeWv2LAKiqvGRW_wui2O5N1vJVzTAFzU9-WgmjHCR5j1nL1Rka8hrgbPQp6zX7gI8pMCCOuSxHZvRN79VyS2HYGlNoNY5ZQ8JqAkONMemonOw966ACqmjSYkDY61M3dh5JYymhT6Su1C9Weh2aHkdS-O-OHjBVKMFIiU2AoERxDCxLCyX3xhmiZ-ykPDw%3D%3D&rank=8&testVersionOverride=Buttercup%2C39483.0.0%2C50206.169039.1%2C50028.0.0%2C50813.0.0%2C49817.165296.0%2C51642.169494.0%2C49460.169941.1%2C51690.0.0%2C52131.187852.1%2C52527.0.0%2C54709.186895.0%2C50988.158353.0%2C54072.190141.0%2C53989.186894.0&slots=&position=49&beaconIssued=&sort=RECOMMENDED&top_dp=401&top_cur=USD&userIntent=&selectedRoomType=202171698&selectedRatePlan=238056946&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=Millennium+Hilton+New+York+One+UN+Plaza"
+  },
+  {
+    "name": "Westgate New York Grand Central",
+    "location": "New York",
+    "price": "$329",
+    "rating": "9.0",
+    "star_rating": 5,
+    "review_count": "1,841 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-Westgate-New-York-Grand-Central.h11606.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754920&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=553248635976383085&latLong=40.75668%2C-73.98647&trackingData=AAAAAQAAAAEAAAAQdhCQeUDKbFKZdXT3CSMEHE8-to7L90N7CtRxp2AHhcrbopvKRF4P5hNFo31ih4WNUFx77Az7i3zbePLwsbBPhDQ6PZM-Cy5giM8eHsB1DJfRLw3NTmjPT-8vtRIIebY9bMbCCqbOTiy1CWgedrGjyNGspnd04QKTtuP0tTVDNQFEDxB4aS_ncpWFHh7gEELAefPAoYX1ZLWwCzsQD_nE1DJYQ-k1KqtZD0Qbww5XDVXfNvik_80CXft3ydbcJQXOvEA4M-CMTOHEUQNF0Wi6FQS1P4yCNsWKWrgYOam4Xa3w0f13rmYjXQxz1-eSOXcXdvq0G1VX568-hzvSlFFSKV3pmtVkh3S6qJSNUnMaqKl2srD0ucTIOz0dBeSclRzYn7wtxyxkTur9NlD0yKYllI7BqPc0iqTsbfI6LEpbI8gtK87N_tWd7vSdKv7TKgXvS2REec1V3ks5h5uBOjqE_sEB9uQjNRtm9FA5EL2gfIAcYqzYz8B9Jz5EBIR5oNpD-vpR6D9rmGcu8yasHDvnfimZz36xwgh3_S0AjpH0pr4ZkPsOFqirSmm8xvhwSRPciYy2uE8ffd_NRNNU6wjXK5m_EdvsNRrsaBvhILTvH2Mkr98sav5Jrxs-Jm-9HKyLS-ORQ88TbLygTh7jayBr7Zb7n4r9ve6rEk4PM3Q8FYzEoDZRIusxBpfAWEyK91Ghjy6dl-9DSTp8SMbUUUa4VtoV2UNE1FPSJtGTqoZX0VlPe58iHVrXVd-e9W06rqKlL0DvK8dbBpzpJpobBBPXLWTh-4gyVJl67dPefiErq5NkKQ5XKylsIfw3SA4qbAdbRP2YK5PCeQXiCHllz7cfUhwMgsknD0w_CUsL2EmZh3fS5WAEttSKva0k2RYeSKL8VtxMKhf1zEaBOnY_RUDHNLNaj30eLQtuAt6oEOx0qV5FXU9g8yPh0o_DnNJzweK8Bc5mcWCyEHyxTOK7F-TlFUPMIToFCoKXMHrOwJEPEiJAU5iZaXgXTwu8GwHhdYlBq7ejbALcJ8gu3HSYMAm5urZCXUp_nqlB1d4kNVhWbDuT2sJizlzm_PLt9vVb5CZgSOVLkHojy0-u374wHifjElVEIFhA3AY8Ej9OarOpAVcgN5JktQXkFMKLc1VS-A8j7FNTZN8_Lt7fJP1BpGFGh-csrUUuUGZkDuTjawl8CrQ6ymfmt4fJXImQdKDwRJDJlqfzlEnqvZVr1CS0N-r4IztwNhiP1sq788j16YLZ2L_g7AlZXEc2TLPIVpj59Ca_ROsXePB-EZdmZ6e-edcbC54SKLuyRmEVLcoCWuhYh-xr19dfJUgj17gYnTtdJ6hSeFVJ-z6INvg5VPNWyN6kY-psVd7J1eOd6sxbahnI1rT_cneb43wr1bgdOvIa0YKZmuYbVAntbW-znVv6eP9xuVVP0LL1ZakReTLHddIK89g77FRfmPYRiz_AL52Y8Kdh3ODaPWUvLySyzNa9qTp_psdqt_6ChId9ucbyqhGI5Ox_1-9p-EEhjGxye_NxbEu6AVsw-V18STCpRW8PYXrOrHtQq_SYl-f2T3uTultCGDMN6ZTWnN-6pHxrhzyQh9XeHEs1GRUkKbMZ9GcyrHYMJCznem8AifGPv6ug5T1L97NYcXL8caAGKTllWN3x7hvvAUpV8XUeJ-V_W4wNSioA62B7bLSPEerxavLBFW2t-HwDJ66rnyq1NJjAN1ASCOy32VEySP8tbq0ao0D37xa5VmELEbbCXZKbucMq4-4TeTSK80WhvGzh_jYsBwOHubWUEsakvKk_iEDG3-9mhGFgkab6h5OJ0-_sD2DOgo3wVVjeydi-xM2RGQAkPC6Z-9ciY2EhSLF2GGPZ7uXkQ23Oyvj5MnUqOcmB2gZdMXAY1Hix_njl7pbTl42A3hP2sOihh5xtX_bN4--zJQv33KTZ2q72eK0J9Dr5_0CDmBlgjP0OS1U0Lj9LPy4YyVuL5czgVv2EQZXOZpQqVEyL9GK8VHmbAYCAMNMGGuedwUJSUAdLlbcPPuUfTuoDbXLl_Usy0PnYJkluZLT2zaeJOdehDbAPRewSitVXahsij3FeuJiB97H1w3katWdvcASmQzrWkXu-HxggCPFSpe6odLTKOLMqaE0vzuupbGUSaXLasFUg6F1oqcMFMfpqdmBM24p_eGvmlhEv90nPZgr7wntjgZY7E23ri7soqOcJYYB4Xt70UAwWYbTGcmBwrkRtwny7X4OiHe6CmbHYWFSeOPQ_d5L2ryGZSMULqwwpxigIT239jCiVk3kKesfcLvH7Jd9Ls74tizVZwJrfQG1XRt4mzyBzJ9Dm036LaqOIy9_TaHMIplUyccUd0YOIK8Ul56ZQ9dKfFX2ZDkkCrmctJWqk9ceoReXH_dQz-TYzCjOYesur4WInfz8Ab_CAe-jyUSgh0Ir05tA87DxGtar-0xIR2FQeCPYNDm_WxhgyxmLwPWwrV--PxR3mUxgEsp4Ym7vkjuGixhDhtyG8KizEoSd2-A%3D%3D&rank=9&testVersionOverride=Buttercup%2C39483.0.0%2C50206.169039.1%2C50028.0.0%2C50813.0.0%2C49817.165296.0%2C51642.169494.0%2C49460.169941.1%2C51690.0.0%2C52131.187852.1%2C52527.0.0%2C54709.186895.0%2C50988.158353.0%2C54072.190141.0%2C53989.186894.0&slots=&position=50&beaconIssued=&sort=RECOMMENDED&top_dp=329&top_cur=USD&userIntent=&selectedRoomType=216352945&selectedRatePlan=262230172&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=Westgate+New+York+Grand+Central"
+  },
+  {
+    "name": "The FIDI Hotel",
+    "location": "New York",
+    "price": "$241",
+    "rating": "8.8",
+    "star_rating": 5,
+    "review_count": "507 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-The-FiDi-Hotel.h74597374.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754920&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6346972&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=241&top_cur=USD&userIntent=&selectedRoomType=316181659&selectedRatePlan=385845871&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=The+FIDI+Hotel"
+  },
+  {
+    "name": "Hotel 27 by LuxUrban",
+    "location": "New York",
+    "price": "$259",
+    "rating": "7.6",
+    "star_rating": 5,
+    "review_count": "511 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-Hotel-27-By-LuxUrban.h2781573.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754920&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6360639&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=259&top_cur=USD&userIntent=&selectedRoomType=324817120&selectedRatePlan=395920571&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=Hotel+27+by+LuxUrban"
+  },
+  {
+    "name": "Virgin Hotels New York City",
+    "location": "New York",
+    "price": "$495",
+    "rating": "9.0",
+    "star_rating": 5,
+    "review_count": "1,728 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-Virgin-Hotels-New-York-City.h87406830.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754921&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6360639&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=495&top_cur=USD&userIntent=&selectedRoomType=321325926&selectedRatePlan=388591847&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=Virgin+Hotels+New+York+City"
+  },
+  {
+    "name": "Millennium Hilton New York One UN Plaza",
+    "location": "New York",
+    "price": "$401",
+    "rating": "8.2",
+    "star_rating": 5,
+    "review_count": "1,387 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-Millennium-Hilton-New-York-One-UN-Plaza.h1639.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754922&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=553248635976383202&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=401&top_cur=USD&userIntent=&selectedRoomType=202171698&selectedRatePlan=238056946&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=Millennium+Hilton+New+York+One+UN+Plaza"
+  },
+  {
+    "name": "Best Western Premier Herald Square",
+    "location": "New York",
+    "price": "$290",
+    "rating": "8.6",
+    "star_rating": 5,
+    "review_count": "1,012 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-Best-Western-Premier-Herald-Square.h5981093.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754921&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=553248635976381758&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=290&top_cur=USD&userIntent=&selectedRoomType=324366916&selectedRatePlan=394349692&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=Best+Western+Premier+Herald+Square"
+  },
+  {
+    "name": "Chelsea Savoy Hotel",
+    "location": "Chelsea",
+    "price": "$275",
+    "rating": "8.6",
+    "star_rating": 5,
+    "review_count": "2,086 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-Chelsea-Savoy-Hotel.h3509538.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754922&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6142489&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=275&top_cur=USD&userIntent=&selectedRoomType=486192&selectedRatePlan=1894978&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=Chelsea+Savoy+Hotel"
+  },
+  {
+    "name": "Madison LES Hotel",
+    "location": "New York",
+    "price": "$218",
+    "rating": "8.0",
+    "star_rating": 5,
+    "review_count": "788 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-Madison-LES-Hotel.h26731774.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754923&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=553248635976381132&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=218&top_cur=USD&userIntent=&selectedRoomType=221716817&selectedRatePlan=298191039&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=Madison+LES+Hotel"
+  },
+  {
+    "name": "Wingate by Wyndham Long Island City",
+    "location": "Queens",
+    "price": "$188",
+    "rating": "8.4",
+    "star_rating": 5,
+    "review_count": "943 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-Wingate-By-Wyndham-Long-Island-City.h33690960.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754924&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=149004&latLong=40.75668%2C-73.98647&trackingData=AAAAAQAAAAEAAAAQIzMCcWT6__y-Xdk6Xp3Lbjdyapsop8mjpiyD68nj87i3TvFb_8h01YEcVG97gHRY-IZMhC99TdTb7IVhZam5Phu22ELoq-gyy1i4g_hVwaKrCdnESfX1viGQy3yxELK6zs5xIYPxquOn9HQKnmLYqhzGCJy6NolpLrTFLhA8hM1tKCBm7CCcVTWkApFItUlwNltSmJUwmFRpfXAr6IciyFG9XxMP3rkRljvrTVr0dNYJ6Dd0agM2EYPCHxbOV6I64_xNbrBpThDGoy2s2ZFdHU7PErIOQJqJIcVWHH8vpkGOsVodxG-Yw5xsBjVjdOvIENlmlbKASb5ZQczpmuFKN_tr1poSgHq7-Sr04lAGqOoUbAgm0S07Id4qJUx2GI-owXPOoBFVXO3OeAFindvYGplnbJzIYnuSDo-a2YUdiZ_brbzHfAAxDAStmVQBX7DzSSED3Xo893A4bAZiiE8lWJfsSBKdkQYdymTdA-bh76pVbYGweHs7LJcRMDtwEXwYfm29vcEP1X0YO6-cHR3twlDCmZ-7CLd0tXkdS74qEFy4RsZw-KBnyFCSGUl5roD-56iSn1_TJ3_qYPX7AQ-GmCirrlVhjJSVbGaVgS8EedE0TncqwHkSky90detsnOHBu5OozytnSjptNtSLlo_6TcMlFeRVtsdhVvC7zPAvHoEDNh6fdSuvU0OrARSjIs5angrPUPiqEI7XimH1jFhXwQ7MaXr3ANRdqah3KaZ7YvN9SSBF2GTTky8jXUhVl5I9JewBwFEDdEi3M0L6V53gfkE0sWhy_zG2OO5gIHZN71UBGmJX7k_SrFWLc3fRrAJhJ97dLjLVPW_Xtr-vr7KjqP5hJ7i50Vl1Y7_LrbGp_VF2QEZibJTBXeGIQpUs8lxvZiL4vuKJQDdM_K2pLlDJo0vspSCLNOaoU6p_Matqxb-Iu7DM0h0y9ijgWt0KuzKbpxTNOkvRYelVIPSQsngaGKWtSI6Fj3HwmRF-AI1_2bEla-dVdSGAEm1kZss3vPgDkiWSk1n5MmKUBjsmGF6WC8czaDdyH58NPR6ky40zSu4iBlE_xsNb2zJyVsL9q3tHI1xlZY7awtsDmb_4rz89xntFz-odLHMyLr6BRRGDL2xr17UnA95zLReJ2i9plQM6Itq5oXU9MQMLJgbfK2tQmqdITJFz55SGc2ldbb7XWFhPK982I8_z4NggokhEp-xaS010W-bC-zB5_kdgwElBPjX5f9epUstZZ7WBYlVEZPSpvQ7bi2sTYUaXM-y7jbAG59H_UcmatR7R2e2IRhdiwVliLMR545Ub7P7Q_LKUltVtpTrACGksq9vVR13LHWPAjMQSPN3leXbOK-OHPXrEgz4yxp3n_qKCE5AGhSxVjjis5AtXReRI9E-sgol9Wyui8Dq1us_xYp3uUVKXV1o0rY_U_4JIfNylEjwiHHRGEcP4fsDs30VX55gHgp9K6_xOQ1K0Yt5zh-nfrJopeEZ0fKR3MRnM23mb8LYD32L7xmsDYGeDSa2s2UU6tH8jZf8J5FTF99a00pgRhM_7h_6f2KhfflOiQUa3CrggPlr4VFAewa_X8vDuCpEd3GbzAx-WaXJNWg8xt7TXkATmO-PfmudL50Tfeb0vAEmsnnkuDtp-fqRIsz7tpj3AefOqvXogFGnDYRWJ0sY4VX89Xm1nf_6_MSgsCGoNuupBjB9I0OTS1Od1i_rqDFgbZl2_FOOpRQzz_QFijirtK325c5JIvP7qCfFxDvLDoxpSc28GdsldNpPtxMRgp9coS4PQLbLIhvlQ11YA_EG0oZkD0KPBpjqE_FkMVGQBfbx8G0uExidgaRoA7yhAoxesC6egPSKoXY0pyU8K4IdPgj-J0e-K3vIf6XdjmHRb_YndKdfQn6ygBY9inmtS-gxQGqXls5nw40RQPYOrL9NpLWy1iHZodcwT30Warfy9zyHf9aqBIIi38KFsqSTOeMPdGnjHdCDUSggIUvHlWhXA8kq3m7hVis_RZZrwiT7nF7HcgzWkLklFxVnKThkIXMZvajGuLcPEH8vtPS3Tiht4WakyuNnSD0pIGkOBe1RXEI8egYd5glCNNOvEbYljuvoyHoTctBJG_FHfhOjWgw2UtK0--cMLP0NL4l1FSgorof3JCQWcC4ce-dy1YKq39KssXgkiK1b_E9H8pdBx4yYyEB-en6_tbPrmijcHqObiXrBHtDq0kBUyGOXsIENopsVFj3L8_b1ayPOzyjsSWuEQox9Ww19d6pXPe5Osd_49STXF1iUEsiP_9n9TuUy-BqfYX9fH97yc_9viu1Z7wNvYyRLTmSA02SK4YTXHqHyvhSBCKDxnQo6SiH1phsTSVv9xwUanRYukB1Czj_qyaGYrTttGWFPYR_oByKsLaUUFAPVUyGlJgidbF3TKuZkmCzhOc-nYNsmnM_AiWDzifJ0aGiCvCKPMUksfFGGiynBsExsrx1lkNJoLsnAHWRJlqWrdHL5lueCe-alSVB4nXv-MaMkxMAv2Uw%3D%3D&rank=10&testVersionOverride=Buttercup%2C39483.0.0%2C50206.169039.1%2C50028.0.0%2C50813.0.0%2C49817.165296.0%2C51642.169494.0%2C49460.169941.1%2C51690.0.0%2C52131.187852.1%2C52527.0.0%2C54709.186895.0%2C50988.158353.0%2C54072.190141.0%2C53989.186894.0&slots=&position=58&beaconIssued=&sort=RECOMMENDED&top_dp=188&top_cur=USD&userIntent=&selectedRoomType=320143094&selectedRatePlan=387094502&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=Wingate+by+Wyndham+Long+Island+City"
+  },
+  {
+    "name": "The Hotel Chelsea",
+    "location": "Chelsea",
+    "price": "$680",
+    "rating": "9.8",
+    "star_rating": 5,
+    "review_count": "771 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-Hotel-Chelsea.h1551375.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754924&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6142489&latLong=40.75668%2C-73.98647&trackingData=AAAAAQAAAAEAAAAQd1TDTHOze4Nw_DaC5sR_RkIYkZwTuDI7Idyh1_TlPrZZcCpb_wgAUGa-7qCkW-4fEKzPIKgg1SpidnmT7rDKUf9iKGQcIWQf7JaW_F6QWn71SZfcQZKi5k0d49xEHG2ujyBQdmWhIh338XZnE9ODdXPPU4of5beCAyPG9etKGod8MOQVmbpFnLT0gTtL933hpgwhf2AFK8KV7ImIjXl2TCazj3898PQ1DguKhSeJQ0yFj9OnNZx2AAJEflt1uGO2msXvrN-zkxzu_eM3ft_hQLYCiX-Kawz7FDgDeuINlav8-1uUs30_B1Vl7DOjGeIoWsy6-rcT1c8aWPU47tuRP5auj8XPwbogbUiyIk31vuU8twQh__1ZHmzsTbGdaE_oPyhKK83szZPS2TNmoss1UIlD2E0AhfgOUrDCSBqi52WPm2P5I7Xgxu9RkmEQZkmfvjSjeL9TE_iVoxUSvPETAKOGsRdnpPJu4mpNnKGZFmWXPT1B23bGi9aWfuLpE5-XTZI7_jotEpLbm2HJzoL06hGcVvQfqlu21Z2HP-nGfaWYs77HGk3JmJhStVH1oAOqmVQxmDBJTAkiIw8TNUcV2MV3DqVxsjjDotIbuNl77tWEKHupU5d_IJJhK67MvAEYRsmPeRt-mwdqpn2dFjkNAKyw42lewn21knAfNMahZHWV-eHUQRLXaQd5kD_d3CEJdkWKDxVomB9AnA_OSlnJwG1MWSl6Yhni1zX8WfKgFATFax57OAGcsyU49T6nNsI2J6ovmaahzOQUEgwpCt2iY1vn7yIjb6ME0KF3ijnCsZOYPiXNnXADSb0GORCGQZHVjWyyW_ZEGrASX7XQ37NSTvfGfnu2J8RGBPZ4Hxxp-dljIwwyEHEkCXX9r_OvjkTjVzIvbPfOjK95tkOvYr2tk_pTXv2sxpJAsANj0k_7v51RDcPZ72CiNyWEinHwEuYJVsplfDp4esdb9vUNzSBj9mlB-oNWFOqNIeRRgnVBji-5j5bX6QRxl46s-WEdxCwSKdmppMkki5TNDS9UDsm91x4TrCXLTp5FUCAkFUTlUMXcYXujguDR8H6bEWDHThOLvdKuw3lKkyzgKzyeYL_mUjahZmrHvBfosXWhqF4_o7hRQFxhoM6iHgwYM4-yQvzOVHG5GClezoPlykbSkWRFs80cxG01V3WAuWlk55OyzVGiNPFZW3ROhuEPbGokcR2GdIK8txX6QhRnXsrbIUl0yFJSAGpdGiWFvSZ5wRX9egRgH1BrohfUZsGUPs0wllVAgSMk96h_EKG9OO-WVMK4KQM9UcAz46XsF-NYtCOcOInPgT8cirl8fKgizUQy9sCBOloK20mg10e9ECozfOmUYZPVe7j4CzXeRK9EXXclgRO07rSx52vs-KmQpDyj_cAWBRz7J5puyrkc57ATAPhWAr28z7k5lYWWWfBdPWiHZloUhBvEUsFinp_Sj4PpiCoO3NIXr1F46VNF5w-PuN1ZeZZDty509-sev9Ebwq_ScXsuil1uVgJsGUwaKt4E0LR0H-ha-CJ-D7ZMnWtnYwIS2wPuxSfgUyNyiwj8vbfuKxRyUpC1Ub-jmFU__vNaPAY97FdzDNpU6VJm24Y2TU9zeFhTGwc6HFbtWz3KDVxlFIipjCdudPWS7FNmw8WZ7XD6DvlJUUhcfOE0mhDUPjYs8kyrOn-INW0pT0Zppi4ODTfIyjRs0Qx2Y1Ray2mIi4YN2czoPdVfydHrG7pmO4NyscvPzmdp_J-HQGkoiOO0QJ4mgiq_oGmC2mxWvqi9YPtFRVgFk1SudcPYRx_bMTys2-zoH3OIEnsIJpSk0DZJItxjGMOctn9YRFNGaVX3w35J8oblJwY47sdBV4z6WqEgPJjQlL060ValzwwOv1VQpx75EH6H1Ln-XEXVBjT-HihBlJOOngsqaCgZZR2JkR_9dOlfb2WuHXNsiaZSGLfk_E42Ul6D4eTUl669qxSnG-KUX-GSKuiM5VFQtRhJUX8LGdljVxhhrMA24evInIwVfeOAg5N2HQzRKx7UgPgyQL6fNjxqDzvBqyok8S3Bjmo81udz2C0THRvfxhRH2YCk7DpiuWpNvqmVUXYOEgSLhgBYURzYXtYxwJPa2ipcJxydHPXZWg8jTL8goTZi4WPDiVaMW8wV2RuVPtetPmWOBUgPbxnjSZcLST7ghYJ9gAbbY4y7ir-mNfP13X9VSkX-Yyq1OA8P9ntthMuiRppuNUo3TtKGLkZncdhE5EZTaEFRDoD1M9HDhFL_IEYij9bTOi24yD4XiVibk-RyI5TSrzuaslWL9AP4MJ49AGxfRxHRbbzRjOCM3neIN57hrBhhflSG4lL1hyD70ebTjQyeK5WycU0KAeFdhG27Q5Raub5Tm71hXcwKGaCHmYIIXtHcxe9ZUb3uuivCQQ18kFccMtyKstq7xAFo3wIQtHoLkv2a-55SiCS4XdCvMNiTGGTXoAm_lMb9YL2m6VFdp0AYy_sa5JO6ipbk9Kr14othXlCNVw%3D%3D&rank=11&testVersionOverride=Buttercup%2C39483.0.0%2C50206.169039.1%2C50028.0.0%2C50813.0.0%2C49817.165296.0%2C51642.169494.0%2C49460.169941.1%2C51690.0.0%2C52131.187852.1%2C52527.0.0%2C54709.186895.0%2C50988.158353.0%2C54072.190141.0%2C53989.186894.0&slots=&position=59&beaconIssued=&sort=RECOMMENDED&top_dp=680&top_cur=USD&userIntent=&selectedRoomType=316681501&selectedRatePlan=386828556&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=The+Hotel+Chelsea"
+  },
+  {
+    "name": "Hilton New York Fashion District",
+    "location": "Chelsea",
+    "price": "$305",
+    "rating": "8.2",
+    "star_rating": 5,
+    "review_count": "1,013 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-Hilton-New-York-Fashion-District.h3117215.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754924&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6142489&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=305&top_cur=USD&userIntent=&selectedRoomType=200049154&selectedRatePlan=220069288&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=Hilton+New+York+Fashion+District"
+  },
+  {
+    "name": "Hyatt Centric Wall Street New York",
+    "location": "New York",
+    "price": "$261",
+    "rating": "8.8",
+    "star_rating": 5,
+    "review_count": "1,009 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-Hyatt-Centric-Wall-Street-New-York.h2822237.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754924&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=553248633429418894&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=261&top_cur=USD&userIntent=&selectedRoomType=200806484&selectedRatePlan=396917312&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=Hyatt+Centric+Wall+Street+New+York"
+  },
+  {
+    "name": "The Hotel @ Fifth Avenue",
+    "location": "New York",
+    "price": "$297",
+    "rating": "8.0",
+    "star_rating": 5,
+    "review_count": "1,330 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-The-Hotel-Fifth-Avenue.h28291.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754924&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6360638&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=297&top_cur=USD&userIntent=&selectedRoomType=314348541&selectedRatePlan=383117318&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=The+Hotel+%40+Fifth+Avenue"
+  },
+  {
+    "name": "World Center Hotel",
+    "location": "New York",
+    "price": "$306",
+    "rating": "8.6",
+    "star_rating": 5,
+    "review_count": "2,176 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-World-Center-Hotel.h3016196.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754924&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=553248633429418894&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=306&top_cur=USD&userIntent=&selectedRoomType=200257654&selectedRatePlan=201507037&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=World+Center+Hotel"
+  },
+  {
+    "name": "Arlo NoMad",
+    "location": "New York",
+    "price": "$395",
+    "rating": "8.6",
+    "star_rating": 5,
+    "review_count": "1,378 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-Arlo-NoMad.h12521969.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754924&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6141525&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=395&top_cur=USD&userIntent=&selectedRoomType=201603734&selectedRatePlan=208145585&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=Arlo+NoMad"
+  },
+  {
+    "name": "YOTEL New York Times Square",
+    "location": "New York",
+    "price": "$321",
+    "rating": "7.4",
+    "star_rating": 5,
+    "review_count": "2,261 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-YOTEL-New-York.h4182702.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754926&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6203474&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=321&top_cur=USD&userIntent=&selectedRoomType=212416440&selectedRatePlan=381264042&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=YOTEL+New+York+Times+Square"
+  },
+  {
+    "name": "Crowne Plaza Times Square Manhattan, an IHG Hotel",
+    "location": "Theater District",
+    "price": "$323",
+    "rating": "8.2",
+    "star_rating": 5,
+    "review_count": "2,410 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-Crowne-Plaza-Times-Square-Manhattan.h24954.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754926&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6157019&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=323&top_cur=USD&userIntent=&selectedRoomType=436914&selectedRatePlan=390704451&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=Crowne+Plaza+Times+Square+Manhattan%2C+an+IHG+Hotel"
+  },
+  {
+    "name": "Holiday Inn NYC - Lower East Side, an IHG Hotel",
+    "location": "New York",
+    "price": "$251",
+    "rating": "8.6",
+    "star_rating": 5,
+    "review_count": "1,004 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-Holiday-Inn-NYC-Lower-East-Side.h5148566.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754926&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=553248631819633287&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=251&top_cur=USD&userIntent=&selectedRoomType=200283567&selectedRatePlan=390697873&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=Holiday+Inn+NYC+-+Lower+East+Side%2C+an+IHG+Hotel"
+  },
+  {
+    "name": "The Shelburne Sonesta New York",
+    "location": "New York",
+    "price": "$332",
+    "rating": "8.6",
+    "star_rating": 5,
+    "review_count": "1,413 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-Shelburne-Hotel-Suites-By-Affinia.h27283.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754927&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6141728&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=332&top_cur=USD&userIntent=&selectedRoomType=200188793&selectedRatePlan=236146589&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=The+Shelburne+Sonesta+New+York"
+  },
+  {
+    "name": "Hotel 50 Bowery, part of JdV by Hyatt",
+    "location": "New York",
+    "price": "$322",
+    "rating": "9.0",
+    "star_rating": 5,
+    "review_count": "1,009 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-Hotel-50-Bowery.h14873518.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754927&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6004549&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=322&top_cur=USD&userIntent=&selectedRoomType=219950996&selectedRatePlan=286219513&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=Hotel+50+Bowery%2C+part+of+JdV+by+Hyatt"
+  },
+  {
+    "name": "The Standard High Line",
+    "location": "New York",
+    "price": "$479",
+    "rating": "8.6",
+    "star_rating": 5,
+    "review_count": "1,166 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-The-Standard-High-Line.h10630123.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754927&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6141727&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=479&top_cur=USD&userIntent=&selectedRoomType=316008574&selectedRatePlan=396163906&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=The+Standard+High+Line"
+  },
+  {
+    "name": "EVEN Hotel New York - Midtown East, an IHG Hotel",
+    "location": "New York",
+    "price": "$260",
+    "rating": "8.8",
+    "star_rating": 5,
+    "review_count": "1,194 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-EVEN-Midtown-East-Grand-Central.h14677195.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754928&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=553248635976383202&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=260&top_cur=USD&userIntent=&selectedRoomType=201471910&selectedRatePlan=388232392&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=EVEN+Hotel+New+York+-+Midtown+East%2C+an+IHG+Hotel"
+  },
+  {
+    "name": "The Marlton Hotel",
+    "location": "Greenwich Village",
+    "price": "$399",
+    "rating": "9.2",
+    "star_rating": 5,
+    "review_count": "1,008 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-The-Marlton-Hotel.h6572869.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754928&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=110832&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=399&top_cur=USD&userIntent=&selectedRoomType=200720920&selectedRatePlan=203577445&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=The+Marlton+Hotel"
+  },
+  {
+    "name": "Aliz Hotel Times Square",
+    "location": "New York",
+    "price": "$295",
+    "rating": "8.0",
+    "star_rating": 5,
+    "review_count": "1,132 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-Aliz-Hotel-Times-Square.h24408324.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754928&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6141724&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=295&top_cur=USD&userIntent=&selectedRoomType=314051255&selectedRatePlan=388852934&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=Aliz+Hotel+Times+Square"
+  },
+  {
+    "name": "citizenM New York Bowery",
+    "location": "New York",
+    "price": "$439",
+    "rating": "9.2",
+    "star_rating": 5,
+    "review_count": "1,210 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-CitizenM-New-York-Bowery.h22247316.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754928&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6141723&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=439&top_cur=USD&userIntent=&selectedRoomType=202438134&selectedRatePlan=212392468&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=citizenM+New+York+Bowery"
+  },
+  {
+    "name": "The Shoreham Hotel",
+    "location": "Central New York City",
+    "price": "$284",
+    "rating": "7.6",
+    "star_rating": 5,
+    "review_count": "1,006 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-The-Shoreham-Hotel.h18352.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754929&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=553248633938969338&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=284&top_cur=USD&userIntent=&selectedRoomType=321967396&selectedRatePlan=389941735&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=The+Shoreham+Hotel"
+  },
+  {
+    "name": "The Lucerne Hotel",
+    "location": "Upper West Side",
+    "price": "$329",
+    "rating": "9.2",
+    "star_rating": 5,
+    "review_count": "1,761 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-The-Lucerne-Hotel.h41203.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754929&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=800075&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=329&top_cur=USD&userIntent=&selectedRoomType=315530259&selectedRatePlan=383863117&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=The+Lucerne+Hotel"
+  },
+  {
+    "name": "Courtyard New York Manhattan/Times Square West",
+    "location": "New York",
+    "price": "$409",
+    "rating": "9.0",
+    "star_rating": 5,
+    "review_count": "1,180 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-Courtyard-New-York-ManhattanTimes-Square-West.h6092805.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754931&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6141724&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=409&top_cur=USD&userIntent=&selectedRoomType=200303180&selectedRatePlan=201825261&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=Courtyard+New+York+Manhattan%2FTimes+Square+West"
+  },
+  {
+    "name": "Hampton Inn Manhattan/Times Square Central",
+    "location": "Theater District",
+    "price": "$319",
+    "rating": "9.0",
+    "star_rating": 5,
+    "review_count": "1,675 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-Hampton-Inn-ManhattanTimes-Square-Central.h10961545.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754931&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6157019&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=319&top_cur=USD&userIntent=&selectedRoomType=201148460&selectedRatePlan=280031033&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=Hampton+Inn+Manhattan%2FTimes+Square+Central"
+  },
+  {
+    "name": "The Jewel Hotel, New York",
+    "location": "Central New York City",
+    "price": "$395",
+    "rating": "9.4",
+    "star_rating": 5,
+    "review_count": "2,059 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-The-Jewel.h3928653.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754930&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=553248633938969338&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=395&top_cur=USD&userIntent=&selectedRoomType=200257707&selectedRatePlan=382413169&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=The+Jewel+Hotel%2C+New+York"
+  },
+  {
+    "name": "Hotel Indigo - NYC Downtown - Wall Street, an IHG Hotel",
+    "location": "New York",
+    "price": "$275",
+    "rating": "9.0",
+    "star_rating": 5,
+    "review_count": "944 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-Indigo-NYC-Downtown-Wall-Street.h71756627.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754931&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=553248633429418894&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=275&top_cur=USD&userIntent=&selectedRoomType=315676296&selectedRatePlan=384904463&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=Hotel+Indigo+-+NYC+Downtown+-+Wall+Street%2C+an+IHG+Hotel"
+  },
+  {
+    "name": "Broadway Plaza Hotel",
+    "location": "New York",
+    "price": "$350",
+    "rating": "9.2",
+    "star_rating": 5,
+    "review_count": "1,516 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-Broadway-Plaza-Hotel.h532999.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754931&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6360639&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=350&top_cur=USD&userIntent=&selectedRoomType=321423559&selectedRatePlan=391992207&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=Broadway+Plaza+Hotel"
+  },
+  {
+    "name": "Archer Hotel New York",
+    "location": "Central New York City",
+    "price": "$413",
+    "rating": "9.2",
+    "star_rating": 5,
+    "review_count": "1,011 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-Archer-Hotel-New-York.h6763732.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754931&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=553248633938969338&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=413&top_cur=USD&userIntent=&selectedRoomType=228648247&selectedRatePlan=264364144&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=Archer+Hotel+New+York"
+  },
+  {
+    "name": "Hampton Inn Manhattan-35th St/Empire State Bldg",
+    "location": "New York",
+    "price": "$312",
+    "rating": "8.6",
+    "star_rating": 5,
+    "review_count": "1,006 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-Hampton-Inn-Manhattan-35th-StEmpire-State-Bldg.h2191646.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754931&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=553248635976381758&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=312&top_cur=USD&userIntent=&selectedRoomType=201127375&selectedRatePlan=222067818&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=Hampton+Inn+Manhattan-35th+St%2FEmpire+State+Bldg"
+  },
+  {
+    "name": "Hard Rock Hotel New York",
+    "location": "Theater District",
+    "price": "$529",
+    "rating": "9.4",
+    "star_rating": 5,
+    "review_count": "2,991 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-Hard-Rock-Hotel-New-York.h74799455.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754932&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6157019&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=529&top_cur=USD&userIntent=&selectedRoomType=316260606&selectedRatePlan=385701048&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=Hard+Rock+Hotel+New+York"
+  },
+  {
+    "name": "Park Central Hotel New York",
+    "location": "New York",
+    "price": "$279",
+    "rating": "7.6",
+    "star_rating": 5,
+    "review_count": "2,858 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-Park-Central-Hotel-New-York.h4164.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754933&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6141524&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=279&top_cur=USD&userIntent=&selectedRoomType=200290018&selectedRatePlan=212014981&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=Park+Central+Hotel+New+York"
+  },
+  {
+    "name": "Comfort Inn Manhattan - Midtown West",
+    "location": "New York",
+    "price": "$232",
+    "rating": "7.6",
+    "star_rating": 5,
+    "review_count": "1,276 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-Comfort-Inn-Midtown-West.h5232871.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754933&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6203474&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=232&top_cur=USD&userIntent=&selectedRoomType=200192449&selectedRatePlan=383252227&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=Comfort+Inn+Manhattan+-+Midtown+West"
+  },
+  {
+    "name": "Aura Hotel Times Square",
+    "location": "Theater District",
+    "price": "$307",
+    "rating": "8.8",
+    "star_rating": 5,
+    "review_count": "476 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-Hotel-Mela-Times-Square.h1490016.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754934&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6157019&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=307&top_cur=USD&userIntent=&selectedRoomType=314899151&selectedRatePlan=383525721&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=Aura+Hotel+Times+Square"
+  },
+  {
+    "name": "Hilton Garden Inn New York/Midtown Park Ave",
+    "location": "New York",
+    "price": "$333",
+    "rating": "8.6",
+    "star_rating": 5,
+    "review_count": "1,003 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-Hilton-Garden-Inn-New-YorkMidtown-Park-Ave.h7946632.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754934&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6141525&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=333&top_cur=USD&userIntent=&selectedRoomType=200674672&selectedRatePlan=280042992&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=Hilton+Garden+Inn+New+York%2FMidtown+Park+Ave"
+  },
+  {
+    "name": "Graduate New York",
+    "location": "New York",
+    "price": "$309",
+    "rating": "9.2",
+    "star_rating": 5,
+    "review_count": "618 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-Graduate-Roosevelt-Island.h45998944.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754934&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6156947&latLong=40.75668%2C-73.98647&trackingData=AAAAAQAAAAEAAAAQ0GdJzGsQQ4IO6YkGhtnisormv4F-lzS34ESp_SgTtMNbkMG84OspkieCevhfs8Hi0zBxW2wiRlBiDdKJBmg5O9-7V6hWQNITalBjwlByD7uZHBCRl18_HiUhoxbnwj8bJqD_sg0Gu3vxUsDT1Bn-1DnZ1Yow8DwsJRcAWTdeUTs5SffYqkww0VH-fuhKLD5yNzcBZx02oMFd7ExfPQk_qG_eyJnPIQAvdKrjiufpuJP7bxcFBMEM9EeV1JBGQDiHNv-ExUAv4Xk6782QdtE4Vv0Hnpg9s4hPHsQOdCTOr3gKXzx3nV1q-Bjtr28M5a_jkb9zpU8QmMDzI3nF-wo_TWgZQhDU7Ia3dcBD0LsvSU2JOnJH_c9LGl_8NZcub1mEvR62GM2xCk5NgSsJYrVXoOGG7NK73JrpNymH7w60McCFhbgJQqU6xism8Srs6GdiZ2z6f6AGBDjg_bA4x_7eobm3_7acLl4eaVO-K0Z6DhdfWKg3JrzarhtvNqCg6H9B6hKkSxHLQPDu_tuvqlXzlazDcv06IWvtQRbMoz5w5qC3lG3a4-BnWI8rX0LlnFXJYFyJDcUxdJTVbWkOkpyz6s9RSQFgOS4l0uyc-WyWvFKl7Tc59vJJ6Hs80KCdsCoL3u4dI0Z9mOjC9Q8hUCSmTkMhw4F91H6pV1_2sVopOmd1ARTd3bBYHcOeqPVZJeK_NzXJmogklDGavoaAGP08ibaay5yv_bx4VPkLvwJS6XN-zi7A5Szs-8BoCCkHq-gyhkvjRXq1oKcZNK1tmzHxQf1FEKQ1ldWMp-nF57LkI5qdEqxOHYdzMnz-q40tbSggCkG2sUYJVWJeURFd3rZn0yaUkAiwJOBQ8Y_66f6-MXkHZ9ryhCTHk0s4Dh-BOuOb_rfXe2pWRI0_f1vwPXRM78T3WOSIQr9N9mgI3dsH2ttjdnEVXM5IBA2guse1B_wlqq9NwqKoyFJyHGRccwqYO_0xIi2y5jjBywkxKj3pacerCINueNTSaOANx3NjpOdNi0Rgx9igB8EsZqWZ5k6IOvMVh9bYo1ncCNb0J0HeODyHUT74YEtR1yQvfs_ichdJ0ovQpIbnuCFWj3Ayd37xEv9iJqSRVJkiLhCqgk_O7RRBCXS8kkHDrOBL5d1ZSYziZaxGLd1yqYaTiTluOgexQ9DZcIyKndyoXq3qHaVggnEc1qrjOJYVwupECeJ093MOAslhfwggwjzeU9tSuFGm8MnBQGJUZn96x1tHfRiRuL_CGhJEN7_bCry7JxK5tyF4hbV6SvdaWOOzeGVE4L1XqkKjoHSQ0n4PoHAfV0k2L32cBKCHcaShTVg8yj82PGfHinrJDtBgqOA0PVcXnLYv2Nzdn1MtGp4DTyVIKZlz3q1FoGPxUlc7TQjb1FknAfFBmyuJNgra6_BPJPYcaXQfim5ZKq2JXwxljiRC5Eap-WFQEXGetmg_Dzi-b_AywC_JhdbIBGRfV4ZHujQaa2jbuSE7PCQhBjAfPaC8I52N8INdwgGBtA9yocGnH8KdrLh3UYpDiJXUc_xawsDEW9-1YZSzWaX_cyVh8Y2kL-RE7iNbs8x0GpX8Yz6-cJ7qpzP6v0N3-26Tt88W4Io3mSJWPMwnYGn1QFyyZWu-VG6uD9oYI8Mj1Gd1YxL7YnMXwSERhAv3bkbPs1fXQCgNzza8Lhk_C4pQmU0SeZdWUZsNSCKAjO1ZIjZCtJYRJyTIB3B9uju3nowpn8Lb3X754V28zzotw4EhRcSDbOkVaEfUpA-f913RB9lWihzeKo8uRm-L_yA4UHdlzcOzvF3xcqOiGz03uQ_zap6B66AjldQZg8VRYA4fJ33iHhBvDQau6JxGcb_UMUVcMHcLzFP9gey36ZeejarkUWFTPoIlE1iDDDcIQeO98QZA0wn3hY_5j52JCnpJTDSFMGqvUZWN7KjeucMggQclzoAx7h22eDy84LoeO5bo9d-bKfmupB47cg6XURwnpv8bJMS76H_87eIf1-vq1cOJxGaJ2DG9ym_aNWQCjdOmeFHVEibcHjflyB3CaM0OynOPhegD1MA9BwD_2jRl6xw0jKHixCArDZrNsR3OAIJp_aoya04IvpFubQgJBKOLp4WcY_i5YzWULUjyVxPBGdHJajQnziLY6UL4nZLa0wUscrbWA3fiWFscS2xpicceaLl8GhTVXwk24TwMugT67Lt4QN8t7CiOz_TM2HTUXr9kuFskpVDpEDUziRNhr3ViAG_zDWVL8OAYcPgjIbOLcMDVaQIr3zq-82GzKejSgHmcqI-UQyXJ7vsjVRa9cexqN3w1E_ODzZWK3XznRCOAlcaw7pOSCiASN_t836Xxl84LussYNrL6QqDL-laOEFdvkvU65XhOotokNb7AMbOZuVNiAMyIQJjh9XSfmt-aNONP4EvjUqPrqwdcMeg0LuKgHi4gA1L8y0FS5nAV6Scd0jsWO6jXCOjtSN8uazgNVwNUV8xMU7fp2HBeQr06UfvWelbgPUaQ2DmUzHGvmQ%3D%3D&rank=12&testVersionOverride=Buttercup%2C39483.0.0%2C50206.169039.1%2C50028.0.0%2C50813.0.0%2C49817.165296.0%2C51642.169494.0%2C49460.169941.1%2C51690.0.0%2C52131.187852.1%2C52527.0.0%2C54709.186895.0%2C50988.158353.0%2C54072.190141.0%2C53989.186894.0&slots=&position=89&beaconIssued=&sort=RECOMMENDED&top_dp=309&top_cur=USD&userIntent=&selectedRoomType=227720779&selectedRatePlan=386725552&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=Graduate+New+York"
+  },
+  {
+    "name": "33 Hotel, New York City, Seaport",
+    "location": "New York",
+    "price": "$479",
+    "rating": "9.0",
+    "star_rating": 5,
+    "review_count": "534 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-33-Seaport-Hotel-New-York.h20868143.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754935&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=553248633429418894&latLong=40.75668%2C-73.98647&trackingData=AAAAAQAAAAEAAAAQXrT8jRoJW76TXq0_jluezywwb4wbmiiR7x5KGRtgHR_osxwDtOf-m8ZJ7NcQFZRYHpuaMZ5OzzQcwfLvtoQajcjp96C1sWwVg9q_aSE7hW0LgCp1ZVuh-p5cO76njhAmXNBkx2wINmZ1PinQ82bxWPlqUgSv1uD9cHjcwq0Ju2VUuV06sTOk769X-juq6H54_RJKOAuVZT28HNpVaKqCZcJYoxzRnJertNBQ8RucC9Dik-_TV4d0QkvKAM8-cQcZhGBea4mSRZIF54HTn_7kahO4SYorf3Hf75VQ7NMP2lTgwD7m1OUvceXRMDpGmIUH3v485fIDVSTUIjFWHarZkdqqGeX50WJTD84Wnx5_e7OzG_TOkMkJhDewLYil1nu-uStO-69JJdJwaC6p4_4ObIiynyM6k-YwnYgG16t1bPHnlXxvo0vq7aSFpM5CeJMoiDQsp566FsHmZ43tSo0M4CdOAsnvV2m6EMjkIwEgfDpttmi2P_C4S_FkjfIjWrBi4GpVNTOoohoc-IfjFuWLQBYpRO_r1UL5FcOqpZQa2LwEl5FJq8bf9rWVkoOdMe8a7mOhQgjPTbrcivyKGLNwHex3Ja_MD5xZ42VV-R0yr8fqu50C3kWAKlaMO_N9JBAoYhfq1-w67x2juUX7Ql9vUAUvgPi8773neTTeQtA0sdIlGsoxW4MQnGdcfDctNIsDW16_5x2KFjuS8B_uND7iQMRtlwdebk9GGh5h46C2OCymAbcWtIqFAH8Jc4KKEMuI5aAzDosK5xw32uybMiNHDX10VsdcON6R6f6RG3nhHZ7LGupYgkQI-fike2z1M2DbuB3U7q59CByF7zB5hx58X5QVV52WKI3rFL64e6ueqk3OCeIq2gCtq26hF-J1aGunnhrx-g5QcDk9bV_z3JEjAfd3MnHTI_0ML1An-VBd3hfGykC9eOKq2I4E6XSru9mS5lQvDuY4YW1HgTjeZKPiOt5fawp9SltY_HZuDhh6GHr3oRwdYuY8_c7d3bBd_16c5IQ3uTU9yRgX-HKV_zVUXugtgZtV55NuUa77C5qspAqgDicST3FaTVIzItvi8sLI_6qO3SsrHQ9RZu4jEGfwBqG3B62LFY-O6Ch-zChABE4I0mkzQdKOzGfz9qLFtsaeIPT3Sf9oRFQhjtFDwk_RRJizJkI3Eo4VLtpfgbMjHIjSBIQBtCRl26AYWh3N38V3Ed4tLmM0rd4n3iOsFquXhe-LRsIjA0icUN8hjA-dwDWrkkKslsVtQBj671kV4bb8ANHZsM28vlU_axxPawTJraNyprUK0CKSrMaVDBa917pu0Mkv6-5yvN0gRsoNRN0AeX4fMII9GwNPR52a2atIdQmVHwOgKEajbhQDZoZQ4GY17OuAwiS2pfOaghCBX5bOCWl2NFzjdbpfZBXVSeJrVg2AMGyPl2uR9-lwNN8IKjES191OUITtxzO2IF57bwYw_ggRQZVQhEHbc8LOuqRGzs6WEEyHw4OoE3j-97drRUcBiulNs0ZbFKlgSQt--icSq2g8CcduYqgkvzPrgxElAfEUnQpqxlcAtu5oyEusoOxcD5g0Nf0GNh3oYFPiW4pcNhH7SUvP59tHHf3eLwJoIRQvwDgMFT82CzE6pdMxeKUGbXcegiUCu5r4SNHAi2xG_oi4GVQkyPb-2r5tSiP6y5OdYVqsnYP02HjJ4oIoqUuPr_hReiX8_vlQd5Qiuokqc5VifHafYmE-ghoo-dU8BeD1Ylyc10e4ZbDZrTsRSJqQ_paKCh9PQcBcHIkQtTbj4-MMZfR8fLkvKbvcK9Zz3DVUnmR5OD2rcq--ioSk1qgo0HrH0sujK_Gz-GyYy8ftNbkHoAsYIywQ6LxqWHmRsr6CxIMIAGVNJ6sKYHasf3fstAkCN-7gl4RB4ACOBpm9gOxLeXOJu3krEq-I4g4MQzSgzEotqIbbqxaUqkv6gEVqfHV3vFprV6i5157dS1Z-fAi5WJVZYbC6ntm5UcFWIbC6szapuoEwNT5ETfxURMUCIUmZ0vyEXKoYjUCLVmaDSicCB0F4-8pipLKfRSTI5fiwzyXOdQcXTPPP7gsRYYKZsUlQjjQ4YAKtfLezU-cwUO65qKOJhXFjjBV5DYiXLbJH1aVIe-jK_BtBAHiumCkS_PDqAFrnUY9a57MF5SzgQE_6mJhqWxaXQYlIPqYaHo6JG1TiulwI78isUFzK3On4iHJjC0OAPKRVF2uV9cmz4Yp_G2jnBgw43R5pujCx2MgvrhZGA5JP92Pa6Wf7tiv-nzzJJBJs5kW0LyLTZwASmdHBKNHSK9nfRzs9t8SIg3s8GBG4-UDHU8tQBOgkCDQZmD1LhBoL-P_sHRvhjzf2fmWtq1507fj34Th8i2pNXhKjmYYLd3xt4_iSaQPGXFMlAhGAJZs2mN90HD2wBv13ioV5qVunw4Mrp9T9rqmBSpjDAZKOtloGhUW2E9491h4iELhl7zx8KKDU2fXCAj4dfOoRN3et89eBAx5PhoLc6w%3D%3D&rank=13&testVersionOverride=Buttercup%2C39483.0.0%2C50206.169039.1%2C50028.0.0%2C50813.0.0%2C49817.165296.0%2C51642.169494.0%2C49460.169941.1%2C51690.0.0%2C52131.187852.1%2C52527.0.0%2C54709.186895.0%2C50988.158353.0%2C54072.190141.0%2C53989.186894.0&slots=&position=90&beaconIssued=&sort=RECOMMENDED&top_dp=479&top_cur=USD&userIntent=&selectedRoomType=321525994&selectedRatePlan=388989737&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=33+Hotel%2C+New+York+City%2C+Seaport"
+  },
+  {
+    "name": "Millennium Downtown New York",
+    "location": "New York",
+    "price": "$341",
+    "rating": "7.4",
+    "star_rating": 5,
+    "review_count": "2,406 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-Millennium-Hilton-New-York-Downtown.h892034.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754935&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=553248633429418894&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=341&top_cur=USD&userIntent=&selectedRoomType=316046170&selectedRatePlan=386400786&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=Millennium+Downtown+New+York"
+  },
+  {
+    "name": "Four Points By Sheraton New York Downtown",
+    "location": "New York",
+    "price": "$279",
+    "rating": "8.2",
+    "star_rating": 5,
+    "review_count": "1,680 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-Four-Points-By-Sheraton-New-York-Downtown.h13400088.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754935&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=553248633429418894&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=279&top_cur=USD&userIntent=&selectedRoomType=220227888&selectedRatePlan=288100757&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=Four+Points+By+Sheraton+New+York+Downtown"
+  },
+  {
+    "name": "Radio City Apartments",
+    "location": "Theater District",
+    "price": "$329",
+    "rating": "8.8",
+    "star_rating": 5,
+    "review_count": "3,684 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-Radio-City-Apartments.h6842904.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754935&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6157019&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=329&top_cur=USD&userIntent=&selectedRoomType=200408987&selectedRatePlan=202379430&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=Radio+City+Apartments"
+  },
+  {
+    "name": "INNSiDE by Meli\u00e1 New York Nomad",
+    "location": "Chelsea",
+    "price": "$299",
+    "rating": "9.0",
+    "star_rating": 5,
+    "review_count": "2,033 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-INNSiDE-By-Melia-New-York-Nomad.h12627948.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754936&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6142489&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=299&top_cur=USD&userIntent=&selectedRoomType=201341871&selectedRatePlan=211358187&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=INNSiDE+by+Meli%C3%A1+New+York+Nomad"
+  },
+  {
+    "name": "TRYP by Wyndham New York City Times Square / Midtown",
+    "location": "New York",
+    "price": "$212",
+    "rating": "7.4",
+    "star_rating": 5,
+    "review_count": "1,647 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-TRYP-By-Wyndham-New-York-City-Times-Square-South.h4621019.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754936&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6141724&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=212&top_cur=USD&userIntent=&selectedRoomType=201345072&selectedRatePlan=381354267&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=TRYP+by+Wyndham+New+York+City+Times+Square+%2F+Midtown"
+  },
+  {
+    "name": "Pestana CR7 Times Square",
+    "location": "New York",
+    "price": "$272",
+    "rating": "8.8",
+    "star_rating": 5,
+    "review_count": "700 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-Pestana-CR7-Times-Square.h66871802.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754938&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6141724&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=272&top_cur=USD&userIntent=&selectedRoomType=314113344&selectedRatePlan=382414040&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=Pestana+CR7+Times+Square"
+  },
+  {
+    "name": "Radio Hotel",
+    "location": "New York",
+    "price": "$185",
+    "rating": "8.6",
+    "star_rating": 5,
+    "review_count": "1,918 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-Radio-Hotel.h73530346.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754938&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=171447&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=185&top_cur=USD&userIntent=&selectedRoomType=315906005&selectedRatePlan=385020037&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=Radio+Hotel"
+  },
+  {
+    "name": "The Pearl New York",
+    "location": "Theater District",
+    "price": "$369",
+    "rating": "9.4",
+    "star_rating": 5,
+    "review_count": "1,350 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-The-Pearl-New-York.h3933000.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754937&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6157019&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=369&top_cur=USD&userIntent=&selectedRoomType=200013089&selectedRatePlan=200059378&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=The+Pearl+New+York"
+  },
+  {
+    "name": "Margaritaville Resort Times Square",
+    "location": "Theater District",
+    "price": "$341",
+    "rating": "9.2",
+    "star_rating": 5,
+    "review_count": "3,779 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-Margaritaville-Resort-Times-Square.h66525849.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754937&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6157019&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=341&top_cur=USD&userIntent=&selectedRoomType=231047782&selectedRatePlan=396681753&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=Margaritaville+Resort+Times+Square"
+  },
+  {
+    "name": "Soho Grand Hotel",
+    "location": "SoHo",
+    "price": "$566",
+    "rating": "8.8",
+    "star_rating": 5,
+    "review_count": "1,018 reviews",
+    "page_link": "https://www.expedia.com/New-York-Hotels-Soho-Grand-Hotel.h41198.Hotel-Information?chkin=2024-09-04&chkout=2024-09-05&x_pwa=1&rfrr=HSR&pwa_ts=1724591754903&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6142503&latLong=40.75668%2C-73.98647&sort=RECOMMENDED&top_dp=566&top_cur=USD&userIntent=&selectedRoomType=320813518&selectedRatePlan=387276867&searchId=4599e4f9-35db-4bfe-935e-9bbb14fe37ce&propertyName=Soho+Grand+Hotel"
+  }
+]
